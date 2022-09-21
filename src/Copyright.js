@@ -10,6 +10,7 @@ export default function Copyright() {
         Pravin Singh
       </MuiLink>{' '}
       {new Date().getFullYear()}.{'(The website, not the information)'}
+      <p>This is a work-in-progress. Remaining Articles/Data are yet to be added.</p>
     </Typography>
   );
 }
