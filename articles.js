@@ -2540,6 +2540,222 @@ export const articlesArray = [
     articleDetails:
       'The remuneration and facilities of the Speaker and the Deputy Speaker of the House of Representatives, the Chairperson and the Vice-Chairperson of the National Assembly, chairpersons of the committees and members of the Federal Parliament shall be as provided for in the Federal law, and as specified by the Government of Nepal until such law is made.',
   },
+  {
+    part: 'NINE',
+    articleNumber: 109,
+    articleTitle: 'Legislative powers of Federal Parliament',
+    totalClauses: null,
+    articleDetails:
+      'The legislative powers of the Federal Parliament shall be as enumerated in the lists of Schedule-5, Schedule- 7 and Schedule-9.',
+  },
+  {
+    part: 'NINE',
+    articleNumber: 110,
+    articleTitle: 'Procedures for introduction of Bills',
+    totalClauses: 4,
+    clauseDetails: [
+      {
+        clauseNumber: 1,
+        clause:
+          'A Bill may, subject to this Constitution, be introduced in any House of the Federal Parliament.',
+        extraInfo:
+          'Provided that a Money Bill shall be introduced only in the House of Representatives.',
+      },
+      {
+        clauseNumber: 2,
+        clause:
+          'A Money Bill and a Bill concerning a security body including the Nepal Army, Nepal Police and Armed Police Force, Nepal shall be introduced only as a Government Bill.',
+      },
+      {
+        clauseNumber: 3,
+        clause: "'Money Bill' means a Bill concerning any or all of the following subjects:",
+        subClauses: [
+          {
+            label: 'A',
+            subClause:
+              'the imposition, collection, abolition, remission, alteration or regulation of taxes,',
+          },
+          {
+            label: 'B',
+            subClause:
+              'the preservation of the Federal Consolidated Fund or any other Federal Government Fund, the deposit of moneys into and the appropriation or the withdrawal of moneys from such Funds, or the reduction, increment or cancellation of appropriations or of proposed expenditures from such Funds,',
+          },
+          {
+            label: 'C',
+            subClause:
+              'the regulation of matters relating to the borrowing of money or the giving of guarantee by the Government of Nepal, or any matter pertaining to the amendment of the law with respect to any financial obligations undertaken or to be undertaken by the Government of Nepal,',
+          },
+          {
+            label: 'D',
+            subClause:
+              'the custody and investment of all revenues received by any Federal Government Fund, moneys acquired through the repayment of loans, and grant moneys, or accounts or audits of the accounts of the Government of Nepal, or',
+          },
+          {
+            label: 'E',
+            subClause:
+              'Other matters directly related to any of the subjects specified in clause (A), (B), (C) or (D).',
+            extraInfo:
+              'Provided that any Bill shall not be deemed to be a Money Bill by the reason only that it provides for the levying of any charges and fees such as license fee, application fee, renewal fee or for the imposition of fines or penalty of imprisonment.',
+          },
+        ],
+      },
+      {
+        clauseNumber: 4,
+        clause:
+          'If any question arises whether a Bill is a Money Bill or not, the decision of the Speaker thereon shall be final.',
+      },
+    ],
+  },
+  {
+    part: 'NINE',
+    articleNumber: 111,
+    articleTitle: 'Procedures for passage of Bills',
+    totalClauses: 10,
+    clauseDetails: [
+      {
+        clauseNumber: 1,
+        clause:
+          'A Bill passed by one House of the Federal Parliament shall be transmitted to the other House as soon as possible and such Bill, if passed by the receiving House, shall be presented to the President for assent.',
+      },
+      {
+        clauseNumber: 2,
+        clause:
+          'A Money Bill passed by the House of Representatives shall be transmitted to the National Assembly. The National Assembly shall, after deliberations on such Bill, send back the Bill to the House of Representatives within fifteen days from the date of receipt of the Bill, with suggestions, if any.',
+      },
+      {
+        clauseNumber: 3,
+        clause:
+          'The House of Representatives shall, upon deliberations on a Bill returned with suggestions under clause (2), present the Bill incorporating such suggestions as it may deem appropriate to the President for assent.',
+      },
+      {
+        clauseNumber: 4,
+        clause:
+          'If the National Assembly does not return a Money Bill received under clause (2) for more than fifteen days, the House of Representatives may present the Bill to the President for assent.',
+      },
+      {
+        clauseNumber: 5,
+        clause:
+          'Any Bill, except for a Money Bill, passed by the House of Representatives and transmitted to the National Assembly shall be returned with approval or suggestions within two months from the date of receipt. If the National Assembly does not return the Bill within that period, the House of Representatives may, by a resolution passed by a majority of the total number of its existing members, present the Bill to the President for assent.',
+      },
+      {
+        clauseNumber: 6,
+        clause:
+          'If any Bill, other than a Money Bill, passed by one House is rejected or is passed with amendments by the other House, the Bill shall be returned to the House where it originated.',
+      },
+      {
+        clauseNumber: 7,
+        clause:
+          'If the House of Representatives, in considering a Bill which has been rejected or amended by the National Assembly under clause (6), passes it again as it was or with amendments, by a majority of the total number of its existing members, the Bill shall be presented to the President for assent.',
+      },
+      {
+        clauseNumber: 8,
+        clause:
+          'If a Bill which has been returned with amendments by the House of Representatives to the National Assembly under clause (6) is also again passed, with such amendments, by a majority of the number of existing members of the National Assembly, the Bill shall be presented to the President for assent.',
+      },
+      {
+        clauseNumber: 9,
+        clause:
+          'The following Bills shall be referred to a joint sitting of the both Houses, and if the joint sitting passes the Bill as it was or with amendments, the House in which the Bill originated shall present it to the President for assent:',
+        subClauses: [
+          {
+            label: 'A',
+            subClause:
+              'Bills which, though passed by the National Assembly, have been rejected by the House of Representatives, or',
+          },
+          {
+            label: 'B',
+            subClause:
+              'Bills which have been returned to the National Assembly with amendments by the House of Representatives, but the National Assembly has not agreed on such amendments.',
+          },
+        ],
+      },
+      {
+        clauseNumber: 10,
+        clause:
+          'Even though the session of a House is prorogued while a Bill is under its consideration, deliberations on the Bill may continue at the succeeding session.',
+        extraInfo:
+          'Provided that if the House of Representatives is dissolved or its term expires when any Bill introduced in the House of Representatives is under its consideration or when any Bill passed by the House of Representatives is under consideration in the National Assembly, such Bill shall lapse.',
+      },
+    ],
+  },
+  {
+    part: 'NINE',
+    articleNumber: 112,
+    articleTitle: 'Withdrawal of Bills',
+    totalClauses: null,
+    articleDetails:
+      'One who has introduced a Bill may, with the approval of the House, withdraw the Bill.',
+  },
+  {
+    part: 'NINE',
+    articleNumber: 113,
+    articleTitle: 'Assent on Bills',
+    totalClauses: 5,
+    clauseDetails: [
+      {
+        clauseNumber: 1,
+        clause:
+          'A Bill which is to be submitted to the President for assent under Article 111 shall be so submitted by the Speaker or the Chairperson of the House in which the Bill originated after it has been certified by him or her.',
+        extraInfo: 'Provided that in the case of a Money Bill, the Speaker shall so certify.',
+      },
+      {
+        clauseNumber: 2,
+        clause:
+          'A Bill submitted to the President for his or her assent in accordance with this Article shall be assented to within fifteen days, both Houses shall be informed thereof as soon as possible.',
+      },
+      {
+        clauseNumber: 3,
+        clause:
+          'If the President is of the opinion that any Bill, except a Money Bill, submitted for assent needs reconsideration, he or she may, within fifty days from the date of presentation of such Bill, return the Bill with his or her message to the House in which the Bill originated.',
+      },
+      {
+        clauseNumber: 4,
+        clause:
+          'If any Bill is returned with a message by the President, and both Houses reconsider, passes such Bill as it was or with amendments and submit it again, the President shall give assent to that Bill within fifteen days of such submission.',
+      },
+      {
+        clauseNumber: 5,
+        clause: 'A Bill shall become an Act after the President gives assent to it.',
+      },
+    ],
+  },
+  {
+    part: 'NINE',
+    articleNumber: 114,
+    articleTitle: 'Provisions relating to Ordinance',
+    totalClauses: 2,
+    clauseDetails: [
+      {
+        clauseNumber: 1,
+        clause:
+          'If, at any time, except when both Houses of the Federal Parliament are in session, circumstances exist which render it necessary to take immediate action, the President may, on recommendation of the Council of Ministers, promulgate an Ordinance.',
+      },
+      {
+        clauseNumber: 2,
+        clause:
+          'An Ordinance promulgated under clause (1) shall have the same force and effect as an Act.',
+        extraInfo: 'Provided that every such Ordinance:',
+        subClauses: [
+          {
+            label: 'A',
+            subClause:
+              'shall be tabled at the session of both Houses of the Federal Parliament held after the promulgation, and if not passed by both Houses, it shall ipso facto cease to be effective,',
+          },
+          {
+            label: 'B',
+            subClause: 'may be repealed at any time by the President, and',
+          },
+          {
+            label: 'C',
+            subClause:
+              'shall, unless rendered ineffective or repealed under sub-clause (A) or (B), ipso facto cease to be effective at the expiration of sixty days after the day on which a meeting of both Houses is held.',
+          },
+        ],
+        explanation:
+          "For the purposes of this clause, 'day on which a meeting of both Houses is held' means the day on which a session or meeting of both Houses of the Federal Parliament commences or is held, and this term means the later day on which a meeting of the House is held if the Houses of the Federal Parliament meet on different dates.",
+      },
+    ],
+  },
 ];
 
 // Page 75

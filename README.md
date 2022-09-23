@@ -1,46 +1,29 @@
-# Next.js example
+## [Live Website](https://constitution-project.vercel.app/)
 
-## How to use
+## A personal project to make the Constitution of Nepal into a website.
 
-Download the example [or clone the repo](https://github.com/mui/material-ui):
+## The official pdf provides all the information about the laws of Nepal.
 
-<!-- #default-branch-switch -->
+## But going through 240 pages just to find "What are my rights as a citizen?" is not optimal.
 
-```sh
-curl https://codeload.github.com/mui/material-ui/tar.gz/master | tar -xz --strip=2  material-ui-master/examples/nextjs
-cd nextjs
-```
+## That is why I started this project. This also helps people to stay away from misinformation rabbithole,
 
-Install it and run:
+## portrayed by online medias.
 
-```sh
-npm install
-npm run dev
-```
+## This is still a work-in-progress and I do the best of my ability to keep updating
 
-or:
+## the information inside.
 
-<!-- #default-branch-switch -->
+## First Commit
 
-[![Edit on StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/mui/material-ui/tree/master/examples/nextjs)
+1. Pushed the site to github.
+2. Contains part 1 - 8 and articles upto 108.
 
-[![Edit on CodeSandbox](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/github/mui/material-ui/tree/master/examples/nextjs)
+## Second Commit
 
-## The idea behind the example
+1. Refactor some code into components folders.
+2. Added copyright info.
 
-The project uses [Next.js](https://github.com/vercel/next.js), which is a framework for server-rendered React apps.
-It includes `@mui/material` and its peer dependencies, including `emotion`, the default style engine in MUI v5.
-If you prefer, you can [use styled-components instead](https://mui.com/material-ui/guides/interoperability/#styled-components).
+## Third Commit
 
-## The link component
-
-Next.js has [a custom Link component](https://nextjs.org/docs/api-reference/next/link).
-The example folder provides adapters for usage with MUI.
-More information [in the documentation](https://mui.com/material-ui/guides/routing/#next-js).
-
-## What's next?
-
-<!-- #default-branch-switch -->
-
-You now have a working example project.
-You can head back to the documentation, continuing browsing it from the [templates](https://mui.com/material-ui/getting-started/templates/) section.
+1. Added part 9 - "Federal Legislative Procedures". Articles now upto 114.

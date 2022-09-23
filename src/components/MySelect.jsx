@@ -30,6 +30,7 @@ const MySelect = ({ currentPart, setCurrentPart }) => {
           <MenuItem value={'SIX'}>Part 6 - President and Vice-President</MenuItem>
           <MenuItem value={'SEVEN'}>Part 7 - Federal Executive</MenuItem>
           <MenuItem value={'EIGHT'}>Part 8 - Federal Legislature</MenuItem>
+          <MenuItem value={'NINE'}>Part 9 - Federal Legislative Procedures</MenuItem>
         </Select>
       </FormControl>
     </Box>

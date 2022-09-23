@@ -7,13 +7,13 @@ const SubClausesWithAddDetails = ({ clause }) => {
       <Typography sx={{ my: 1 }}>
         {clause.clauseNumber} {')'} {clause.clause}
       </Typography>
-      {clause.extraInfo ? <Typography sx={{ my: 1, mx: 4 }}>{clause.extraInfo}</Typography> : null}
       {clause.explanation ? (
         <Typography sx={{ display: 'flex', gap: 1, my: 1, mx: 3 }}>
           <Typography sx={{ textDecoration: 'underline' }}>Explanation: </Typography>
           {clause.explanation}
         </Typography>
       ) : null}
+      {clause.extraInfo ? <Typography sx={{ my: 1, mx: 4 }}>{clause.extraInfo}</Typography> : null}
       {clause.subClauses.map((subClause) => (
         <Box sx={{ mx: 4, textAlign: 'left' }}>
           <Typography>
