@@ -8,7 +8,7 @@
 
 ## That is why I started this project. This also helps people to stay away from misinformation rabbithole,
 
-## portrayed by online medias.
+## portrayed by online medias, influencers and people with agendas.
 
 ## This is still a work-in-progress and I do the best of my ability to keep updating
 
@@ -27,3 +27,11 @@
 ## Third Commit
 
 1. Added part 9 - "Federal Legislative Procedures". Articles now upto 114.
+
+## Oct 27, 2022 Commit
+
+1. Refactor components to deal with odd structured articles that don't follow patterns like the rest. Like Article 48, 51, 91.
+2. Added missing informations on some articles.
+3. Data now comes from json file instead from js file.
+4. Added "Arima Madurai" font. Added hover effect on Articles Accordion.
+5. Yet to refactor the single Accordion components into individual components.
