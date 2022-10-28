@@ -1,18 +1,18 @@
-## [Live Website](https://constitution-project.vercel.app/)
+## [Live Website Here](https://constitution-project.vercel.app/)
 
-## A personal project to make the Constitution of Nepal into a website.
+A personal project to make the Constitution of Nepal into a website.
 
-## The official pdf provides all the information about the laws of Nepal.
+The official pdf provides all the information about the Constitution of Nepal.
 
-## But going through 240 pages just to find "What are my rights as a citizen?" is not optimal.
+But, going through 240 pages just to find "What are my rights as a citizen?" is not optimal.
 
-## That is why I started this project. This also helps people to stay away from misinformation rabbithole,
+That is why I started this project. This also helps people to stay away from misinformation rabbithole,
 
-## portrayed by online medias, influencers and people with agendas.
+portrayed by online medias, influencers and people with agendas.
 
-## This is still a work-in-progress and I do the best of my ability to keep updating
+This is still a work-in-progress and I do the best of my ability to keep updating
 
-## the information inside.
+the information inside.
 
 ## First Commit
 
@@ -35,3 +35,7 @@
 3. Data now comes from json file instead from js file.
 4. Added "Arima Madurai" font. Added hover effect on Articles Accordion.
 5. Yet to refactor the single Accordion components into individual components.
+
+## Oct 28, 2022 Commmit
+
+1. Added Part 10(A115-A125) and Part 11(A126-A156).

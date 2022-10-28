@@ -2780,5 +2780,924 @@
         ]
       }
     ]
+  },
+  {
+    "part": "PartTen",
+    "articleNumber": 115,
+    "articleTitle": "No tax to be levied or loan to be raised",
+    "clauses": [
+      {
+        "clauseNumber": 1,
+        "clauseDescription": "No tax shall be levied and collected except in accordance with law."
+      },
+      {
+        "clauseNumber": 2,
+        "clauseDescription": "No loan shall be raised and guarantee given by the Government of Nepal except as provided for in the Federal law."
+      }
+    ]
+  },
+  {
+    "part": "PartTen",
+    "articleNumber": 116,
+    "articleTitle": "Federal Consolidated Fund",
+    "articleDescription": "Except for the revenues of trusts (Guthi), all revenues received by the Government of Nepal, all loans raised on the security of revenues, all amounts received in repayment of any loans made under the authority of any Act and any other moneys received by the Government of Nepal shall, except as otherwise provided by a Federal Act, be credited to a Government Fund to be known as the Federal Consolidated Fund."
+  },
+  {
+    "part": "PartTen",
+    "articleNumber": 117,
+    "articleTitle": "Expenditures from Consolidated Fund or Government Fund",
+    "articleDescription": "No expenditure shall be incurred out of the Federal Consolidated Fund or any other Federal Government Fund except the following:",
+    "clauses": [
+      {
+        "clauseNumber": "A",
+        "clauseDescription": "moneys charged on the Federal Consolidated Fund,"
+      },
+      {
+        "clauseNumber": "B",
+        "clauseDescription": "moneys required to meet the expenditure under a Federal Appropriation Act,"
+      },
+      {
+        "clauseNumber": "C",
+        "clauseDescription": "advance moneys authorized by a Federal Act required to meet expenditures, when an Appropriation Bill is under consideration, or"
+      },
+      {
+        "clauseNumber": "D",
+        "clauseDescription": "expenditures to be incurred in extraordinary circumstances under a Federal Vote of Credit Act which contains only a description of expenditures.",
+        "clauseExtraInfo": "Provided that matters relating to the Federal Contingency Fund shall be governed by Article 124."
+      }
+    ]
+  },
+  {
+    "part": "PartTen",
+    "articleNumber": 118,
+    "articleTitle": "Expenditures chargeable on Federal Consolidated Fund",
+    "articleDescription": "The expenditures relating to the following matters shall be charged on the Federal Consolidated Fund, and approval of the Federal Parliament shall not be required for such expenditures:",
+    "clauses": [
+      {
+        "clauseNumber": "A",
+        "clauseDescription": "the amount required as remuneration and facilities of the President and the Vice-president,"
+      },
+      {
+        "clauseNumber": "B",
+        "clauseDescription": "the amount required as remuneration and facilities payable to the Chief Justice of Nepal, Judges of the Supreme Court, and members of the Judicial Council,"
+      },
+      {
+        "clauseNumber": "C",
+        "clauseDescription": "the amount required as remuneration and facilities payable to the Speaker and the Deputy Speaker of the House of Representatives, and the Chairperson and the Vice Chairperson of the National Assembly,"
+      },
+      {
+        "clauseNumber": "D",
+        "clauseDescription": "the amount required as remuneration and facilities payable to the chiefs and officials of the Constitutional Bodies,"
+      },
+      {
+        "clauseNumber": "E",
+        "clauseDescription": "the amount required as remuneration and facilities of the Chiefs of States,"
+      },
+      {
+        "clauseNumber": "F",
+        "clauseDescription": "the administrative expenses of the Office of the President or the Vice President, the Supreme Court, the Judicial Council, the Constitutional Bodies, and the offices of Chiefs of States,"
+      },
+      {
+        "clauseNumber": "G",
+        "clauseDescription": "all charges relating to debts for which the Government of Nepal is liable,"
+      },
+      {
+        "clauseNumber": "H",
+        "clauseDescription": "any sum required to satisfy any judgment or decree made by a court against the Government of Nepal, and"
+      },
+      {
+        "clauseNumber": "I",
+        "clauseDescription": "any other sum to be chargeable by the Federal law on the Federal Consolidated Fund."
+      }
+    ]
+  },
+  {
+    "part": "PartTen",
+    "articleNumber": 119,
+    "articleTitle": "Estimates of revenues and expenditures",
+    "clauses": [
+      {
+        "clauseNumber": 1,
+        "clauseDescription": "The Minister for Finance of the Government of Nepal shall, in respect of every financial year, lay before the joint sitting of both Houses of the Federal Parliament an annual estimate setting out, inter alia, the following matters:",
+        "subClauses": [
+          {
+            "subClauseLabel": "A",
+            "subClauseDescription": "an estimate of revenues,"
+          },
+          {
+            "subClauseLabel": "B",
+            "subClauseDescription": "the moneys required to meet the charges on the Federal Consolidated Fund, and"
+          },
+          {
+            "subClauseLabel": "C",
+            "subClauseDescription": "the moneys required to meet the expenditure to be provided for by a Federal Appropriation Act."
+          }
+        ]
+      },
+      {
+        "clauseNumber": 2,
+        "clauseDescription": "The annual estimate to be laid pursuant to clause (1) shall also be accompanied by a statement of the expenses allocated to every Ministry in the previous financial year and particulars of whether the objectives of the expenses have been achieved."
+      },
+      {
+        "clauseNumber": 3,
+        "clauseDescription": "The Minister for Finance of the Government of Nepal shall lay before the Federal Parliament an estimate of revenues and expenditures under clause (1) on the 15th day of Jesta (mid May) each year."
+      }
+    ]
+  },
+  {
+    "part": "PartTen",
+    "articleNumber": 120,
+    "articleTitle": "Appropriation Act",
+    "articleDescription": "The moneys to be spent under an Appropriation Act shall be specified under concerned heads in an Appropriation Bill."
+  },
+  {
+    "part": "PartTen",
+    "articleNumber": 121,
+    "articleTitle": "Supplementary estimates",
+    "clauses": [
+      {
+        "clauseNumber": 1,
+        "clauseDescription": "The Minister for Finance of the Government of Nepal may lay before the House of Representatives a supplementary estimate if it is found in any financial year,-",
+        "subClauses": [
+          {
+            "subClauseLabel": "A",
+            "subClauseDescription": "that the sum authorized to be spent for a particular service by the Appropriation Act for the current financial year is insufficient, or that a need has arisen for expenditures on some new service not provided for by the Appropriation Act for that year, or"
+          },
+          {
+            "subClauseLabel": "B",
+            "subClauseDescription": "that the expenditures made during that financial year are in excess of the amount authorized by the Appropriation Act."
+          }
+        ]
+      },
+      {
+        "clauseNumber": 2,
+        "clauseDescription": "The sums included in the supplementary estimate shall be specified under the related heads in a Supplementary Appropriation Bill."
+      }
+    ]
+  },
+  {
+    "part": "PartTen",
+    "articleNumber": 122,
+    "articleTitle": "Votes on account",
+    "clauses": [
+      {
+        "clauseNumber": 1,
+        "clauseDescription": "Notwithstanding anything contained elsewhere in this Part, a portion of the expenditure estimated for the financial year may, when an Appropriation Bill is under consideration, be incurred in advance, as provided for in the Federal Act."
+      },
+      {
+        "clauseNumber": 2,
+        "clauseDescription": "A Vote on Account Bill shall not be introduced until the estimates of revenues and expenditures have been laid in accordance with Article 119, and the sums involved in the Vote on Account shall not exceed one-third of the estimate of expenditures for the financial year."
+      },
+      {
+        "clauseNumber": 3,
+        "clauseDescription": "The expenditures incurred in accordance with the Federal Vote on Account Act shall be included in the Appropriation Bill."
+      }
+    ]
+  },
+  {
+    "part": "PartTen",
+    "articleNumber": 123,
+    "articleTitle": "Votes of credit",
+    "articleDescription": "Notwithstanding anything contained elsewhere in this Part, if owing to an emergency due to either natural causes or a threat of external aggression or internal disturbances or other reasons, it appears to be impractical or inexpedient in view of the security or interest of the country to specify the details required under Article 119, the Minister for Finance of the Government of Nepal may lay before the House of Representatives a Vote of Credit Bill giving only a statement of expenditures."
+  },
+  {
+    "part": "PartTen",
+    "articleNumber": 124,
+    "articleTitle": "Federal contingency fund",
+    "clauses": [
+      {
+        "clauseNumber": 1,
+        "clauseDescription": "A Federal Act may create a fund to be known as the contingency fund into which such moneys as may be determined by the Federal Act shall be paid from time to time."
+      },
+      {
+        "clauseNumber": 2,
+        "clauseDescription": "The Government of Nepal shall control the fund under clause (1), and may meet any unforeseen expenditure out of such fund."
+      },
+      {
+        "clauseNumber": 3,
+        "clauseDescription": "The amount of the expenditure under clause (2) shall be reimbursed as soon as possible as provided for in the Federal Act."
+      }
+    ]
+  },
+  {
+    "part": "PartTen",
+    "articleNumber": 125,
+    "articleTitle": "Act relating to financial procedures",
+    "articleDescription": "Matters relating to the transfer of moneys appropriated by the Federal Act from one head to another and other financial procedures shall be as provided for in the Federal Act."
+  },
+  {
+    "part": "PartEleven",
+    "articleNumber": 126,
+    "articleTitle": "Courts to exercise powers relating to justice",
+    "clauses": [
+      {
+        "clauseNumber": 1,
+        "clauseDescription": "Powers relating to justice in Nepal shall be exercised by courts and other judicial bodies in accordance with this Constitution, other laws and the recognized principles of justice."
+      },
+      {
+        "clauseNumber": 2,
+        "clauseDescription": "All shall abide by the orders or decisions made in the course of trial of lawsuits by the courts."
+      }
+    ]
+  },
+  {
+    "part": "PartEleven",
+    "articleNumber": 127,
+    "articleTitle": "Courts",
+    "clauses": [
+      {
+        "clauseNumber": 1,
+        "clauseDescription": "There shall be the following courts in Nepal:",
+        "subClauses": [
+          {
+            "subClauseLabel": "A",
+            "subClauseDescription": "Supreme Court,"
+          },
+          {
+            "subClauseLabel": "B",
+            "subClauseDescription": "High Court, and"
+          },
+          {
+            "subClauseLabel": "C",
+            "subClauseDescription": "District Court."
+          }
+        ]
+      },
+      {
+        "clauseNumber": 2,
+        "clauseDescription": "In addition to the courts under clause (1), judicial bodies may be formed at the Local level to try cases under law or other bodies as required may be formed to pursue alternative dispute settlement methods."
+      }
+    ]
+  },
+  {
+    "part": "PartEleven",
+    "articleNumber": 128,
+    "articleTitle": "Supreme Court",
+    "clauses": [
+      {
+        "clauseNumber": 1,
+        "clauseDescription": "There shall be a Supreme Court in Nepal."
+      },
+      {
+        "clauseNumber": 2,
+        "clauseDescription": "The Supreme Court shall be a court of record. All courts and judicial bodies shall, except as otherwise provided in this Constitution, be under the Supreme Court. The Supreme Court shall have the final authority to interpret this Constitution and laws."
+      },
+      {
+        "clauseNumber": 3,
+        "clauseDescription": "The Supreme Court may inspect, supervise and give necessary directives to, it and courts, specialized courts or other judicial bodies under its jurisdiction, in relation to matters relating to judicial administration or management."
+      },
+      {
+        "clauseNumber": 4,
+        "clauseDescription": "All must abide by any interpretation of the Constitution or a law made by or any legal principle laid down by the Supreme Court in the course of trying a lawsuit. If anyone makes obstruction in the dispensation of justice by, or disregard any order or judgment handed down by, it or any of its subordinate courts, the Supreme Court may, in accordance with law, initiate proceedings and impose punishment for contempt."
+      }
+    ]
+  },
+  {
+    "part": "PartEleven",
+    "articleNumber": 129,
+    "articleTitle": "Appointment and qualification of Chief Justice of Nepal and Judges of Supreme Court",
+    "clauses": [
+      {
+        "clauseNumber": 1,
+        "clauseDescription": "The Supreme Court shall consist of a maximum of twenty Judges, in addition to the Chief Justice of Nepal."
+      },
+      {
+        "clauseNumber": 2,
+        "clauseDescription": "The President shall appoint the Chief Justice, on recommendation of the Constitutional Council, and other Judges of the Supreme Court, on recommendation of the Judicial Council."
+      },
+      {
+        "clauseNumber": 3,
+        "clauseDescription": "Any person who has served as a Judge of the Supreme Court for at least three years shall be qualified for appointment as the Chief Justice."
+      },
+      {
+        "clauseNumber": 4,
+        "clauseDescription": "The term of office of the Chief Justice shall be six years."
+      },
+      {
+        "clauseNumber": 5,
+        "clauseDescription": "Any citizen of Nepal who has obtained a bachelor's degree in law and served as the Chief Judge or a Judge of a High Court for at least five years or who has obtained a bachelor's degree in law and constantly practiced law as a senior advocate or advocate for at least fifteen years or who is a distinguished jurist having constantly worked for at least fifteen years in the judicial or legal field or who has served in the post of Gazetted first class or a higher post of the Judicial Service for at least twelve years shall be deemed qualified for appointment as a Judge of the Supreme Court.",
+        "clauseExplanation": "The period during which one has served as the Chief Judge or Judge of an Appellate Court prior to the commencement of this Constitution shall, for the purposes of this clause, be deemed to be the period of service in the capacity of the Chief Judge or Judge of the High Court."
+      },
+      {
+        "clauseNumber": 6,
+        "clauseDescription": "If the office of the Chief Justice falls vacant or the Chief Justice is unable to carry out the duties of his or her office by reason of illness or otherwise or he or she cannot be present in the Supreme Court by reason of a leave of absence or his or her being outside of Nepal, the senior-most Judge of the Supreme Court shall act as the Acting Chief Justice."
+      }
+    ]
+  },
+  {
+    "part": "PartEleven",
+    "articleNumber": 130,
+    "articleTitle": "Conditions of service and facilities of Chief Justice and Judges",
+    "clauses": [
+      {
+        "clauseNumber": 1,
+        "clauseDescription": "If the Chief Justice or a Judge of the Supreme Court who has served for at least five years resigns or undergoes compulsory retirement or dies, he or she shall be entitled to such pension as may be provided for in the Federal law."
+      },
+      {
+        "clauseNumber": 2,
+        "clauseDescription": "Except as otherwise provided in this Constitution, the remuneration and other conditions of service of the Chief Justice and Judges of the Supreme Court shall be provided for in the Federal law."
+      },
+      {
+        "clauseNumber": 3,
+        "clauseDescription": "Notwithstanding anything contained in clauses (1) and (2), the Chief Justice or a Judge of the Supreme Court who has been removed from office by way of impeachment or who has been punished by a court for a criminal offence involving moral turpitude shall not be entitled to gratuity or pension."
+      },
+      {
+        "clauseNumber": 4,
+        "clauseDescription": "The remuneration and other conditions of service of the Chief Justice or a Judge of the Supreme Court shall not be altered to his or her disadvantage.",
+        "clauseExtraInfo": "Provided that this provision shall not apply in cases where a state of emergency is declared because of extreme economic disarrays."
+      }
+    ]
+  },
+  {
+    "part": "PartEleven",
+    "articleNumber": 131,
+    "articleTitle": "Vacation of office of Chief Justice or Judge of Supreme Court",
+    "articleDescription": "The office of the Chief Justice or a Judge of the Supreme Court shall be vacant in any of the following circumstances:",
+    "clauses": [
+      {
+        "clauseNumber": "A",
+        "clauseDescription": "if he or she tenders resignation in writing before the President,"
+      },
+      {
+        "clauseNumber": "B",
+        "clauseDescription": "if he or she attains the age of sixty-five years,"
+      },
+      {
+        "clauseNumber": "C",
+        "clauseDescription": "if a motion of impeachment is passed against him or her under Article 101,"
+      },
+      {
+        "clauseNumber": "D",
+        "clauseDescription": "if the President removes from office the Chief Justice, on recommendation of the Constitutional Council, and the Judge of the Supreme Court, on recommendation of the Judicial Council, on the ground that he or she is unable to discharge his or her duties because of physical or mental illness,"
+      },
+      {
+        "clauseNumber": "E",
+        "clauseDescription": "if he or she is punished by a court for a criminal offence involving moral turpitude,"
+      },
+      {
+        "clauseNumber": "F",
+        "clauseDescription": "if he or she dies."
+      }
+    ]
+  },
+  {
+    "part": "PartEleven",
+    "articleNumber": 132,
+    "articleTitle": "Chief Justice and Judges of Supreme Court not to be engaged in any other office",
+    "clauses": [
+      {
+        "clauseNumber": 1,
+        "clauseDescription": "No Chief Justice or Judge of the Supreme Court shall be engaged in or deputed to any office other than that of Judge.",
+        "clauseExtraInfo": "Provided that the Government of Nepal may, in consultation with the Judicial Council, depute a Judge of the Supreme Court to work concerning judicial inquiry, or to legal or judicial investigation or research for a specified period."
+      },
+      {
+        "clauseNumber": 2,
+        "clauseDescription": "No person who has once held the office of Chief Justice or a Judge of the Supreme Court shall be eligible for appointment to any government office, except as otherwise provided in this Constitution."
+      }
+    ]
+  },
+  {
+    "part": "PartEleven",
+    "articleNumber": 133,
+    "articleTitle": "Jurisdiction of Supreme Court",
+    "clauses": [
+      {
+        "clauseNumber": 1,
+        "clauseDescription": "Any citizen of Nepal may file a petition in the Supreme Court to have any law or any part thereof declared void on the ground of inconsistency with this Constitution because it imposes an unreasonable restriction on the enjoyment of any fundamental right conferred by this Constitution or on any other ground, or to have any law or any part thereof made by a State Assembly declared void because it is inconsistent with any law made by the Federal Parliament or to have any law or any part thereof made by a Municipal Assembly or Village Assembly declared void because it is inconsistent with a law made by the Federal Parliament or the State Assembly, and the Supreme Court shall have an extra-ordinary power to declare that law to be void either ab initio or from the date of its decision if the law appears to be so inconsistent."
+      },
+      {
+        "clauseNumber": 2,
+        "clauseDescription": "The Supreme Court shall, for the enforcement of the fundamental rights conferred by this Constitution or of any other legal right for which no other remedy has been provided or for which the remedy even though provided appears to be inadequate or ineffective or for the settlement of any constitutional or legal question involved in any dispute of public interest or concern, have the extraordinary power to issue necessary and appropriate orders, provide appropriate remedies, enforce such right or settle such dispute."
+      },
+      {
+        "clauseNumber": 3,
+        "clauseDescription": "Under the extra-ordinary jurisdiction under clause (2), the Supreme Court may issue appropriate orders and writs including the writs of habeas corpus, mandamus, certiorari, prohibition and quo warranto.",
+        "clauseExtraInfo": "Provided that except on the ground of lack of jurisdiction, the Supreme Court shall not under this clause interfere with any internal proceedings of the Federal Parliament or State Assembly, and with any proceedings instituted by the Federal Parliament or State Assembly concerning violation of its privileges and penalties imposed therefor."
+      },
+      {
+        "clauseNumber": 4,
+        "clauseDescription": "Subject to this Constitution, the Supreme Court shall, as provided in a Federal law, have the power to originally try and settle cases, hear appeals, test judgments referred for confirmation, revise cases, hear petitions or review its judgments or final orders. Judges other than those having handed down the previous judgment shall make such review."
+      },
+      {
+        "clauseNumber": 5,
+        "clauseDescription": "The Supreme Court shall settle appeals from cases originally tried and settled by a High Court and matters of public importance involving questions of interpretation of the Constitution and law or cases recommended by a High Court, accompanied by its opinion, that it is reasonable that decision be made by the Supreme Court."
+      },
+      {
+        "clauseNumber": 6,
+        "clauseDescription": "Other powers and procedures of the Supreme Court shall be as provided for in the Federal law."
+      }
+    ]
+  },
+  {
+    "part": "PartEleven",
+    "articleNumber": 134,
+    "articleTitle": "Power to transfer of cases",
+    "clauses": [
+      {
+        "clauseNumber": 1,
+        "clauseDescription": "If cases which involve substantially the same questions are sub judice before the Supreme Court and a High Court, and the Supreme Court is satisfied on its own or on application by the Attorney General or parties to such cases that such questions are of public importance, the Supreme Court shall have the power to procure and adjudge the cases together."
+      },
+      {
+        "clauseNumber": 2,
+        "clauseDescription": "If there exists a special situation where judicial impartiality can be questioned if a case filed in a High Court is tried by that Court, the Supreme Court may, for reasons and grounds to be recorded, order such case to be transferred from such High Court to another High Court and tried by the latter High Court, in accordance with law."
+      }
+    ]
+  },
+  {
+    "part": "PartEleven",
+    "articleNumber": 135,
+    "articleTitle": "Not to be engaged in practice of law",
+    "articleDescription": "No Chief Justice or Judge of the Supreme Court may, after retirement from service, be engaged in the practice of law, mediation or arbitration proceedings before any office or court."
+  },
+  {
+    "part": "PartEleven",
+    "articleNumber": 136,
+    "articleTitle": "Responsibility of Chief Justice",
+    "articleDescription": "The Chief Justice shall have the ultimate responsibility to make effective the administration of justice by the Supreme Court, subordinate courts, specialized courts or other judicial bodies."
+  },
+  {
+    "part": "PartEleven",
+    "articleNumber": 137,
+    "articleTitle": "Formation of Constitutional Bench",
+    "clauses": [
+      {
+        "clauseNumber": 1,
+        "clauseDescription": "There shall be a Constitutional Bench in the Supreme Court. The Constitutional Bench shall consist of the Chief Justice and other four Judges designated by the Chief Justice on recommendation of the Judicial Council."
+      },
+      {
+        "clauseNumber": 2,
+        "clauseDescription": "The Bench under clause (1) shall originally try and settle the following cases, in addition to the petitions filed in accordance with clause (1) of Article 133:",
+        "subClauses": [
+          {
+            "subClauseLabel": "A",
+            "subClauseDescription": "Disputes relating to jurisdiction between the Federation and a State, between States, between a State and a Local level and between Local levels,"
+          },
+          {
+            "subClauseLabel": "B",
+            "subClauseDescription": "Disputes relating to election to members of the Federal Parliament or State Assembly and matters relating to disqualification of a member of the Federal Parliament or of the State Assembly."
+          }
+        ]
+      },
+      {
+        "clauseNumber": 3,
+        "clauseDescription": "Notwithstanding anything contained in Article 133, if it appears that any case sub judice in the Supreme Court involves a question of serious constitutional interpretation, the Chief Justice may appoint such case to be tried by the Bench under clause (1)."
+      },
+      {
+        "clauseNumber": 4,
+        "clauseDescription": "Other provisions relating to the functioning of the Constitutional Bench shall be as determined by the Supreme Court."
+      }
+    ]
+  },
+  {
+    "part": "PartEleven",
+    "articleNumber": 138,
+    "articleTitle": "Annual report",
+    "clauses": [
+      {
+        "clauseNumber": 1,
+        "clauseDescription": "The Supreme Court, Judicial Council and Judicial Service Commission shall, every year, submit annual reports to the President, and the President shall submit such reports to the Federal Parliament through the Prime Minister."
+      },
+      {
+        "clauseNumber": 2,
+        "clauseDescription": "If the Federal Parliament, upon deliberating on the annual reports submitted under clause (1), deems it necessary to give any suggestion, it may give such suggestion to the concerned body through the Government of Nepal, Ministry of Law and Justice."
+      },
+      {
+        "clauseNumber": 3,
+        "clauseDescription": "Other provisions relating to annual reports under clause (1) shall be as provided for in the Federal law."
+      }
+    ]
+  },
+  {
+    "part": "PartEleven",
+    "articleNumber": 139,
+    "articleTitle": "High Courts",
+    "clauses": [
+      {
+        "clauseNumber": 1,
+        "clauseDescription": "There shall be a High Court in each State."
+      },
+      {
+        "clauseNumber": 2,
+        "clauseDescription": "If anyone makes obstruction in the dispensation of justice by, or disregard any order or judgment handed down by, it or any of its subordinate courts or judicial bodies, the High Court may initiate proceedings on and impose punishment for contempt, as provided for in the Federal law."
+      },
+      {
+        "clauseNumber": 3,
+        "clauseDescription": "Each High Court shall consist of such number of Judges, in addition to the Chief Judge, as provided for in the Federal law."
+      }
+    ]
+  },
+  {
+    "part": "PartEleven",
+    "articleNumber": 140,
+    "articleTitle": "Appointment and qualification of Chief Judge and Judges of High Court",
+    "clauses": [
+      {
+        "clauseNumber": 1,
+        "clauseDescription": "The Chief Justice shall, on recommendation of the Judicial Council, appoint the Chief Judge and Judges of the High Court."
+      },
+      {
+        "clauseNumber": 2,
+        "clauseDescription": "Any citizen of Nepal who has obtained a bachelor's degree in law and served as a Judge of a District Court for at least five years or who has obtained a bachelor's degree in law and constantly practiced law as a senior advocate or advocate for at least ten years or who has constantly been engaged in the teaching or research of law or in any other field relation to law or justice for at least ten years or who has served in the post of at least Gazetted first class of the Judicial Service for at least five years shall be deemed qualified for appointment as the Chief Judge or a Judge of the High Court."
+      },
+      {
+        "clauseNumber": 3,
+        "clauseDescription": "Appointments to the Chief Judge and Judges of a High Court shall be made from amongst the persons who have possessed the qualification under clause (2) on the basis of the proportion of cases settled by him or her annually and of evaluation of cases upheld, quashed or reversed by superior courts in the course of final decision thereof, in the case of a District Judge, and of his or her seniority, qualification and evaluation of standard of performance of business, in the case of a person who has served in the post of at least Gazetted first class of the Judicial Service, and of evaluation of seniority, professional continuity, honesty, professional conduct and contribution made to the field of law and justice, in the case of others."
+      },
+      {
+        "clauseNumber": 4,
+        "clauseDescription": "If the office of the Chief Judge falls vacant or the Chief Judge is otherwise unable to carry out the duties of his or her office or cannot be present in the High Court by reason of a leave of absence or his or her being outside of the State, the senior-most Judge of the High Court shall act as the Acting Chief Judge."
+      }
+    ]
+  },
+  {
+    "part": "PartEleven",
+    "articleNumber": 141,
+    "articleTitle": "Conditions of service and facilities of Chief Judge and Judges",
+    "clauses": [
+      {
+        "clauseNumber": 1,
+        "clauseDescription": "Except as otherwise provided in this Constitution, the remuneration and other conditions of service of the Chief Judge and Judges of the High Court shall be provided for in the Federal law."
+      },
+      {
+        "clauseNumber": 2,
+        "clauseDescription": "Notwithstanding anything contained in clause (1), the Chief Judge or a Judge of a High Court who has been removed from office upon action by the Judicial Council or upon punishment by a court for a criminal offence involving moral turpitude shall not be entitled to gratuity or pension.",
+        "clauseExtraInfo": "Provided that this provision shall not apply in cases where the Judicial Council has removed him or her from office on the ground of inability to perform the duties of his or her office because of physical or mental illness."
+      },
+      {
+        "clauseNumber": 3,
+        "clauseDescription": "The remuneration and other conditions of service of the Chief Judge or a Judge of the High Court shall not be altered to his or her disadvantage.",
+        "clauseExtraInfo": "Provided that this provision shall not apply in cases where a state of emergency is declared because of extreme economic disarrays."
+      }
+    ]
+  },
+  {
+    "part": "PartEleven",
+    "articleNumber": 142,
+    "articleTitle": "Vacation of office of Chief Judge or Judge",
+    "clauses": [
+      {
+        "clauseNumber": 1,
+        "clauseDescription": "The office of Chief Judge or Judge of a High Court shall be vacant in any of the following circumstances:",
+        "subClauses": [
+          {
+            "subClauseLabel": "A",
+            "subClauseDescription": "if he or she tenders resignation in writing before the Chief Justice,"
+          },
+          {
+            "subClauseLabel": "B",
+            "subClauseDescription": "if he or she attains the age of sixty-three years,"
+          },
+          {
+            "subClauseLabel": "C",
+            "subClauseDescription": "if he or she is removed from office by the Chief Justice on recommendation of the Judicial Council, on the ground of his or her incompetence, bad conduct, failure to perform his or her duties honestly, performance of business with mala fide intention or serious violation by him or her of the code of conduct required to be observed by him or her,"
+          },
+          {
+            "subClauseLabel": "D",
+            "subClauseDescription": "if he or she is removed from office by the Chief Justice on recommendation of the Judicial Council on the ground that he or she is unable to discharge his or her duties because of physical or mental illness,"
+          },
+          {
+            "subClauseLabel": "E",
+            "subClauseDescription": "if he or she is punished by a court for a criminal offence involving moral turpitude,"
+          },
+          {
+            "subClauseLabel": "F",
+            "subClauseDescription": "if he or she dies."
+          }
+        ]
+      },
+      {
+        "clauseNumber": 2,
+        "clauseDescription": "A Judge who is facing a charge shall be provided with a reasonable opportunity to defend himself or herself prior to removing him or her from the office under sub-clause (3) of clause (1). The Judge against whom the proceedings have been so instituted shall not be allowed to perform the duties of his or her office until the proceedings are completed."
+      },
+      {
+        "clauseNumber": 3,
+        "clauseDescription": "Nothing shall bar the institution of action in accordance with the Federal law against the Chief Judge or Judge who has been removed from office for an offence which he or she has committed while in office."
+      }
+    ]
+  },
+  {
+    "part": "PartEleven",
+    "articleNumber": 143,
+    "articleTitle": "Chief Judge and Judges not to be engaged in any other office and provisions relating to transfer",
+    "clauses": [
+      {
+        "clauseNumber": 1,
+        "clauseDescription": "No Chief Judge or Judge of a High Court shall be engaged in or deputed to any office other than that of Judge.",
+        "clauseExtraInfo": "Provided that the Government of Nepal may, in consultation with the Judicial Council, depute a Judge of the High Court to work concerning judicial inquiry, or to legal or judicial investigation or research or to any business of national concern for any specific period."
+      },
+      {
+        "clauseNumber": 2,
+        "clauseDescription": "The Chief Justice may, on recommendation of the Judicial Council, transfer a Judge of a High Court to another High Court."
+      }
+    ]
+  },
+  {
+    "part": "PartEleven",
+    "articleNumber": 144,
+    "articleTitle": "Jurisdiction of High Court",
+    "clauses": [
+      {
+        "clauseNumber": 1,
+        "clauseDescription": "The High Court shall have the power to issue necessary and appropriate orders, for the enforcement of the fundamental rights conferred by this Constitution or for the enforcement of any other legal right for which no other remedy has been provided or for which the remedy even though provided appears to be inadequate or ineffective or for the settlement of any legal question involved in any dispute of public interest or concern,"
+      },
+      {
+        "clauseNumber": 2,
+        "clauseDescription": "For the purposes of clause (1), the High Court may issue appropriate orders and writs including the writs of habeas corpus, mandamus, certiorari, prohibition and quo warranto.",
+        "clauseExtraInfo": "Provided that except on the ground of absence of jurisdiction, the High Court shall not under this clause interfere with any internal proceedings of the Federal Parliament or State Assembly, and with any proceedings instituted by the Federal Parliament or State Assembly concerning violation of its privileges and penalties imposed therefor."
+      },
+      {
+        "clauseNumber": 3,
+        "clauseDescription": "The High Court shall, in accordance with the Federal law, have the power to originally try and settle cases, hear appeals and test judgments referred for confirmation."
+      },
+      {
+        "clauseNumber": 4,
+        "clauseDescription": "Other powers and procedures of the High Court shall be as provided by the Federal law."
+      }
+    ]
+  },
+  {
+    "part": "PartEleven",
+    "articleNumber": 145,
+    "articleTitle": "Power to transfer cases",
+    "clauses": [
+      {
+        "clauseNumber": 1,
+        "clauseDescription": "If a High Court is of the opinion that a case which is sub judice in a subordinate court within its jurisdiction involves a question relating to a State law and it is essential to settle that question in order to decide the case, the High Court may procure the case and dispose the case wholly or decide only such question and remand the case to the court of first instance."
+      },
+      {
+        "clauseNumber": 2,
+        "clauseDescription": "If it is satisfied with the reason that there exists a situation where judicial impartiality can be questioned if a case filed in a District Court is tried by that Court, the High Court may, for reasons and grounds to be recorded, order such case to be transferred from such District Court to another District Court under its jurisdiction and tried by the latter District Court, as provided for in the Federal law."
+      }
+    ]
+  },
+  {
+    "part": "PartEleven",
+    "articleNumber": 146,
+    "articleTitle": "To be engaged in practice of law",
+    "articleDescription": "A person who has retired from the office of a Judge of a High Court may be engaged in the practice of law before the Supreme Court and a High Court, other than the High Court where he or she has served as a Judge and a subordinate court."
+  },
+  {
+    "part": "PartEleven",
+    "articleNumber": 147,
+    "articleTitle": "Responsibility of Chief Judge",
+    "articleDescription": "The Chief Judge shall have the ultimate responsibility to make effective the administration of justice by the High Court and the Courts or other judicial bodies which are subordinate to it. For that purpose, the Chief Judge may, subject to this Constitution and the Federal law, give necessary direction to the subordinate Courts and judicial bodies."
+  },
+  {
+    "part": "PartEleven",
+    "articleNumber": 148,
+    "articleTitle": "District Courts",
+    "clauses": [
+      {
+        "clauseNumber": 1,
+        "clauseDescription": "There shall be a District Court in each District."
+      },
+      {
+        "clauseNumber": 2,
+        "clauseDescription": "The Local level judicial bodies established in accordance with the State law shall be subordinate to the District Court. The District Court may inspect as well as supervise and give necessary direction to its subordinate judicial bodies."
+      }
+    ]
+  },
+  {
+    "part": "PartEleven",
+    "articleNumber": 149,
+    "articleTitle": "Appointment, qualification, remuneration and other conditions of service of Judges of District Courts",
+    "clauses": [
+      {
+        "clauseNumber": 1,
+        "clauseDescription": "The Chief Justice shall, on recommendation of the Judicial Council, appoint Judges of the District Courts."
+      },
+      {
+        "clauseNumber": 2,
+        "clauseDescription": "The vacant posts of Judges of the District Court shall be filled as follows:",
+        "subClauses": [
+          {
+            "subClauseLabel": "A",
+            "subClauseDescription": "twenty percent of the vacant posts, on the basis of evaluation of seniority, qualification and competency, from amongst the officers who have obtained bachelor's degree in law and served for at least three years in the post of Gazetted Second Class of the Judicial Service,"
+          },
+          {
+            "subClauseLabel": "B",
+            "subClauseDescription": "forty percent of the vacant posts, on the basis of open competitive examination, from amongst the officers who have obtained bachelor's degree in law and served for at least three years in the post of Gazetted Second Class of the Judicial Service,"
+          },
+          {
+            "subClauseLabel": "C",
+            "subClauseDescription": "the remaining forty percent of the vacant posts, on the basis of open competitive examination, from amongst the citizens of Nepal who, having obtained bachelor's degree in law, have constantly practiced law for at least eight years as an advocate or who, having obtained bachelor's degree in law, have served in a Gazetted post of the Judicial Service for at least eight years or have constantly been engaged in the teaching or research of law or served in any other field of law or justice for at least eight years."
+          }
+        ]
+      },
+      {
+        "clauseNumber": 3,
+        "clauseDescription": "The Judicial Service Commission shall, in accordance with the Federal law, hold written and oral competitive examinations for the persons who have possessed the qualification under sub-clauses (B) and (C) of clause (2), and make recommendation, in order of merit, to the Judicial Council for appointment as District Judges."
+      },
+      {
+        "clauseNumber": 4,
+        "clauseDescription": "The remuneration and other conditions of service of the Judges of the District Court shall be provided for in the Federal law."
+      },
+      {
+        "clauseNumber": 5,
+        "clauseDescription": "The remuneration and other conditions of service of a Judge of the District Court shall not be altered to his or her disadvantage.",
+        "clauseExtraInfo": "Provided that this provision shall not apply in cases where a state of emergency is declared because of extreme economic disarrays."
+      },
+      {
+        "clauseNumber": 6,
+        "clauseDescription": "The office of a Judge of the District Court shall be vacant in any of the following circumstances:",
+        "subClauses": [
+          {
+            "subClauseLabel": "A",
+            "subClauseDescription": "if he or she tenders resignation in writing before the Chief Justice,"
+          },
+          {
+            "subClauseLabel": "B",
+            "subClauseDescription": "if he or she attains the age of sixty-three years,"
+          },
+          {
+            "subClauseLabel": "C",
+            "subClauseDescription": "if he or she is removed from office by the Chief Justice on recommendation of the Judicial Council, on the ground of his or her incompetence, misconduct, failure to perform his or her duties honestly, performance of business with mala fide intention or serious violation by him or her of the code of conduct required to be observed by him or her,"
+          },
+          {
+            "subClauseLabel": "D",
+            "subClauseDescription": "if he or she is removed from office by the Chief Justice on recommendation of the Judicial Council on the ground that he or she is unable to continue service and discharge his or her duties because of physical or mental illness,"
+          },
+          {
+            "subClauseLabel": "E",
+            "subClauseDescription": "if he or she is punished by a court for a criminal offence involving moral turpitude,"
+          },
+          {
+            "subClauseLabel": "F",
+            "subClauseDescription": "if he or she dies."
+          }
+        ]
+      },
+      {
+        "clauseNumber": 7,
+        "clauseDescription": "A District Judge who is accused shall be given a reasonable opportunity to defend himself or herself before removing him or her from office under sub-clause (c) of clause (6). The District Judge against whom the proceedings are so initiated shall not perform the duties of his or her office until the proceedings are completed."
+      },
+      {
+        "clauseNumber": 8,
+        "clauseDescription": "Nothing shall prevent the instituting of action, in accordance with the Federal law, against a District Judge who is removed from office for an offence which he or she has committed while in office."
+      }
+    ]
+  },
+  {
+    "part": "PartEleven",
+    "articleNumber": 150,
+    "articleTitle": "District Judges not to be engaged in any other office and provisions relating to transfer",
+    "clauses": [
+      {
+        "clauseNumber": 1,
+        "clauseDescription": "No District Judge shall be engaged in or deputed to any office other than that of Judge.",
+        "clauseExtraInfo": "Provided that the Government of Nepal may, in consultation with the Judicial Council, depute a District Judge to work concerning judicial inquiry, or to legal or judicial investigation or research and to any election related work, for a specified period."
+      },
+      {
+        "clauseNumber": 2,
+        "clauseDescription": "The Chief Justice may, on recommendation of the Judicial Council, transfer a District Judge from one District Court to another District Court."
+      }
+    ]
+  },
+  {
+    "part": "PartEleven",
+    "articleNumber": 151,
+    "articleTitle": "Jurisdiction of District Court",
+    "clauses": [
+      {
+        "clauseNumber": 1,
+        "clauseDescription": "Except as otherwise provided by the Federal law, a District Court shall have the power to originally try and settle all cases under its jurisdiction, to try petitions under law, including petitions of habeas corpus and prohibition, hear appeals under law from decisions made by quasi-judicial bodies, hear appeals from decisions made by Local level judicial bodies formed under the State law, institute contempt proceedings and punish for contempt under the Federal law if anyone makes obstruction in the dispensation of justice by, or disregards any order or judgment by, it or any of its subordinate courts."
+      },
+      {
+        "clauseNumber": 2,
+        "clauseDescription": "Other provisions relating to the jurisdiction and procedures of the District Courts shall be as provided for in the Federal law."
+      }
+    ]
+  },
+  {
+    "part": "PartEleven",
+    "articleNumber": 152,
+    "articleTitle": "Specialized courts",
+    "clauses": [
+      {
+        "clauseNumber": 1,
+        "clauseDescription": "Other specialized courts, judicial bodies or tribunals may be formed to try and settle specific types and nature of cases other than those mentioned in Article 127, as provided for in the Federal law.",
+        "clauseExtraInfo": "Provided that no specialized court, judicial body or tribunal shall be formed for any specific case."
+      },
+      {
+        "clauseNumber": 2,
+        "clauseDescription": "No criminal offence involving imprisonment for a term of more than one year shall fall under the jurisdiction of a body other than a court, specialized court, military court or judicial body."
+      }
+    ]
+  },
+  {
+    "part": "PartEleven",
+    "articleNumber": 153,
+    "articleTitle": "Judicial Council",
+    "clauses": [
+      {
+        "clauseNumber": 1,
+        "clauseDescription": "There shall be a Judicial Council to make recommendation or give advice, in accordance with this Constitution, on the appointment of, transfer of, disciplinary action against, and dismissal of, Judges, and other matters relating to the administration of justice, which shall consist of the following as its chairperson and members:",
+        "subClauses": [
+          {
+            "subClauseLabel": "A",
+            "subClauseDescription": "The Chief Justice - Chairperson"
+          },
+          {
+            "subClauseLabel": "B",
+            "subClauseDescription": "The Federal Minister for Law and Justice - Member"
+          },
+          {
+            "subClauseLabel": "C",
+            "subClauseDescription": "The senior-most Judge of the Supreme Court - Member"
+          },
+          {
+            "subClauseLabel": "D",
+            "subClauseDescription": "One jurist nominated by the President on recommendation of the Prime Minister - Member"
+          },
+          {
+            "subClauseLabel": "E",
+            "subClauseDescription": "A senior advocate or advocate who has gained at least twenty years of experience, to be appointed by the President on recommendation of the Nepal Bar Association - Member"
+          }
+        ]
+      },
+      {
+        "clauseNumber": 2,
+        "clauseDescription": "The term of office of the members under sub-clauses (D) and (E) of clause (1) shall be four years, and their remuneration and facilities shall be equivalent to those of a Judge of the Supreme Court."
+      },
+      {
+        "clauseNumber": 3,
+        "clauseDescription": "The members under sub-clauses (D) and (E) of clause (1) shall be removed from office in the same manner and on the same grounds as a Judge of the Supreme Court."
+      },
+      {
+        "clauseNumber": 4,
+        "clauseDescription": "The chairperson and a member of the Judicial Council may study the case associated with a complaint filed in respect of any Judge, and make a report thereof to the Judicial Council."
+      },
+      {
+        "clauseNumber": 5,
+        "clauseDescription": "If a preliminary inquiry of a complaint filed in respect of any Judge reveals a need to have a detailed inquiry by an expert, the Judicial Council may form an inquiry committee."
+      },
+      {
+        "clauseNumber": 6,
+        "clauseDescription": "If a Judge, other than a Judge who can be removed from office by way of impeachment in accordance with this Constitution, commits an abuse of authority by way of corruption, the Judicial Council may investigate into the matter and institute a case in accordance with law."
+      },
+      {
+        "clauseNumber": 7,
+        "clauseDescription": "The Judicial Council must prepare updated records of the persons who are qualified for appointment to offices of the Chief Justice, Judges of the Supreme Court, Chief Judges and Judges of the High Courts."
+      },
+      {
+        "clauseNumber": 8,
+        "clauseDescription": "Other functions, duties and powers of the Judicial Council shall be as provided for in the Federal law."
+      }
+    ]
+  },
+  {
+    "part": "PartEleven",
+    "articleNumber": 154,
+    "articleTitle": "Judicial Service Commission",
+    "clauses": [
+      {
+        "clauseNumber": 1,
+        "clauseDescription": "In appointing, transferring or promoting gazetted officers of the Federal Judicial Service or taking departmental action concerning such officers in accordance with law, the Government of Nepal shall act on recommendation of the Judicial Service Commission.",
+        "clauseExtraInfo": "Provided that in making new permanent appointments to gazetted posts of the Federal Judicial Service from persons who are not already in the Federal Government Service or making promotions from non-gazetted posts of the Federal Judicial Service to gazetted ones of that Service, the Government of Nepal shall act on the recommendation of the Public Service Commission.",
+        "clauseExplanation": "For the purposes of this Article, the Public Service Commission shall hold open and internal competitive examinations to be held for appointments to Gazetted posts of the Federal Judicial Service."
+      },
+      {
+        "clauseNumber": 2,
+        "clauseDescription": "The Judicial Service Commission shall consist of the following as its chairperson and members:",
+        "subClauses": [
+          {
+            "subClauseLabel": "A",
+            "subClauseDescription": "The Chief Justice - Chairperson"
+          },
+          {
+            "subClauseLabel": "B",
+            "subClauseDescription": "The Federal Minister for Law and Justice - Member"
+          },
+          {
+            "subClauseLabel": "C",
+            "subClauseDescription": "The seniormost Judge of the Supreme Court - Member"
+          },
+          {
+            "subClauseLabel": "D",
+            "subClauseDescription": "The Chairperson of the Public Service Commission - Member"
+          },
+          {
+            "subClauseLabel": "E",
+            "subClauseDescription": "The Attorney General - Member"
+          }
+        ]
+      },
+      {
+        "clauseNumber": 3,
+        "clauseDescription": "Other functions, duties, powers and procedures of the Judicial Service Commission shall be as provided for in the Federal law."
+      }
+    ]
+  },
+  {
+    "part": "PartEleven",
+    "articleNumber": 155,
+    "articleTitle": "Provisions relating to conditions of service and facilities",
+    "articleDescription": "Provisions relating to the remuneration, facilities and conditions of service of the employees of the Federal Judicial Service shall be as provided for in the Federal Act."
+  },
+  {
+    "part": "PartEleven",
+    "articleNumber": 156,
+    "articleTitle": "Provisions relating to State Judicial Service Commission",
+    "articleDescription": "Provisions relating to the formation of a State Judicial Service Commission and the remuneration, facilities and conditions of service of the employees of a State Judicial Service shall be as provided for in the Federal law."
   }
 ]

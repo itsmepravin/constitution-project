@@ -25,12 +25,14 @@ const MySelect = ({ currentPart, setCurrentPart }) => {
             Part 4 Directive Principles, Policies and Obligations of the State (A49-A55)
           </MenuItem>
           <MenuItem value={'PartFive'}>
-            Part 5 Structure of State and Distribution of State Power (A50-A60)
+            Part 5 Structure of State and Distribution of State Power (A56-A60)
           </MenuItem>
           <MenuItem value={'PartSix'}>Part 6 President and Vice-President (A61-A73)</MenuItem>
           <MenuItem value={'PartSeven'}>Part 7 Federal Executive (A74-A82)</MenuItem>
           <MenuItem value={'PartEight'}>Part 8 Federal Legislature (A83-A108)</MenuItem>
           <MenuItem value={'PartNine'}>Part 9 Federal Legislative Procedures (A109-A114)</MenuItem>
+          <MenuItem value={'PartTen'}>Part 10 Federal Financial Procedures (A115-A125)</MenuItem>
+          <MenuItem value={'PartEleven'}>Part 11 Judiciary (A126-A156)</MenuItem>
         </Select>
       </FormControl>
     </Box>
