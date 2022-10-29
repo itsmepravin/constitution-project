@@ -114,7 +114,23 @@ export default function MyAccordion({ currentPart }) {
                       <Typography sx={{ my: 1 }}>
                         {clause.clauseNumber} {')'} {clause.clauseDescription}
                         {clause.clauseExtraInfo ? (
-                          <Typography sx={{ my: 1, mx: 4 }}>{clause.clauseExtraInfo}</Typography>
+                          Array.isArray(clause.clauseExtraInfo) ? (
+                            <>
+                              <Typography sx={{ textDecoration: 'underline', mx: 4 }}>
+                                Provided that:
+                              </Typography>
+                              {clause.clauseExtraInfo.map((extra) => (
+                                <Box sx={{ mx: 8, my: 1, textAlign: 'left' }}>
+                                  <Typography>
+                                    Sub-Clause {extra.extraNumber}
+                                    {')'} {extra.extraDescription}
+                                  </Typography>
+                                </Box>
+                              ))}
+                            </>
+                          ) : (
+                            <Typography sx={{ my: 1, mx: 2 }}>{clause.clauseExtraInfo}</Typography>
+                          )
                         ) : null}
                         {clause.clauseExplanation ? (
                           <Typography sx={{ my: 1, mx: 4 }}>

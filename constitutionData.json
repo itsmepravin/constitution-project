@@ -3699,5 +3699,1021 @@
     "articleNumber": 156,
     "articleTitle": "Provisions relating to State Judicial Service Commission",
     "articleDescription": "Provisions relating to the formation of a State Judicial Service Commission and the remuneration, facilities and conditions of service of the employees of a State Judicial Service shall be as provided for in the Federal law."
+  },
+  {
+    "part": "PartTwelve",
+    "articleNumber": 157,
+    "articleTitle": "Attorney General",
+    "clauses": [
+      {
+        "clauseNumber": 1,
+        "clauseDescription": "There shall be an Attorney General of Nepal."
+      },
+      {
+        "clauseNumber": 2,
+        "clauseDescription": "The President shall, on recommendation of the Prime Minister, appoint the Attorney General. The Attorney General shall hold office during the pleasure of the Prime Minister."
+      },
+      {
+        "clauseNumber": 3,
+        "clauseDescription": "A person who is qualified to be appointed as a Judge of the Supreme Court shall be eligible to be appointed as the Attorney General."
+      },
+      {
+        "clauseNumber": 4,
+        "clauseDescription": "The office of the Attorney General shall be vacant in any of the following circumstances:",
+        "subClauses": [
+          {
+            "subClauseLabel": "A",
+            "subClauseDescription": "if he or she tenders resignation in writing to the President through the Prime Minister,"
+          },
+          {
+            "subClauseLabel": "B",
+            "subClauseDescription": "if he or she is removed from office by the President on recommendation of the Prime Minister,"
+          },
+          {
+            "subClauseLabel": "C",
+            "subClauseDescription": "if he or she dies."
+          }
+        ]
+      },
+      {
+        "clauseNumber": 5,
+        "clauseDescription": "The remuneration and other facilities of the Attorney General shall be similar to those of a Judge of the Supreme Court. Other conditions of service of the Attorney General shall be in accordance with law."
+      }
+    ]
+  },
+  {
+    "part": "PartTwelve",
+    "articleNumber": 158,
+    "articleTitle": "Functions, duties and powers of Attorney General",
+    "clauses": [
+      {
+        "clauseNumber": 1,
+        "clauseDescription": "The Attorney General shall be the chief legal advisor to the Government of Nepal. It shall be the duty of the Attorney General to give opinions and advices on constitutional and legal matters to the Government of Nepal and such other authorities as the Government of Nepal may specify."
+      },
+      {
+        "clauseNumber": 2,
+        "clauseDescription": "The Attorney General or government attorneys subordinate to him or her shall represent the Government of Nepal in lawsuits wherein the rights, interests or concerns of the Government of Nepal are involved. Except as provided otherwise in this Constitution, the Attorney General shall have the right to make a final decision as to whether to institute any case on behalf of the Government of Nepal in any court, judicial body or authority."
+      },
+      {
+        "clauseNumber": 3,
+        "clauseDescription": "Opinion of the Attorney General must be obtained for withdrawing a case filed on behalf of the Government of Nepal."
+      },
+      {
+        "clauseNumber": 4,
+        "clauseDescription": "The Attorney General may, upon invitation by the Federal Parliament or any of its committees, to appear and express his or her opinion on any legal question in such a meeting."
+      },
+      {
+        "clauseNumber": 5,
+        "clauseDescription": "In the course of discharging the duties of his or her office, the Attorney General shall have the right to appear in any Court, office and authority of Nepal."
+      },
+      {
+        "clauseNumber": 6,
+        "clauseDescription": "The Attorney General shall, in the course of performing his or her duties, have the power to carry out the following acts, in addition to that set forth in clause (2):",
+        "subClauses": [
+          {
+            "subClauseLabel": "A",
+            "subClauseDescription": "to defend, on behalf of the Government of Nepal, any lawsuit in which the Government of Nepal is a plaintiff or a defendant,"
+          },
+          {
+            "subClauseLabel": "B",
+            "subClauseDescription": "to monitor, or cause to be monitored, whether any interpretation given to a law or any legal principle laid down by the Supreme Court in the course of hearing of lawsuits has been implemented,"
+          },
+          {
+            "subClauseLabel": "C",
+            "subClauseDescription": "if a complaint is made alleging that any person held in custody has not been treated humanely subject to this Constitution or such person has not been allowed to meet his or her relative or through his or her legal practitioner or if information of such matter is received, to inquire thereinto and give necessary directive to the concerned authority to prevent such act."
+          }
+        ]
+      },
+      {
+        "clauseNumber": 7,
+        "clauseDescription": "The Attorney General may so delegate his or her functions, duties and powers under this Article to his or her subordinate government attorneys as to be exercised and complied with subject to the specified conditions."
+      },
+      {
+        "clauseNumber": 8,
+        "clauseDescription": "In addition to the functions, duties and powers mentioned in this Article, other functions, duties and powers of the Attorney General shall be pursuant to this Constitution and the Federal law."
+      }
+    ]
+  },
+  {
+    "part": "PartTwelve",
+    "articleNumber": 159,
+    "articleTitle": "Annual report",
+    "clauses": [
+      {
+        "clauseNumber": 1,
+        "clauseDescription": "The Attorney General shall, every year, submit to the President an annual report on the works which he or she has performed pursuant to this Constitution and the Federal law, and the President shall cause such report to be laid before the Federal Parliament through the Prime Minister."
+      },
+      {
+        "clauseNumber": 2,
+        "clauseDescription": "The annual report to be submitted pursuant to clause (1) shall set out, inter alia, the number of advices and opinions on constitutional and legal matters rendered by him or her throughout the year, and short description of such advices and opinions, details of cases instituted as state cases, details of defence made in lawsuits in which the Government of Nepal is a plaintiff or defendant, details of reforms to be made in the future in relation to cases to be instituted as state cases and information relating to crime trends."
+      }
+    ]
+  },
+  {
+    "part": "PartTwelve",
+    "articleNumber": 160,
+    "articleTitle": "Chief Attorney",
+    "clauses": [
+      {
+        "clauseNumber": 1,
+        "clauseDescription": "There shall be a Chief Attorney in every State, who shall be subordinate to the Attorney General."
+      },
+      {
+        "clauseNumber": 2,
+        "clauseDescription": "The Chief of State shall, on recommendation of the concerned Chief Minister, appoint the Chief Attorney. The Chief Attorney shall hold office during the pleasure of the Chief Minister."
+      },
+      {
+        "clauseNumber": 3,
+        "clauseDescription": "A person who is qualified to be appointed as a Judge of High Court shall be eligible to be appointed as the Chief Attorney."
+      },
+      {
+        "clauseNumber": 4,
+        "clauseDescription": "The office of the Chief Attorney shall be vacant in any of the following circumstances:",
+        "subClauses": [
+          {
+            "subClauseLabel": "A",
+            "subClauseDescription": "if he or she tenders resignation in writing to the Chief of State through the Chief Minister,"
+          },
+          {
+            "subClauseLabel": "B",
+            "subClauseDescription": "if he or she is removed from office by the Chief of State on recommendation of the Chief Minister,"
+          },
+          {
+            "subClauseLabel": "C",
+            "subClauseDescription": "if he or she dies."
+          }
+        ]
+      },
+      {
+        "clauseNumber": 5,
+        "clauseDescription": "The Chief Attorney shall be the chief legal advisor to the State Government. It shall be the duty of the Chief Attorney to give opinions and advices on constitutional and legal matters to the State Government and such other authorities as the State Government may specify."
+      },
+      {
+        "clauseNumber": 6,
+        "clauseDescription": "The Office of Attorney General shall manage the employees under the Office of Chief Attorney."
+      },
+      {
+        "clauseNumber": 7,
+        "clauseDescription": "The remuneration and other facilities of the Chief Attorney shall be similar to those of a Judge of High Court. The functions, duties and powers and other conditions of service of the Chief Attorney shall be as provided for in the State law."
+      }
+    ]
+  },
+  {
+    "part": "PartTwelve",
+    "articleNumber": 161,
+    "articleTitle": "Provisions relating to conditions of service and facilities",
+    "articleDescription": "Provisions relating to the remuneration, facilities and conditions of service of the government attorneys and other employees under the Attorney General shall be as provided for in the Federal Act."
+  },
+  {
+    "part": "PartThirteen",
+    "articleNumber": 162,
+    "articleTitle": "Executive power of State",
+    "clauses": [
+      {
+        "clauseNumber": 1,
+        "clauseDescription": "The executive power of a State shall, pursuant to this Constitution and the State law, be vested in the State Council of Ministers.",
+        "clauseExtraInfo": "Provided that if a State Executive does not exist because of enforcement of Federal governance, the Chief of State shall exercise the executive power of the State as directed by the Government of Nepal."
+      },
+      {
+        "clauseNumber": 2,
+        "clauseDescription": "The responsibility for issuing general directives, controlling and regulating the governance of the State shall, subject to this Constitution and other laws, lie in the State Council of Ministers."
+      },
+      {
+        "clauseNumber": 3,
+        "clauseDescription": "All State executive functions shall be performed in the name of the State Government."
+      },
+      {
+        "clauseNumber": 4,
+        "clauseDescription": "The executive power of the State shall be as mentioned in Schedule-6, Schedule-7 and Schedule-9 subject to this Constitution.",
+        "clauseExtraInfo": "Provided that the State Council of Ministers shall exercise the executive powers in coordination with the Government of Nepal, except as explicitly mentioned in this Constitution and in the Federal law in relation to concurrent powers of the Federation and the State."
+      },
+      {
+        "clauseNumber": 5,
+        "clauseDescription": "Any decision or order to be issued in the name of the State Government pursuant to clause (3) and other instruments of authorization pertaining thereto shall be authenticated as provided for in the State law."
+      }
+    ]
+  },
+  {
+    "part": "PartThirteen",
+    "articleNumber": 163,
+    "articleTitle": "Provisions relating to Chief of State",
+    "clauses": [
+      {
+        "clauseNumber": 1,
+        "clauseDescription": "There shall be a Chief of State in each State, as a representative of the Government of Nepal."
+      },
+      {
+        "clauseNumber": 2,
+        "clauseDescription": "The President shall appoint one Chief of State for each State."
+      },
+      {
+        "clauseNumber": 3,
+        "clauseDescription": "The term of office of a Chief of State shall be five years except where the President removes him or her from office prior to the expiration of his or her term of office."
+      },
+      {
+        "clauseNumber": 4,
+        "clauseDescription": "A person may not be the Chief of State for more than once in the same State."
+      }
+    ]
+  },
+  {
+    "part": "PartThirteen",
+    "articleNumber": 164,
+    "articleTitle": "Qualification for Chief of State",
+    "articleDescription": "A person who has the following qualification shall be qualified to become the Chief of State:",
+    "clauses": [
+      {
+        "clauseNumber": "A",
+        "clauseDescription": "being qualified for being a member of the Federal Parliament,"
+      },
+      {
+        "clauseNumber": "B",
+        "clauseDescription": "having completed the age of thirty five years, and"
+      },
+      {
+        "clauseNumber": "C",
+        "clauseDescription": "Not being disqualified by any law."
+      }
+    ]
+  },
+  {
+    "part": "PartThirteen",
+    "articleNumber": 165,
+    "articleTitle": "Vacation of office of Chief of State",
+    "clauses": [
+      {
+        "clauseNumber": 1,
+        "clauseDescription": "The office of the Chief of State shall become vacant in any of the following circumstances:",
+        "subClauses": [
+          {
+            "subClauseLabel": "A",
+            "subClauseDescription": "if he or she tenders resignation in writing to the President,"
+          },
+          {
+            "subClauseLabel": "B",
+            "subClauseDescription": "if his or her term of office expires and he or she is removed from office by the President prior to expiration of the term,"
+          },
+          {
+            "subClauseLabel": "C",
+            "subClauseDescription": "if he or she dies."
+          }
+        ]
+      },
+      {
+        "clauseNumber": 2,
+        "clauseDescription": "If the office of the Chief of State of any State falls vacant, the President may so designate the Chief of State of another State to act as such also for such State."
+      }
+    ]
+  },
+  {
+    "part": "PartThirteen",
+    "articleNumber": 166,
+    "articleTitle": "Functions, duties and powers of Chief of State",
+    "clauses": [
+      {
+        "clauseNumber": 1,
+        "clauseDescription": "The Chief of State shall exercise such powers and perform such duties as conferred to him or her pursuant to this Constitution or law."
+      },
+      {
+        "clauseNumber": 2,
+        "clauseDescription": "In exercising the powers or duties under clause (1), the Chief of State shall perform all other functions to be performed by him or her on recommendation and with the consent of the State Council of Ministers than those functions specifically provided to be performed on recommendation of any body or official pursuant to this Constitution or law. Such recommendation and consent shall be submitted through the Chief Minister."
+      },
+      {
+        "clauseNumber": 3,
+        "clauseDescription": "Any decision or order to be issued in the name of the Chief of State under clause (2) and other instrument of authorization pertaining thereto shall be authenticated as provided for in the State law."
+      }
+    ]
+  },
+  {
+    "part": "PartThirteen",
+    "articleNumber": 167,
+    "articleTitle": "Oath by Chief of State",
+    "articleDescription": "The Chief of State shall, prior to assuming office, take an oath of office and secrecy before the President, as provided for in the Federal law."
+  },
+  {
+    "part": "PartThirteen",
+    "articleNumber": 168,
+    "articleTitle": "Constitution of State Council of Ministers",
+    "clauses": [
+      {
+        "clauseNumber": 1,
+        "clauseDescription": "The Chief of State shall appoint the leader of the parliamentary party commanding a majority in the State Assembly as the Chief Minister, and the State Council of Ministers shall be constituted under his or her chairpersonship."
+      },
+      {
+        "clauseNumber": 2,
+        "clauseDescription": "In cases where no party has a clear majority in the State Assembly under clause (1), the Chief of State shall appoint as the Chief Minister a member of the State Assembly who can command majority with the support of two or more parties representing to the State Assembly."
+      },
+      {
+        "clauseNumber": 3,
+        "clauseDescription": "In cases where the Chief Minister cannot be appointed under clause (2) no later than thirty days after the date of declaration of the final results of election to the State Assembly or the Chief Minister so appointed fails to secure a vote of confidence under clause (4), the Chief of State shall appoint as the Chief Minister the parliamentary party leader of the party which has the highest number of members in the State Assembly."
+      },
+      {
+        "clauseNumber": 4,
+        "clauseDescription": "The Chief Minister appointed under clause (2) or (3) shall obtain a vote of confidence from the State Assembly no later than thirty days after the date of such appointment."
+      },
+      {
+        "clauseNumber": 5,
+        "clauseDescription": "In cases where the Chief Minister appointed under clause (3) fails to obtain a vote of confidence under clause (4) and any member under clause (2) presents a ground on which he or she can obtain a vote of confidence in the State Assembly, the Chief of State shall appoint such a member as the Chief Minister."
+      },
+      {
+        "clauseNumber": 6,
+        "clauseDescription": "The Chief Minister appointed under clause (5) must obtain a vote of confidence under clause (4)."
+      },
+      {
+        "clauseNumber": 7,
+        "clauseDescription": "In cases where the Chief Minister appointed under clause (5) fails to obtain a vote of confidence or the Chief Minister cannot be appointed, the Chief of State shall, on recommendation of the Chief Minister, dissolve the State Assembly and appoint a date of election so that the election to another State Assembly is completed within six months."
+      },
+      {
+        "clauseNumber": 8,
+        "clauseDescription": "Procedures on the appointment of the Chief Minister under this Article must be completed no later than thirty five days after the date of declaration of the final results of election to the State Assembly held under this Constitution or the date on which the office of the Chief Minister has fallen vacant."
+      },
+      {
+        "clauseNumber": 9,
+        "clauseDescription": "The Chief of State shall, on recommendation of the Chief Minister, constitute the State Council of Ministers consisting of a maximum of twenty percent of the total number of members of the State Assembly, including the Chief Minister, in accordance with the inclusive principle, from amongst the members of the State Assembly.",
+        "clauseExplanation": "For the purposes of this Article, 'Minister' means a Minister, Minister of State and Assistant Minister."
+      },
+      {
+        "clauseNumber": 10,
+        "clauseDescription": "The Chief Minister and Ministers shall be collectively responsible to State Assembly, and the Ministers shall be individually responsible for the work of their respective Ministries to the Chief Minister and the State Assembly."
+      }
+    ]
+  },
+  {
+    "part": "PartThirteen",
+    "articleNumber": 169,
+    "articleTitle": "Vacation of office of Chief Minister and Minister",
+    "clauses": [
+      {
+        "clauseNumber": 1,
+        "clauseDescription": "The office of the Chief Minister shall be vacant in any of the following circumstances:",
+        "subClauses": [
+          {
+            "subClauseLabel": "A",
+            "subClauseDescription": "if he or she tenders resignation in writing to the Chief of State,"
+          },
+          {
+            "subClauseLabel": "B",
+            "subClauseDescription": "if a vote of no-confidence is passed against him or her under Article 188 or a vote of confidence is not passed,"
+          },
+          {
+            "subClauseLabel": "C",
+            "subClauseDescription": "if he or she ceases to be a member of the State Assembly,"
+          },
+          {
+            "subClauseLabel": "D",
+            "subClauseDescription": "if he or she dies."
+          }
+        ]
+      },
+      {
+        "clauseNumber": 2,
+        "clauseDescription": "The office of a Minister shall be vacant in any of the following circumstances:",
+        "subClauses": [
+          {
+            "subClauseLabel": "A",
+            "subClauseDescription": "if he or she tenders resignation in writing to the Chief Minister,"
+          },
+          {
+            "subClauseLabel": "B",
+            "subClauseDescription": "if the Chief Minister removes him or her from office,"
+          },
+          {
+            "subClauseLabel": "C",
+            "subClauseDescription": "if the office of the Chief Minister falls vacant under sub-clause (A), (B) or (C) of clause (1),"
+          },
+          {
+            "subClauseLabel": "D",
+            "subClauseDescription": "if he or she dies."
+          }
+        ]
+      },
+      {
+        "clauseNumber": 3,
+        "clauseDescription": "Even though the office of the Chief Minister falls vacant under clause (1), the same Council of Ministers shall continue to act until another State Council of Ministers is constituted.",
+        "clauseExtraInfo": "Provided that if the Chief Minister dies, the senior-most Minister shall act as the Chief Minister until a new Chief Minister is appointed."
+      }
+    ]
+  },
+  {
+    "part": "PartThirteen",
+    "articleNumber": 170,
+    "articleTitle": "Appointment of non-member of State Assembly as Minister",
+    "clauses": [
+      {
+        "clauseNumber": 1,
+        "clauseDescription": "Notwithstanding anything contained in clause (9) of Article 168, the Chief of State may, on the recommendation of the Chief Minister, appoint any person who is not a member of the State Assembly as a Minister."
+      },
+      {
+        "clauseNumber": 2,
+        "clauseDescription": "A Minister appointed under clause (1) must obtain membership of the State Assembly within six months from the date of taking an oath by him or her."
+      },
+      {
+        "clauseNumber": 3,
+        "clauseDescription": "In the event of failure to obtain membership of the State Assembly within the period mentioned in clause (2), he or she shall not be eligible to be reappointed to the office of Minister during the term of the then State Assembly."
+      },
+      {
+        "clauseNumber": 4,
+        "clauseDescription": "Notwithstanding anything contained in clause (1), a person who has been defeated in the election to the then State Assembly shall be not eligible to be appointed to the office of Minister under clause (1) during the term of such State Assembly."
+      }
+    ]
+  },
+  {
+    "part": "PartThirteen",
+    "articleNumber": 171,
+    "articleTitle": "Remuneration and other Facilities of Chief Minister and Minister",
+    "articleDescription": "The remuneration and other facilities of the Chief Minister and Ministers shall be as provided by a State Act, and until such Act is made, shall be as specified by the State Government."
+  },
+  {
+    "part": "PartThirteen",
+    "articleNumber": 172,
+    "articleTitle": "Oath",
+    "articleDescription": "The Chief Minister and Ministers shall, before assuming their respective offices, take an oath of office and secrecy before the Chief of State, and Ministers of State and Assistant Ministers, before the Chief Minister, as provided for in the State law."
+  },
+  {
+    "part": "PartThirteen",
+    "articleNumber": 173,
+    "articleTitle": "To give information to Chief of State",
+    "articleDescription": "The Chief Minister shall inform the Chief of State about the following matters:",
+    "clauses": [
+      {
+        "clauseNumber": "A",
+        "clauseDescription": "resolutions of the State Council of Ministers,"
+      },
+      {
+        "clauseNumber": "B",
+        "clauseDescription": "Bills to be introduced in the State Assembly,"
+      },
+      {
+        "clauseNumber": "C",
+        "clauseDescription": "such other necessary information as commanded by the Chief of State on matters set forth in clauses (A) and (B), and"
+      },
+      {
+        "clauseNumber": "D",
+        "clauseDescription": "current general state of affairs of the State."
+      }
+    ]
+  },
+  {
+    "part": "PartThirteen",
+    "articleNumber": 174,
+    "articleTitle": "Transaction of business of State Government",
+    "clauses": [
+      {
+        "clauseNumber": 1,
+        "clauseDescription": "The allocation and transaction of business of the State Government shall be carried out in accordance with the rules approved by the State Government."
+      },
+      {
+        "clauseNumber": 2,
+        "clauseDescription": "No question shall be raised in any court as to whether or not the rules under clause (1) have been observed."
+      }
+    ]
+  },
+  {
+    "part": "PartFourteen",
+    "articleNumber": 175,
+    "articleTitle": "State Legislature",
+    "articleDescription": "The legislature of a State shall be unicameral, which shall be called as the State Assembly."
+  },
+  {
+    "part": "PartFourteen",
+    "articleNumber": 176,
+    "articleTitle": "Composition of State Assembly",
+    "clauses": [
+      {
+        "clauseNumber": 1,
+        "clauseDescription": "Each State Assembly shall consist of a number of members, as follows:",
+        "subClauses": [
+          {
+            "subClauseLabel": "A",
+            "subClauseDescription": "Members in a number that is twice as many as the number of members elected to the House of Representatives from the concerned State, through the first past the post electoral system,"
+          },
+          {
+            "subClauseLabel": "B",
+            "subClauseDescription": "The number of members to be set under clause (A) shall be considered to be sixty percent, and the rest forty percent members to be elected, through the proportional electoral system."
+          }
+        ]
+      },
+      {
+        "clauseNumber": 2,
+        "clauseDescription": "Election constituencies shall be set on the basis of geography and population as provided for in the Federal law, for the election to members under sub-clause (A) of clause (1)."
+      },
+      {
+        "clauseNumber": 3,
+        "clauseDescription": "Sixty percent members of the State Assembly shall be elected in accordance with the first past the post electoral system and the forty percent members in accordance with the proportional electoral system."
+      },
+      {
+        "clauseNumber": 4,
+        "clauseDescription": "Election to the members of the State Assembly under clause (3) shall be held through adult suffrage by secret ballots in accordance with law."
+      },
+      {
+        "clauseNumber": 5,
+        "clauseDescription": "Each citizen of Nepal who resides within the territory of the State and who has completed the age of eighteen years shall have a right to vote in any one election constituency in accordance with law."
+      },
+      {
+        "clauseNumber": 6,
+        "clauseDescription": "The Federal law shall provide that, in fielding candidacy by political parties for the election to the State Assembly under the proportional electoral system, representation shall be ensured on the basis of a closed list also from women, Dalit, indigenous, indigenous nationalities, Khas Arya, Madhesi, Tharu, Muslims and backward regions, minority communities, on the basis of population. In so fielding candidacy, regard shall also be had to geographical balance of the concerned State.",
+        "clauseExplanation": "For the purposes of this clause, 'Khas Arya' means Kshetri, Brahmin, Thakuri, Sanyasi (Dashnami) community."
+      },
+      {
+        "clauseNumber": 7,
+        "clauseDescription": "In fielding candidacy under clause (6), political parties must provide for representation of the persons with disabilities as well."
+      },
+      {
+        "clauseNumber": 8,
+        "clauseDescription": "If the seat of a member of the State Assembly falls vacant while its term still remains for more than six months, the vacancy shall be filled through the same electoral system as through which such seat was filled in."
+      },
+      {
+        "clauseNumber": 9,
+        "clauseDescription": "Notwithstanding anything contained elsewhere in this Article, at least one third of the total number of members elected from each political party representing in the State Assembly must be women. If women are not so elected as to constitute one third of the elected members of any political party under sub-clause (A) of clause (1), such political party must, in electing members under sub-clause (B) of that clause, so elect that women members constitute at least one third of the total number of members elected to the State Assembly from that party."
+      },
+      {
+        "clauseNumber": 10,
+        "clauseDescription": "A person who is qualified under Article 178 and entitled to vote in an election to the members of the State Assembly may, subject to law, be a candidate in any election constituency of the State.",
+        "clauseExtraInfo": "Provided that a person shall not be a candidate in more than one election constituencies at the same time."
+      },
+      {
+        "clauseNumber": 11,
+        "clauseDescription": "Other provisions relating to election to the State Assembly shall be as provided for in the Federal law."
+      }
+    ]
+  },
+  {
+    "part": "PartFourteen",
+    "articleNumber": 177,
+    "articleTitle": "Term of State Assembly",
+    "clauses": [
+      {
+        "clauseNumber": 1,
+        "clauseDescription": "Unless dissolved earlier pursuant to this Constitution, the term of the State Assembly shall be five years."
+      },
+      {
+        "clauseNumber": 2,
+        "clauseDescription": "Notwithstanding anything contained in clause (1), the term of the State Assembly may be extended by a State Act for a period not exceeding one year in cases where a proclamation or order of a state of emergency is in effect."
+      },
+      {
+        "clauseNumber": 3,
+        "clauseDescription": "The term of the State Assembly extended under clause (2) shall ipso facto be terminated after the expiry of six months from the date of voidance of the proclamation or order of the state of emergency in the concerned State."
+      }
+    ]
+  },
+  {
+    "part": "PartFourteen",
+    "articleNumber": 178,
+    "articleTitle": "Qualification for member of State Assembly",
+    "clauses": [
+      {
+        "clauseNumber": 1,
+        "clauseDescription": "A person who has the following qualification shall be qualified to become a member of the State Assembly:",
+        "clauseExplanation": "For the purposes of this clause, 'office of profit' means any position, other than a political position which is to be filled by election or nomination, for which a remuneration or economic benefit is paid out of a government fund.",
+        "subClauses": [
+          {
+            "subClauseLabel": "A",
+            "subClauseDescription": "being a citizen of Nepal,"
+          },
+          {
+            "subClauseLabel": "B",
+            "subClauseDescription": "being a voter of the concerned State,"
+          },
+          {
+            "subClauseLabel": "C",
+            "subClauseDescription": "having completed the age of twenty five years,"
+          },
+          {
+            "subClauseLabel": "D",
+            "subClauseDescription": "not having been convicted of a criminal offense involving moral turpitude,"
+          },
+          {
+            "subClauseLabel": "E",
+            "subClauseDescription": "not being disqualified by any law, and"
+          },
+          {
+            "subClauseLabel": "F",
+            "subClauseDescription": "not holding any office of profit."
+          }
+        ]
+      },
+      {
+        "clauseNumber": 2,
+        "clauseDescription": "If a person who holds a political office to be filled by way of election, nomination or appointment is elected as a member of the State Assembly under this Part, his or her such office shall ipso facto be vacant with effect from the day on which he or she takes an oath of such office."
+      }
+    ]
+  },
+  {
+    "part": "PartFourteen",
+    "articleNumber": 179,
+    "articleTitle": "Oath of member of State Assembly",
+    "articleDescription": "Every member of the State Assembly must, before taking part for the first time in the meeting of the Assembly or any of its committees, take an oath as provided for in the State law."
+  },
+  {
+    "part": "PartFourteen",
+    "articleNumber": 180,
+    "articleTitle": "Vacation of seat of member of State Assembly",
+    "articleDescription": "The seat of a member of the State Assembly shall become vacant in any of the following circumstances:",
+    "clauses": [
+      {
+        "clauseNumber": "A",
+        "clauseDescription": "if he or she tenders resignation in writing before the Speaker of the State Assembly,"
+      },
+      {
+        "clauseNumber": "B",
+        "clauseDescription": "if he or she is no longer qualified or ceases to possess the qualification under Article 178,"
+      },
+      {
+        "clauseNumber": "C",
+        "clauseDescription": "if the term of the State Assembly expires or it is dissolved,"
+      },
+      {
+        "clauseNumber": "D",
+        "clauseDescription": "if he or she absents himself or herself from ten consecutive meetings, without giving notice to the State Assembly,"
+      },
+      {
+        "clauseNumber": "E",
+        "clauseDescription": "if the political party of which he or she was a member when elected provides a notification as provided for in the Federal law that he or she has defected from the party,"
+      },
+      {
+        "clauseNumber": "F",
+        "clauseDescription": "If he or she dies."
+      }
+    ]
+  },
+  {
+    "part": "PartFourteen",
+    "articleNumber": 181,
+    "articleTitle": "Decision as to disqualification of member",
+    "articleDescription": "If a question arises as to whether any member of the State Assembly is disqualified or has ceased to possess any of the qualifications under Article 178, the Constitutional Bench of the Supreme Court shall make the final decision of such question."
+  },
+  {
+    "part": "PartFourteen",
+    "articleNumber": 182,
+    "articleTitle": "Speaker and Deputy Speaker of State Assembly",
+    "clauses": [
+      {
+        "clauseNumber": 1,
+        "clauseDescription": "The members of the State Assembly shall, not later than fifteen days of the date of holding of the first meeting of the State Assembly, elect a State Speaker and a Deputy State Speaker from amongst themselves."
+      },
+      {
+        "clauseNumber": 2,
+        "clauseDescription": "Election under clause (1) shall be so held that there is one woman out of the State Speaker and the Deputy State Speaker, and the State Speaker and the Deputy State Speaker of the State Assembly shall be representatives from different parties.",
+        "clauseExtraInfo": "Provided that if there is no representation of more than one party in the State Assembly or no candidacy is filed by more than one party despite representation, nothing shall prevent the members of the same party from being the State Speaker and the Deputy State Speaker of the State Assembly."
+      },
+      {
+        "clauseNumber": 3,
+        "clauseDescription": "If the office of the State Speaker or the Deputy State Speaker falls vacant, the members of the State Assembly shall fill the vacancy through election to the State Speaker or the Deputy State Speaker from amongst themselves."
+      },
+      {
+        "clauseNumber": 4,
+        "clauseDescription": "The Deputy State Speaker shall, in the absence of the State Speaker of the State Assembly, chair the State Assembly."
+      },
+      {
+        "clauseNumber": 5,
+        "clauseDescription": "If the election to the State Speaker and the Deputy State Speaker has not taken place, or if both the positions have become vacant, the attending member who is by age the senior-most shall chair the meeting of the State Assembly."
+      },
+      {
+        "clauseNumber": 6,
+        "clauseDescription": "The office of the State Speaker or the Deputy State Speaker of the State Assembly shall become vacant in any of the following circumstances:",
+        "subClauses": [
+          {
+            "subClauseLabel": "A",
+            "subClauseDescription": "if he or she ceases to be a member of the State Assembly,",
+            "subClauseExtraInfo": "Provided that, in the event of the dissolution of the State Assembly, the State Speaker and the Deputy State Speaker of the State Assembly holding their respective offices shall continue in office until the previous day of the filing of nominations for another election to the State Assembly,"
+          },
+          {
+            "subClauseLabel": "B",
+            "subClauseDescription": "if he or she resigns in writing,"
+          },
+          {
+            "subClauseLabel": "C",
+            "subClauseDescription": "if a resolution is passed by a majority of two-thirds of the total number of the then members of the State Assembly to the effect that his or her conduct is not compatible with his or her office."
+          }
+        ]
+      },
+      {
+        "clauseNumber": 7,
+        "clauseDescription": "The State Deputy Speaker shall preside over a meeting at which deliberations are to be held on a motion that the conduct of the Speaker of the State Assembly is not compatible with his or her office. The State Speaker shall be entitled to take part and vote in the deliberations on such motion."
+      }
+    ]
+  },
+  {
+    "part": "PartFourteen",
+    "articleNumber": 183,
+    "articleTitle": "Summoning and prorogation of session of State Assembly",
+    "clauses": [
+      {
+        "clauseNumber": 1,
+        "clauseDescription": "The Chief of State shall summon a session of the State Assembly within twenty days of the declaration of final results of the election to the State Assembly. Thereafter, the Chief of State shall, from time to time, summon other sessions pursuant to this Constitution.",
+        "clauseExtraInfo": "Provided that the interval between the two consecutive sessions shall not exceed six months."
+      },
+      {
+        "clauseNumber": 2,
+        "clauseDescription": "The Chief of State may prorogue the sessions of the State Assembly."
+      },
+      {
+        "clauseNumber": 3,
+        "clauseDescription": "If, during the prorogation or recess of the session of the State Assembly, one-fourth of the total number of its members make a petition that it is expedient to convene a session or meeting, the Chief of State shall specify the date and time for such session or meeting. The State Assembly shall meet or commence its session at the date and time so specified."
+      }
+    ]
+  },
+  {
+    "part": "PartFourteen",
+    "articleNumber": 184,
+    "articleTitle": "Address by Chief of State",
+    "clauses": [
+      {
+        "clauseNumber": 1,
+        "clauseDescription": "The Chief of State may address a sitting of the State Assembly, and summon the members for that purpose."
+      },
+      {
+        "clauseNumber": 2,
+        "clauseDescription": "The Chief of State shall address the first session after an election to the State Assembly and a sitting of the State Assembly after the commencement of the first session of each year."
+      }
+    ]
+  },
+  {
+    "part": "PartFourteen",
+    "articleNumber": 185,
+    "articleTitle": "Quorum of State Assembly",
+    "articleDescription": "Except as otherwise provided for in this Constitution, no question or motion shall be presented for decision in the State Assembly unless one-fourth of the total number of its members are present."
+  },
+  {
+    "part": "PartFourteen",
+    "articleNumber": 186,
+    "articleTitle": "Voting in State Assembly",
+    "articleDescription": "All questions submitted for decision in the State Assembly shall be decided by a majority vote of the members present and participate in voting. The member chairing the meeting shall not have the right to vote.",
+    "articleExtraInfo": "Provided that he or she may exercise his or her casting vote in the case of a tie."
+  },
+  {
+    "part": "PartFourteen",
+    "articleNumber": 187,
+    "articleTitle": "Privileges of State Assembly",
+    "clauses": [
+      {
+        "clauseNumber": 1,
+        "clauseDescription": "There shall be full freedom of speech in the State Assembly, subject to this Constitution, and no member shall be arrested, detained or prosecuted in any court for anything expressed or any vote cast by him or her in the State Assembly."
+      },
+      {
+        "clauseNumber": 2,
+        "clauseDescription": "The State Assembly shall, subject to this Constitution, have full power to regulate and decide its internal business, and it shall be the exclusive right of the State Assembly to decide whether or not any of its proceedings is regular or irregular. No question shall be raised in any court in this behalf."
+      },
+      {
+        "clauseNumber": 3,
+        "clauseDescription": "No comment shall be made about the good faith concerning any proceeding of the State Assembly, and no publication and broadcasting of any kind shall be made about anything said by any member, intentionally distorting or misinterpreting the meaning of the speech."
+      },
+      {
+        "clauseNumber": 4,
+        "clauseDescription": "The provisions of clauses (1) and (3) shall also apply to other persons who are entitled to participate in the meetings of the State Assembly than the members of State Assembly."
+      },
+      {
+        "clauseNumber": 5,
+        "clauseDescription": "No proceedings shall be initiated in any court against any person in respect of the publication, under the authority granted by the State Assembly, of any document, report, vote or proceeding.",
+        "clauseExplanation": "For the purposes of this clause and clauses (1), (2), (3) and (4), 'State Assembly' means and includes the meeting of a committee of the State Assembly."
+      },
+      {
+        "clauseNumber": 6,
+        "clauseDescription": "No member of the State Assembly may be arrested during the period from the issuance of a notice summoning the session to its prorogation.",
+        "clauseExtraInfo": "Provided that nothing in this clause shall be deemed to prevent the arrest under the law of any member on a criminal charge. If any member is so arrested, the authority making such arrest shall forthwith give information thereof to the person presiding over the State Assembly."
+      },
+      {
+        "clauseNumber": 7,
+        "clauseDescription": "Any breach of the privileges shall be deemed to constitute contempt of the State Assembly, and the State Assembly shall have the exclusive right to decide whether any breach of its privileges has taken place."
+      },
+      {
+        "clauseNumber": 8,
+        "clauseDescription": "If any person is in contempt of the State Assembly, the person presiding over the State Assembly may, after a decision by the State Assembly to that effect, admonish, warn or impose a sentence of imprisonment for a term not exceeding three months or of a fine not exceeding ten thousand rupees on such person, and such fine shall be recovered as a government due.",
+        "clauseExtraInfo": "Provided that if such a person submits an apology to the satisfaction of the State Assembly, it may either pardon him or her or remit or commute the sentence imposed on him or her."
+      },
+      {
+        "clauseNumber": 9,
+        "clauseDescription": "Other matters relating to privileges of the State Assembly shall be as provided in the State law."
+      }
+    ]
+  },
+  {
+    "part": "PartFourteen",
+    "articleNumber": 188,
+    "articleTitle": "Provisions relating to vote of confidence and motion of no-confidence",
+    "clauses": [
+      {
+        "clauseNumber": 1,
+        "clauseDescription": "The Chief Minister may, whenever he or she considers necessary or appropriate to show that he or she has confidence from the State Assembly, table a resolution to that effect in the State Assembly for the vote of confidence."
+      },
+      {
+        "clauseNumber": 2,
+        "clauseDescription": "If the political party which the Chief Minister represents is divided or a political party in coalition State Government withdraws its support, the Chief Minister shall table a resolution in the State Assembly for a vote of confidence within thirty days."
+      },
+      {
+        "clauseNumber": 3,
+        "clauseDescription": "If a resolution tabled under clauses (1) and (2) is not passed by a majority of the total number of then members of the State Assembly, the Chief Minister shall relieve of his or her office."
+      },
+      {
+        "clauseNumber": 4,
+        "clauseDescription": "One-fourth of the total number of then members of the State Assembly may table in writing a motion of no-confidence against the Chief Minister.",
+        "clauseExtraInfo": "Provided that a motion of no confidence may not be tabled until the first two years after the appointment of the Chief Minister and until another one year after the date of failure of the motion of no confidence once tabled."
+      },
+      {
+        "clauseNumber": 5,
+        "clauseDescription": "A motion of no confidence to be tabled under clause (4) shall also indicate the name of a member proposed for Chief Minister."
+      },
+      {
+        "clauseNumber": 6,
+        "clauseDescription": "If a motion of no confidence tabled under clause (4) is passed by a majority of the total number of then members of the State Assembly, the Chief Minister shall relieve of his or her office."
+      },
+      {
+        "clauseNumber": 7,
+        "clauseDescription": "If the office of the Chief Minister falls vacant because of the passage of a vote of no-confidence under clause (6), the Chief of State shall, in accordance with Article 168, appoint as the Chief Minister the member of the State Assembly proposed under clause (5)."
+      }
+    ]
+  },
+  {
+    "part": "PartFourteen",
+    "articleNumber": 189,
+    "articleTitle": "Minister, Minister of State and Assistant Minister entitled to take part in meetings of State Assembly",
+    "articleDescription": "The Minister, Minister of State and Assistant Minister shall be entitled to attend, and take part in the proceedings and deliberations of, the State Assembly or its committees.",
+    "articleExtraInfo": "Provided that a Minister, Minister of State or Assistant Minister who is not a member of the State Assembly shall not be entitled to vote in a meeting of the State Assembly or its committee, and a Minister, Minister of State or Assistant Minister shall not be entitled to vote in a meeting of a committee of which he or she is not a member."
+  },
+  {
+    "part": "PartFourteen",
+    "articleNumber": 190,
+    "articleTitle": "Penalty for unauthorized presence or voting in State Assembly",
+    "articleDescription": "If a person who has not taken oath under Article 179 or who is not a member of the State Assembly is present or votes in a meeting of the State Assembly or of its committee as a member, the person shall, by order of the person chairing the meeting, be fined with a sum of five thousand rupees for each instance of such presence or voting, and such a fine shall be recovered as a government due."
+  },
+  {
+    "part": "PartFourteen",
+    "articleNumber": 191,
+    "articleTitle": "Restriction on discussion",
+    "articleDescription": "No discussion shall be held in the State Assembly on any matters that may cause adverse effect on the dispensation of justice on any cases which are sub judice in any courts of Nepal and on any judicial acts done by Judges in the course of performance of their duties."
+  },
+  {
+    "part": "PartFourteen",
+    "articleNumber": 192,
+    "articleTitle": "Transaction of business in case of vacancy in seat of member",
+    "articleDescription": "The State Assembly shall have the power to transact its business notwithstanding any vacancy in the seat of its member; and no proceedings of the State Assembly already conducted shall become invalid even if it is subsequently discovered that a person who was not so entitled took part in such proceedings."
+  },
+  {
+    "part": "PartFourteen",
+    "articleNumber": 193,
+    "articleTitle": "Power of State Assembly to form committees",
+    "articleDescription": "The State Assembly may, in accordance with its rules, form committees or special committees, as required, in order to manage its working procedures."
+  },
+  {
+    "part": "PartFourteen",
+    "articleNumber": 194,
+    "articleTitle": "Procedures relating to conduct of business of State Assembly",
+    "articleDescription": "The State Assembly shall frame rules to conduct its business, maintain order during its meetings and regulate the constitution, functions and procedures of, and other matters relating to, its committees. Until such rules are framed, the State Assembly shall regulate its procedures on its own."
+  },
+  {
+    "part": "PartFourteen",
+    "articleNumber": 195,
+    "articleTitle": "Secretary and Secretariat of State Assembly",
+    "clauses": [
+      {
+        "clauseNumber": 1,
+        "clauseDescription": "The Chief of State shall appoint the Secretary of the State Assembly on recommendation of the Speaker of State Assembly."
+      },
+      {
+        "clauseNumber": 2,
+        "clauseDescription": "There shall be a Secretariat for conducting and managing the business of the State Assembly. The establishment of such Secretariat and other matters related thereto shall be as provided for in the State law."
+      },
+      {
+        "clauseNumber": 3,
+        "clauseDescription": "The qualification, functions, duties, powers and other conditions of service of the Secretary of the State Assembly shall be as provided for in the State law."
+      }
+    ]
+  },
+  {
+    "part": "PartFourteen",
+    "articleNumber": 196,
+    "articleTitle": "Remuneration",
+    "articleDescription": "The remuneration and facilities of the Speaker and the Deputy Speaker of the State Assembly shall be as provided for in the State law, and as specified by the State Government until such law is made."
+  },
+  {
+    "part": "PartFifteen",
+    "articleNumber": 197,
+    "articleTitle": "Legislative powers of State Assembly",
+    "articleDescription": "The legislative powers of the State Assembly shall be as contained in lists of Schedule-6, Schedule-7 and Schedule-9."
+  },
+  {
+    "part": "PartFifteen",
+    "articleNumber": 198,
+    "articleTitle": "Procedures for introduction of Bills in State Assembly",
+    "clauses": [
+      {
+        "clauseNumber": 1,
+        "clauseDescription": "A Bill may, subject to this Constitution, be introduced in the State Assembly."
+      },
+      {
+        "clauseNumber": 2,
+        "clauseDescription": "A Money Bill and a Bill concerning peace and security may be introduced only as a Government Bill."
+      },
+      {
+        "clauseNumber": 3,
+        "clauseDescription": "'Money Bill' means a Bill concerning any or all of the following subjects:",
+        "clauseExtraInfo": "Provided that any Bill shall not be deemed to be a Money Bill by the reason only that it provides for the levying of any charges or fees such as license fee, application fee, renewal fee or for the imposition of fines or penalty of imprisonment.",
+        "subClauses": [
+          {
+            "subClauseLabel": "A",
+            "subClauseDescription": "the imposition, collection, abolition, remission, alteration or regulation of taxes in the State,"
+          },
+          {
+            "subClauseLabel": "B",
+            "subClauseDescription": "the preservation of the State Consolidated Fund or any other State Government Fund, the deposit of moneys into and the appropriation or the withdrawal of moneys from such Funds, or the reduction, increment or cancellation of appropriations or of proposed expenditures from such Funds,"
+          },
+          {
+            "subClauseLabel": "C",
+            "subClauseDescription": "the regulation of matters relating to the borrowing of money or the giving of guarantee by the State Government, or any matter pertaining to the amendment of the law with respect to any financial obligations undertaken or to be undertaken by the State Government,"
+          },
+          {
+            "subClauseLabel": "D",
+            "subClauseDescription": "the custody and investment of all revenues received by any State Government Fund, moneys acquired through the repayment of loans, and grant moneys; or audits of the accounts of the State Government, or"
+          },
+          {
+            "subClauseLabel": "E",
+            "subClauseDescription": "other incidental matters directly related to any of the subjects specified in clause (A), (B), (C) or (D)."
+          }
+        ]
+      },
+      {
+        "clauseNumber": 4,
+        "clauseDescription": "If any question arises whether a Bill is a Money Bill or not, the decision of the Speaker of State Assembly thereon shall be final."
+      }
+    ]
+  },
+  {
+    "part": "PartFifteen",
+    "articleNumber": 199,
+    "articleTitle": "Procedures for passage of Bills",
+    "clauses": [
+      {
+        "clauseNumber": 1,
+        "clauseDescription": "A Bill passed by the State Assembly shall be presented to the Chief of State for assent."
+      },
+      {
+        "clauseNumber": 2,
+        "clauseDescription": "If a session of the State Assembly terminates while a Bill is under consideration, deliberations on the Bill may continue at the succeeding session.",
+        "clauseExtraInfo": "Provided that if the State Assembly is dissolved or its term expires when any Bill is under its consideration, such a Bill shall lapse."
+      }
+    ]
+  },
+  {
+    "part": "PartFifteen",
+    "articleNumber": 200,
+    "articleTitle": "Withdrawal of Bills",
+    "articleDescription": "A member who has introduced a Bill may, with the approval of the State Assembly, withdraw the Bill."
+  },
+  {
+    "part": "PartFifteen",
+    "articleNumber": 201,
+    "articleTitle": "Assent on Bills",
+    "clauses": [
+      {
+        "clauseNumber": 1,
+        "clauseDescription": "A Bill which is to be presented to the Chief of State for assent under Article 199 shall be so presented by the Speaker of State Assembly after it has been certified by him or her.",
+        "clauseExtraInfo": "Provided that in the case of a Money Bill, the Speaker of State Assembly shall so certify."
+      },
+      {
+        "clauseNumber": 2,
+        "clauseDescription": "A Bill presented to the Chief of State for his or her assent shall be assented to within fifteen days, and the State Assembly shall be informed thereof as soon as possible."
+      },
+      {
+        "clauseNumber": 3,
+        "clauseDescription": "Except for a Money Bill, if the Chief of State is of the opinion that any Bill needs further deliberations, he or she may send back the Bill with his or her message to the State Assembly within fifteen days from the date of presentation of the Bill to him or her."
+      },
+      {
+        "clauseNumber": 4,
+        "clauseDescription": "If any Bill is sent back with his or her message by the Chief of State under clause (3), it shall be reconsidered by the State Assembly and if the Bill so reconsidered is again passed as it was or with amendments, and is again presented to him or her, the Chief of State shall give assent to that Bill within fifteen days of such presentation."
+      },
+      {
+        "clauseNumber": 5,
+        "clauseDescription": "A Bill shall become an Act after the Chief of State gives assent to it."
+      }
+    ]
+  },
+  {
+    "part": "PartFifteen",
+    "articleNumber": 202,
+    "articleTitle": "Ordinance",
+    "clauses": [
+      {
+        "clauseNumber": 1,
+        "clauseDescription": "If, at any time, except when the State Assembly is in session, a circumstance exists which renders it necessary to take immediate action, the Chief of State may, on the recommendation of the State Council of Ministers, promulgate an Ordinance."
+      },
+      {
+        "clauseNumber": 2,
+        "clauseDescription": "An Ordinance promulgated under clause (1) shall have the same force and effect as an Act.",
+        "clauseExtraInfo": [
+          {
+            "extraNumber": "A",
+            "extraDescription": "Every Ordinance shall be tabled at the session of the State Assembly held after the promulgation, and if not passed by the State Assembly, it shall ipso facto cease to be effective,"
+          },
+          {
+            "extraNumber": "B",
+            "extraDescription": "may be repealed at any time by the Chief of State, and"
+          },
+          {
+            "extraNumber": "C",
+            "extraDescription": "shall, unless rendered ineffective or repealed under sub-clause (A) or (B), ipso facto cease to be effective at the expiration of sixty days after the day on which a meeting of the State Assembly is held."
+          }
+        ]
+      }
+    ]
   }
 ]

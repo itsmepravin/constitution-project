@@ -8,7 +8,7 @@ const MySelect = ({ currentPart, setCurrentPart }) => {
   const handleSelectChange = (event) => setCurrentPart(event.target.value);
 
   return (
-    <Box sx={{ fontFamily: 'Arima Madurai, cursive' }}>
+    <Box>
       <FormControl sx={{ m: 1, minWidth: 180 }}>
         <InputLabel id="readPart-label">Read: </InputLabel>
         <Select
@@ -33,6 +33,12 @@ const MySelect = ({ currentPart, setCurrentPart }) => {
           <MenuItem value={'PartNine'}>Part 9 Federal Legislative Procedures (A109-A114)</MenuItem>
           <MenuItem value={'PartTen'}>Part 10 Federal Financial Procedures (A115-A125)</MenuItem>
           <MenuItem value={'PartEleven'}>Part 11 Judiciary (A126-A156)</MenuItem>
+          <MenuItem value={'PartTwelve'}>Part 12 Attorney General (A157-A161)</MenuItem>
+          <MenuItem value={'PartThirteen'}>Part 13 State Executive (A162-A174)</MenuItem>
+          <MenuItem value={'PartFourteen'}>Part 14 State Legislature (A175-A196)</MenuItem>
+          <MenuItem value={'PartFifteen'}>
+            Part 15 State Legislative Procedures (A197-A202)
+          </MenuItem>
         </Select>
       </FormControl>
     </Box>
