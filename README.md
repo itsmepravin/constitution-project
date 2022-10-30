@@ -31,3 +31,7 @@ A personal project to make the Constitution of Nepal into a website. The officia
 ## Oct 29, 2022 Commit
 
 1. Added Part 12(A157-A161), Part 13(A162-A174), Part 14(A175-A196) and Part 15(A197-A202).
+
+## Oct 30, 2022 Commit
+
+1. Added Part 16(A203-A213), Part 17(A214-A220), Part 18(A221-A227).

@@ -9,7 +9,7 @@ const MySelect = ({ currentPart, setCurrentPart }) => {
 
   return (
     <Box>
-      <FormControl sx={{ m: 1, minWidth: 180 }}>
+      <FormControl sx={{ mb: 4, maxWidth: 350 }}>
         <InputLabel id="readPart-label">Read: </InputLabel>
         <Select
           id="readPart"
@@ -39,6 +39,9 @@ const MySelect = ({ currentPart, setCurrentPart }) => {
           <MenuItem value={'PartFifteen'}>
             Part 15 State Legislative Procedures (A197-A202)
           </MenuItem>
+          <MenuItem value={'PartSixteen'}>Part 16 State Financial Procedures (A203-A213)</MenuItem>
+          <MenuItem value={'PartSeventeen'}>Part 17 Local Executive (A214-A220)</MenuItem>
+          <MenuItem value={'PartEighteen'}>Part 18 Local Legislature (A221-A227)</MenuItem>
         </Select>
       </FormControl>
     </Box>

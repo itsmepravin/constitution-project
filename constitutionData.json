@@ -4715,5 +4715,620 @@
         ]
       }
     ]
+  },
+  {
+    "part": "PartSixteen",
+    "articleNumber": 203,
+    "articleTitle": "No tax to be levied or loan to be raised",
+    "clauses": [
+      {
+        "clauseNumber": 1,
+        "clauseDescription": "No tax shall be levied and collected in a State except in accordance with law."
+      },
+      {
+        "clauseNumber": 2,
+        "clauseDescription": "No loan shall be raised and guarantee given by the State Government except as provided for in the Federal law."
+      }
+    ]
+  },
+  {
+    "part": "PartSixteen",
+    "articleNumber": 204,
+    "articleTitle": "State Consolidated Fund",
+    "articleDescription": "Except for the revenues of trusts (Guthi), all revenues received by the State Government, all loans raised on the security of revenues, all moneys received in repayment of any loans made under the authority of any State Act and any mounts of grants or loans received from the Government of Nepal shall, except as otherwise provided for in the State Act, be credited to a State Government Fund to be known as the State Consolidated Fund."
+  },
+  {
+    "part": "PartSixteen",
+    "articleNumber": 205,
+    "articleTitle": "Expenditures from State Consolidated Fund or State Government Fund",
+    "articleDescription": "No expenditure shall be incurred out of the State Consolidated Fund or any other State Government Fund except the following:",
+    "clauses": [
+      {
+        "clauseNumber": "A",
+        "clauseDescription": "moneys charged on the State Consolidated Fund,"
+      },
+      {
+        "clauseNumber": "B",
+        "clauseDescription": "moneys required to meet the expenditure under an Appropriation Act,"
+      },
+      {
+        "clauseNumber": "C",
+        "clauseDescription": "advance moneys authorized by an Act required to meet expenditures, when an Appropriation Bill is under consideration, or"
+      },
+      {
+        "clauseNumber": "D",
+        "clauseDescription": "expenditures to be incurred in extraordinary circumstances under a Vote of Credit Act which contains only a description of expenditures.",
+        "clauseExtraInfo": "Provided that matters relating to the State Contingency Fund shall be in accordance with Article 212."
+      }
+    ]
+  },
+  {
+    "part": "PartSixteen",
+    "articleNumber": 206,
+    "articleTitle": "Expenditures chargeable on State Consolidated Fund",
+    "articleDescription": "The expenditures relating to the following matters shall be charged on the State Consolidated Fund, and approval of the State Assembly shall not be required for such expenditures:",
+    "clauses": [
+      {
+        "clauseNumber": "A",
+        "clauseDescription": "the amount required as remuneration and facilities payable to the State Speaker and the State Deputy Speaker,"
+      },
+      {
+        "clauseNumber": "B",
+        "clauseDescription": "the amount required as remuneration and facilities payable to the Chairperson and members of the State Public Service Commission,"
+      },
+      {
+        "clauseNumber": "C",
+        "clauseDescription": "all charges relating to debts for which the State Government is liable,"
+      },
+      {
+        "clauseNumber": "D",
+        "clauseDescription": "any sum required to satisfy any judgment or decree made by a court against the State Government, and"
+      },
+      {
+        "clauseNumber": "E",
+        "clauseDescription": "any other sum specified by a State law to be chargeable on the State Consolidated Fund."
+      }
+    ]
+  },
+  {
+    "part": "PartSixteen",
+    "articleNumber": 207,
+    "articleTitle": "Estimates of revenues and expenditures",
+    "clauses": [
+      {
+        "clauseNumber": 1,
+        "clauseDescription": "The State Minister for Finance shall, in respect of every financial year, lay before the State Assembly an annual estimate setting out, inter alia, the following matters:",
+        "subClauses": [
+          {
+            "subClauseLabel": "A",
+            "subClauseDescription": "an estimate of revenues,"
+          },
+          {
+            "subClauseLabel": "B",
+            "subClauseDescription": "the moneys required to meet the charges on the State Consolidated Fund, and"
+          },
+          {
+            "subClauseLabel": "C",
+            "subClauseDescription": "the moneys required to meet the expenditure to be provided for by a State Appropriation Act."
+          }
+        ]
+      },
+      {
+        "clauseNumber": 2,
+        "clauseDescription": "The annual estimate to be laid pursuant to clause (1) shall also be accompanied by a statement of the expenses allocated to every Ministry in the previous financial year and particulars of whether the objectives of the expenses have been achieved."
+      }
+    ]
+  },
+  {
+    "part": "PartSixteen",
+    "articleNumber": 208,
+    "articleTitle": "State Appropriation Act",
+    "articleDescription": "The moneys required to meet the expenditure to be provided for by any State Appropriation Act shall be specified under appropriate heads in an Appropriation Bill."
+  },
+  {
+    "part": "PartSixteen",
+    "articleNumber": 209,
+    "articleTitle": "Supplementary estimates",
+    "clauses": [
+      {
+        "clauseNumber": 1,
+        "clauseDescription": "The State Minister for Finance may lay before the State Assembly a supplementary estimate if it is found in any financial year,-",
+        "subClauses": [
+          {
+            "subClauseLabel": "A",
+            "subClauseDescription": "that the sum authorized to be spent for a particular service by the State Appropriation Act for the current financial year is insufficient, or that a need has arisen for expenditures upon some new service not provided for in the State Appropriation Act for that year, or"
+          },
+          {
+            "subClauseLabel": "B",
+            "subClauseDescription": "that the expenditures made during that financial year are in excess of the amount authorized by the State Appropriation Act."
+          }
+        ]
+      },
+      {
+        "clauseNumber": 2,
+        "clauseDescription": "The sums included in the supplementary estimates shall be specified under the heads in a Supplementary Appropriation Bill."
+      }
+    ]
+  },
+  {
+    "part": "PartSixteen",
+    "articleNumber": 210,
+    "articleTitle": "Votes on Account",
+    "clauses": [
+      {
+        "clauseNumber": 1,
+        "clauseDescription": "Notwithstanding anything contained elsewhere in this Part, a portion of the expenditure estimated for the financial year may, when a State Appropriation Bill is under consideration, be incurred in advance under a State Act."
+      },
+      {
+        "clauseNumber": 2,
+        "clauseDescription": "A Vote on Account Bill shall not be introduced until the estimates of revenues and expenditures have been laid in accordance with Article 207, and the sums involved in the Vote on Account shall not exceed one-third of the estimate of expenditures for the financial year."
+      },
+      {
+        "clauseNumber": 3,
+        "clauseDescription": "The expenditures incurred in accordance with the State Vote on Account Act shall be included in the State Appropriation Bill."
+      }
+    ]
+  },
+  {
+    "part": "PartSixteen",
+    "articleNumber": 211,
+    "articleTitle": "Votes of Credit",
+    "articleDescription": "Notwithstanding anything contained elsewhere in this Part, if owing to an emergency due to natural causes or other reasons, it appears to be impractical or inexpedient in view of the security or interest of the State to specify the details required under clause (1) of Article 207, the State Minister for Finance may lay before the State Assembly a Vote of Credit Bill giving only a statement of expenditures."
+  },
+  {
+    "part": "PartSixteen",
+    "articleNumber": 212,
+    "articleTitle": "State Contingency Fund",
+    "clauses": [
+      {
+        "clauseNumber": 1,
+        "clauseDescription": "A State Act may create a Fund to be known as the State Contingency Fund into which shall be paid from time to time such moneys as may be determined by the State Act."
+      },
+      {
+        "clauseNumber": 2,
+        "clauseDescription": "The Fund under clause (1) shall be under the control of the State Government. Any unforeseen expenditure may be met out of such Fund by the State Government."
+      },
+      {
+        "clauseNumber": 3,
+        "clauseDescription": "The amount of the expenditure under clause (2) shall be reimbursed as soon as possible by the State Act."
+      }
+    ]
+  },
+  {
+    "part": "PartSixteen",
+    "articleNumber": 213,
+    "articleTitle": "Act relating to financial procedures",
+    "articleDescription": "Matters relating to the transfer of moneys appropriated by the State Act from one head to another and other financial procedures shall be as provided for in the State Act."
+  },
+  {
+    "part": "PartSeventeen",
+    "articleNumber": 214,
+    "articleTitle": "Executive power of Local Level",
+    "clauses": [
+      {
+        "clauseNumber": 1,
+        "clauseDescription": "The executive power of the Local Level shall, pursuant to this Constitution and the Federal law, be vested in the Village Executive or the Municipal Executive."
+      },
+      {
+        "clauseNumber": 2,
+        "clauseDescription": "The local executive power shall be as mentioned in Schedule-8 and Schedule-9."
+      },
+      {
+        "clauseNumber": 3,
+        "clauseDescription": "The responsibility for issuing general directives, controlling and regulating the governance of the Village Body and the Municipality shall, subject to this Constitution and other laws, lie in the Village Executive and the Municipal Executive."
+      },
+      {
+        "clauseNumber": 4,
+        "clauseDescription": "The executive functions of the Village Body and the Municipality shall be performed in the name of the Village Executive and the Municipal Executive."
+      },
+      {
+        "clauseNumber": 5,
+        "clauseDescription": "Any decision or order to be issued in the name of the Village Executive and the Municipal Executive pursuant to clause (4) and other instruments of authorization pertaining thereto shall be authenticated as provided for in the Local law."
+      }
+    ]
+  },
+  {
+    "part": "PartSeventeen",
+    "articleNumber": 215,
+    "articleTitle": "Provisions relating to Chairperson and Vice-Chairperson of Village Executive",
+    "clauses": [
+      {
+        "clauseNumber": 1,
+        "clauseDescription": "There shall be a Chairperson of Village Executive in each Village Body. The Village Executive shall be formed under his or her chairpersonship."
+      },
+      {
+        "clauseNumber": 2,
+        "clauseDescription": "The Village Executive under clause (1) shall consist of one Vice-Chairperson, Ward Chairperson elected from each Ward and members elected pursuant to clause (4)."
+      },
+      {
+        "clauseNumber": 3,
+        "clauseDescription": "The Chairperson and the Vice-Chairperson shall be elected by the voters residing within the concerned Village Body area by secret ballots on the basis of one person one vote, in accordance with the first past the post electoral system.",
+        "clauseExplanation": "For the purposes of this Article, 'Chairperson' and 'Vice-Chairperson' mean the Chairperson and the Vice-Chairperson of the Village Executive."
+      },
+      {
+        "clauseNumber": 4,
+        "clauseDescription": "The members of the Village Executive shall also include four women members elected by the members of the Village Assembly from amongst themselves and two members elected by the Village Assembly from the Dalit or minority communities, in possession of the qualification under clause (5), no later than fifteen days after the final results of the election to the Village Assembly under Article 222."
+      },
+      {
+        "clauseNumber": 5,
+        "clauseDescription": "A person who has the following qualification shall be qualified to be elected to the office of the Chairperson, Vice-Chairperson, Ward Chairperson and member:",
+        "subClauses": [
+          {
+            "subClauseLabel": "A",
+            "subClauseDescription": "being a citizen of Nepal,"
+          },
+          {
+            "subClauseLabel": "B",
+            "subClauseDescription": "having completed the age of twenty one years,"
+          },
+          {
+            "subClauseLabel": "C",
+            "subClauseDescription": "being a voter whose name is included in the electoral rolls of the Village Body,"
+          },
+          {
+            "subClauseLabel": "D",
+            "subClauseDescription": "not being disqualified by any law."
+          }
+        ]
+      },
+      {
+        "clauseNumber": 6,
+        "clauseDescription": "The term of office of the Chairperson, Vice-Chairperson, Ward Chairperson and member shall be five years after the date of being elected."
+      },
+      {
+        "clauseNumber": 7,
+        "clauseDescription": "A person who has been elected as the Chairperson for two terms shall not be eligible to be a candidate in an election to the Village Body."
+      },
+      {
+        "clauseNumber": 8,
+        "clauseDescription": "The office of the Chairperson, Vice-Chairperson, Ward Chairperson or member shall become vacant in any of the following circumstances:",
+        "subClauses": [
+          {
+            "subClauseLabel": "A",
+            "subClauseDescription": "if the Chairperson tenders resignation in writing to the Vice-Chairperson, and if the Vice-Chairperson tenders resignation before the Chairperson,"
+          },
+          {
+            "subClauseLabel": "B",
+            "subClauseDescription": "if his or her term of office expires,"
+          },
+          {
+            "subClauseLabel": "C",
+            "subClauseDescription": "if he or she dies."
+          }
+        ]
+      },
+      {
+        "clauseNumber": 9,
+        "clauseDescription": "If the seat falls vacant under clause (7) while the term of office of the Chairperson or Vice-Chairperson still remains for more than one year, the vacancy shall be filled through by-election for the remainder of term."
+      }
+    ]
+  },
+  {
+    "part": "PartSeventeen",
+    "articleNumber": 216,
+    "articleTitle": "Provisions relating to Mayor and Deputy Mayor of Municipal Executive",
+    "clauses": [
+      {
+        "clauseNumber": 1,
+        "clauseDescription": "Each Municipality shall have a Mayor. The Municipal Executive shall be formed under his or her chairpersonship."
+      },
+      {
+        "clauseNumber": 2,
+        "clauseDescription": "The Municipal Executive under clause (1) shall consist of one Deputy Mayor, Ward Chairperson elected from each Ward and members elected pursuant to clause (4)."
+      },
+      {
+        "clauseNumber": 3,
+        "clauseDescription": "The Mayor and the Deputy Mayor shall be elected by the voters residing within the concerned Municipal area by secret ballots on the basis of one person one vote, in accordance with the first past the post electoral system.",
+        "clauseExplanation": "For the purposes of this Article, 'Mayor' and 'Deputy Mayor' mean the Mayor and the Deputy Mayor of the Municipal Executive."
+      },
+      {
+        "clauseNumber": 4,
+        "clauseDescription": "The members of the Municipal Executive shall also include five women members elected by the members of the Municipal Assembly from amongst themselves and three members elected by the Municipal Assembly from the Dalit or minority communities, in possession of the qualification under clause (5), no later than fifteen days after the final results of the election to the Municipal Assembly under Article 223."
+      },
+      {
+        "clauseNumber": 5,
+        "clauseDescription": "A person who has the following qualification shall be qualified to be elected to the office of the Mayor, Deputy Mayor, Ward Chairperson and member:",
+        "subClauses": [
+          {
+            "subClauseLabel": "A",
+            "subClauseDescription": "being a citizen of Nepal,"
+          },
+          {
+            "subClauseLabel": "B",
+            "subClauseDescription": "having completed the age of twenty one years,"
+          },
+          {
+            "subClauseLabel": "C",
+            "subClauseDescription": "being a voter whose name is included in the electoral rolls of the Municipality,"
+          },
+          {
+            "subClauseLabel": "D",
+            "subClauseDescription": "not being disqualified by any law."
+          }
+        ]
+      },
+      {
+        "clauseNumber": 6,
+        "clauseDescription": "The term of office of the Mayor, Deputy Mayor, Ward Chairperson and member shall be five years after the date of being elected."
+      },
+      {
+        "clauseNumber": 7,
+        "clauseDescription": "A person who has been elected as the Mayor for two terms shall not be eligible to be a candidate in an election to the Municipality."
+      },
+      {
+        "clauseNumber": 8,
+        "clauseDescription": "The office of the Mayor, Deputy Mayor, Ward Chairperson or Member shall become vacant in any of the following circumstances:",
+        "subClauses": [
+          {
+            "subClauseLabel": "A",
+            "subClauseDescription": "if the Mayor tenders resignation in writing to the Deputy Mayor, and if the Deputy Mayor tenders resignation in writing before the Mayor,"
+          },
+          {
+            "subClauseLabel": "B",
+            "subClauseDescription": "if his or her term of office expires,"
+          },
+          {
+            "subClauseLabel": "C",
+            "subClauseDescription": "if he or she dies."
+          }
+        ]
+      },
+      {
+        "clauseNumber": 9,
+        "clauseDescription": "If the seat falls vacant under clause (8) while the term of office of the Mayor or Deputy Mayor still remains for more than one year, the vacancy shall be filled through by-election for the remainder of term."
+      }
+    ]
+  },
+  {
+    "part": "PartSeventeen",
+    "articleNumber": 217,
+    "articleTitle": "Judicial Committee",
+    "clauses": [
+      {
+        "clauseNumber": 1,
+        "clauseDescription": "There shall be a three-member judicial committee to be coordinated by its Vice-Chairperson in the case of a Village Body and by its Deputy Mayor in the case of a Municipality, in order to settle disputes under their respective jurisdictions in accordance with law."
+      },
+      {
+        "clauseNumber": 2,
+        "clauseDescription": "The judicial committee under clause (1) shall consist of two members elected by the members of the Village Assembly or the Municipal Assembly from amongst themselves."
+      }
+    ]
+  },
+  {
+    "part": "PartSeventeen",
+    "articleNumber": 218,
+    "articleTitle": "Conduct of business of Village Executive and Municipal Executive",
+    "articleDescription": "Allocation and conduct of business of the Village Executive and the Municipal Executive shall be carried out in accordance with the rules approved by the Village Executive and the Municipal Executive, respectively."
+  },
+  {
+    "part": "PartSeventeen",
+    "articleNumber": 219,
+    "articleTitle": "Other provisions relating to Local Level Executive",
+    "articleDescription": "Other provisions relating to the Local Level Executive, except those contained in this Part, shall be as provided for in the Federal law, subject to this Constitution."
+  },
+  {
+    "part": "PartSeventeen",
+    "articleNumber": 220,
+    "articleTitle": "District Assembly and District Coordination Committee",
+    "clauses": [
+      {
+        "clauseNumber": 1,
+        "clauseDescription": "There shall be a District Assembly to make coordination between the Village Bodies and Municipalities within the district."
+      },
+      {
+        "clauseNumber": 2,
+        "clauseDescription": "The District Assembly shall consist of Chairpersons and Vice-Chairpersons of Village Executives, and Mayors and Deputy Mayors of Municipal Executives within the district. The first meeting of the District Assembly shall be held no later than thirty days of the date of final results of the election to the Village Assemblies and the Municipal Assemblies."
+      },
+      {
+        "clauseNumber": 3,
+        "clauseDescription": "The District Assembly shall elect the District Coordination Committee consisting of a maximum of nine Members including one Chief, one Deputy Chief, at least three women and at least one Dalit or minority. The District Coordination Committee shall discharge all functions required to be discharged by the District Assembly."
+      },
+      {
+        "clauseNumber": 4,
+        "clauseDescription": "A Member of a Village Assembly or Municipal Assembly within the concerned district shall be eligible to be a candidate for the office of Chief, Deputy Chief or Member of the District Coordination Committee. If elected to the office of Chief, Deputy Chief or Member of the District Coordination Committee, his or her office of Member of Village Assembly or of Municipal Assembly shall ipso facto lapse."
+      },
+      {
+        "clauseNumber": 5,
+        "clauseDescription": "The term of office of the Chief, Deputy Chief and member of the District Coordination Committee shall be five years after the date of being elected."
+      },
+      {
+        "clauseNumber": 6,
+        "clauseDescription": "The office of the Chief, Deputy Chief and member of the District Coordination Committee shall become vacant in any of the following circumstances:",
+        "subClauses": [
+          {
+            "subClauseLabel": "A",
+            "subClauseDescription": "if the Chief tenders resignation in writing before the Deputy Chief, and if the Deputy Chief or member tenders resignation in writing before the Chief,"
+          },
+          {
+            "subClauseLabel": "B",
+            "subClauseDescription": "if his or her term of office expires,"
+          },
+          {
+            "subClauseLabel": "C",
+            "subClauseDescription": "if he or she dies."
+          }
+        ]
+      },
+      {
+        "clauseNumber": 7,
+        "clauseDescription": "The functions, duties and powers of the District Assembly shall be as follows:",
+        "subClauses": [
+          {
+            "subClauseLabel": "A",
+            "subClauseDescription": "to make coordination between the Village Bodies and Municipalities within the district,"
+          },
+          {
+            "subClauseLabel": "B",
+            "subClauseDescription": "to monitor development and construction works to make balance of such works,"
+          },
+          {
+            "subClauseLabel": "C",
+            "subClauseDescription": "to make coordination between the Federal and the State Government offices and Village Bodies and Municipalities in the district,"
+          },
+          {
+            "subClauseLabel": "D",
+            "subClauseDescription": "to perform other functions as provided for in the State law."
+          }
+        ]
+      },
+      {
+        "clauseNumber": 8,
+        "clauseDescription": "Provisions relating to the conduct of the District Assembly, facilities of Members of the District Coordination Committee and other matters relating to the District Assembly shall be as provided for in the State law."
+      }
+    ]
+  },
+  {
+    "part": "PartEighteen",
+    "articleNumber": 221,
+    "articleTitle": "Legislative powers of Local Level",
+    "clauses": [
+      {
+        "clauseNumber": 1,
+        "clauseDescription": "The legislative powers of the Local Level shall be vested in the Village Assembly and the Municipal Assembly, subject to this Constitution."
+      },
+      {
+        "clauseNumber": 2,
+        "clauseDescription": "The legislative powers of the Village Assembly and the Municipal Assembly shall be as mentioned in the lists contained in Schedule-8 and Schedule-9."
+      }
+    ]
+  },
+  {
+    "part": "PartEighteen",
+    "articleNumber": 222,
+    "articleTitle": "Composition of Village Assembly",
+    "clauses": [
+      {
+        "clauseNumber": 1,
+        "clauseDescription": "Each Village Body shall have a Village Assembly."
+      },
+      {
+        "clauseNumber": 2,
+        "clauseDescription": "A Village Assembly under clause (1) shall consist of the Chairperson and Vice-Chairperson of the Village Executive, Ward Chairpersons, and four members elected from each ward and Members of the Village Executive elected from Dalit and minority communities pursuant to clause (4) of Article 215."
+      },
+      {
+        "clauseNumber": 3,
+        "clauseDescription": "A Village Assembly to be formed under clause (1) shall have representation of at least two women from each ward."
+      },
+      {
+        "clauseNumber": 4,
+        "clauseDescription": "Each ward of a Village Body under the Federal law shall have a Ward Committee composed of the Ward Chairperson and four members. Such Ward Chairperson and Ward members shall be elected in accordance with the first past the post electoral system."
+      },
+      {
+        "clauseNumber": 5,
+        "clauseDescription": "Every person who has completed the age of eighteen years and whose name is included in the electoral rolls of the Village Body shall have a right to vote as provided for in the Federal law."
+      },
+      {
+        "clauseNumber": 6,
+        "clauseDescription": "A person who has the following qualification shall be qualified to become a candidate for the office of the Member of the Village Assembly:",
+        "subClauses": [
+          {
+            "subClauseLabel": "A",
+            "subClauseDescription": "being a citizen of Nepal,"
+          },
+          {
+            "subClauseLabel": "B",
+            "subClauseDescription": "having completed the age of twenty one years,"
+          },
+          {
+            "subClauseLabel": "C",
+            "subClauseDescription": "being his or her name included in the electoral rolls of the Village Body, and"
+          },
+          {
+            "subClauseLabel": "D",
+            "subClauseDescription": "not being disqualified by any law."
+          }
+        ]
+      },
+      {
+        "clauseNumber": 7,
+        "clauseDescription": "Matters relating to the election to the Village Assembly and other matters pertaining thereto shall be as provided for in the Federal law."
+      }
+    ]
+  },
+  {
+    "part": "PartEighteen",
+    "articleNumber": 223,
+    "articleTitle": "Composition of Municipal Assembly",
+    "clauses": [
+      {
+        "clauseNumber": 1,
+        "clauseDescription": "Each Municipality shall have a Municipal Assembly."
+      },
+      {
+        "clauseNumber": 2,
+        "clauseDescription": "A Municipal Assembly under clause (1) shall consist of the Mayor and the Deputy Mayor of the Municipal Executive, Ward Chairpersons, and four members elected from each Ward and members of the Municipal Executive elected from Dalit or minority communities pursuant to clause (4) of Article 216."
+      },
+      {
+        "clauseNumber": 3,
+        "clauseDescription": "A Municipal Assembly to be formed under clause (1) shall have representation of at least two women from each Ward."
+      },
+      {
+        "clauseNumber": 4,
+        "clauseDescription": "Each ward of a Municipality shall have a Ward Committee composed of one Ward Chairperson and four members as provided for in the Federal law. Such Ward Chairperson and Ward members shall be elected in accordance with the first past the post electoral system."
+      },
+      {
+        "clauseNumber": 5,
+        "clauseDescription": "Every person who has completed the age of eighteen years and whose name is included in the electoral rolls of the Municipality shall have a right to vote as provided for in the Federal law."
+      },
+      {
+        "clauseNumber": 6,
+        "clauseDescription": "A person who has the following qualification shall be qualified to be a candidate for the office of member of the Municipal Assembly:",
+        "subClauses": [
+          {
+            "subClauseLabel": "A",
+            "subClauseDescription": "being a citizen of Nepal,"
+          },
+          {
+            "subClauseLabel": "B",
+            "subClauseDescription": "having completed the age of twenty one years, (C) being his or her name included in the electoral rolls of the Municipality, and"
+          },
+          {
+            "subClauseLabel": "C",
+            "subClauseDescription": "being his or her name included in the electoral rolls of the Municipality, and"
+          },
+          {
+            "subClauseLabel": "D",
+            "subClauseDescription": "not being disqualified by any law."
+          }
+        ]
+      },
+      {
+        "clauseNumber": 7,
+        "clauseDescription": "Matters relating to the election to the Municipal Assembly and other matters pertaining thereto shall be as provided for in the Federal law."
+      }
+    ]
+  },
+  {
+    "part": "PartEighteen",
+    "articleNumber": 224,
+    "articleTitle": "Chairperson and Vice-Chairperson of Village Assembly and Municipal Assembly",
+    "articleDescription": "The Chairperson and Vice-Chairperson of a Village Executive and the Mayor and Deputy Mayor of a Municipal Executive shall ipso facto be the Chairperson and Vice-Chairperson of the Village Assembly and the Municipal Assembly, respectively, and perform functions as such."
+  },
+  {
+    "part": "PartEighteen",
+    "articleNumber": 225,
+    "articleTitle": "Term of Village Assembly and Municipal Assembly",
+    "articleDescription": "The term of a Village Assembly and of a Municipal Assembly shall be five years for the date of election. Another Village Assembly and Municipal Assembly shall be elected not later than six months of the expiration of such a term."
+  },
+  {
+    "part": "PartEighteen",
+    "articleNumber": 226,
+    "articleTitle": "Powers to make law",
+    "clauses": [
+      {
+        "clauseNumber": 1,
+        "clauseDescription": "A Village Assembly and a Municipal Assembly may make necessary laws on the matters set forth in the Lists contained in Schedule-8 and Schedule-9."
+      },
+      {
+        "clauseNumber": 2,
+        "clauseDescription": "The process for making laws under clause (1) shall be as provided for in the State Law."
+      }
+    ]
+  },
+  {
+    "part": "PartEighteen",
+    "articleNumber": 227,
+    "articleTitle": "Other provisions relating to Village Assembly and Municipal Assembly",
+    "articleDescription": "Other matters relating to the conduct of business of a Village Assembly and Municipal Assembly, rules of procedures of meetings, formation of committees, conditions in which the office of member falls vacant, facilities receivable by members of the Village Assembly and Municipal Assembly and employees and offices of the Village Body and Municipality shall be as provided for in the State law."
   }
 ]
