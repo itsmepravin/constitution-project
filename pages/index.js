@@ -16,7 +16,8 @@ const Index = () => {
     <Container
       maxWidth="lg"
       sx={{
-        background: '#efefef',
+        background: '#242424',
+        color: '#f9f9f9',
         textAlign: 'center',
       }}
     >

@@ -7,7 +7,7 @@ export default function Copyright() {
       component="p"
       color="text.secondary"
       align="center"
-      sx={{ my: 2, py: 2 }}
+      sx={{ my: 2, py: 2, color: '#f9f9f9' }}
     >
       This is a work-in-progress. Remaining Articles/Data are yet to be added.
     </Typography>

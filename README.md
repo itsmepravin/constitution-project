@@ -35,3 +35,9 @@ A personal project to make the Constitution of Nepal into a website. The officia
 ## Oct 30, 2022 Commit
 
 1. Added Part 16(A203-A213), Part 17(A214-A220), Part 18(A221-A227).
+
+## Oct 31, 2022 Commit
+
+1. Added Part 19(A228-A230), Part 20(A231-A237), Part 21(A238-A239), Part 22(A240-A241). Part 23(A242-A244), Part 24(A245-A247) and Part 25(A248-A249).
+2. Theme is dark by default now.
+3. Accordion Details now retains the border left size and color when expanded.

@@ -42,6 +42,21 @@ const MySelect = ({ currentPart, setCurrentPart }) => {
           <MenuItem value={'PartSixteen'}>Part 16 State Financial Procedures (A203-A213)</MenuItem>
           <MenuItem value={'PartSeventeen'}>Part 17 Local Executive (A214-A220)</MenuItem>
           <MenuItem value={'PartEighteen'}>Part 18 Local Legislature (A221-A227)</MenuItem>
+          <MenuItem value={'PartNineteen'}>Part 19 Local Financial Procedures (A228-A230)</MenuItem>
+          <MenuItem value={'PartTwenty'}>
+            Part 20 Interrelations between Federation, State and Local Level (A231-A237)
+          </MenuItem>
+          <MenuItem value={'PartTwentyOne'}>
+            Part 21 Commission for the Investigation of Abuse of Authority (A238-A239)
+          </MenuItem>
+          <MenuItem value={'PartTwentyTwo'}>Part 22 Auditor General (A240-A241)</MenuItem>
+          <MenuItem value={'PartTwentyThree'}>
+            Part 23 Public Service Commission (A242-A244)
+          </MenuItem>
+          <MenuItem value={'PartTwentyFour'}>Part 24 Election Commission (A245-A247)</MenuItem>
+          <MenuItem value={'PartTwentyFive'}>
+            Part 25 National Human Rights Commission (A248-A249)
+          </MenuItem>
         </Select>
       </FormControl>
     </Box>

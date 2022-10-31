@@ -5330,5 +5330,882 @@
     "articleNumber": 227,
     "articleTitle": "Other provisions relating to Village Assembly and Municipal Assembly",
     "articleDescription": "Other matters relating to the conduct of business of a Village Assembly and Municipal Assembly, rules of procedures of meetings, formation of committees, conditions in which the office of member falls vacant, facilities receivable by members of the Village Assembly and Municipal Assembly and employees and offices of the Village Body and Municipality shall be as provided for in the State law."
+  },
+  {
+    "part": "PartNineteen",
+    "articleNumber": 228,
+    "articleTitle": "No tax to be levied or loan to be raised",
+    "clauses": [
+      {
+        "clauseNumber": 1,
+        "clauseDescription": "No tax shall be levied and collected and no loan raised in the Local level except in accordance with law."
+      },
+      {
+        "clauseNumber": 2,
+        "clauseDescription": "The Local level may levy tax by law on matters falling within its domain without prejudice to national economic policies, carriage of goods and services, capital and labour market, and the neighbouring State or Local level."
+      }
+    ]
+  },
+  {
+    "part": "PartNineteen",
+    "articleNumber": 229,
+    "articleTitle": "Local Consolidated Fund",
+    "clauses": [
+      {
+        "clauseNumber": 1,
+        "clauseDescription": "Each Village Body and Municipality under the Local Level shall have one Local Consolidate Fund. All revenues received by the Village Body or Municipality, any amounts of grants received from the Government of Nepal and the State Government, all loans raised by the Village Body and Municipality, and amounts received from other sources shall be credited to such a Fund."
+      },
+      {
+        "clauseNumber": 2,
+        "clauseDescription": "Matters relating to expenditures from the Local Consolidated Fund under clause (1) shall be as provided for in the Local law."
+      }
+    ]
+  },
+  {
+    "part": "PartNineteen",
+    "articleNumber": 230,
+    "articleTitle": "Estimates of revenues and expenditures of Village Body and Municipality",
+    "clauses": [
+      {
+        "clauseNumber": 1,
+        "clauseDescription": "The Village Executive and the Municipal Executive shall, subject to this Constitution, lay an estimate of revenues and expenditures of every financial year before, and have the estimate passed by, the Village Assembly and the Municipal Assembly, respectively, as provided for in the Local law."
+      },
+      {
+        "clauseNumber": 2,
+        "clauseDescription": "If, in laying an estimate of revenues and expenditures under clause (1), the Village Executive or Municipal Executive is required to make a deficit budget, it must purpose also the sources to meet the deficit as provided for in the Federal law and the State law."
+      }
+    ]
+  },
+  {
+    "part": "PartTwenty",
+    "articleNumber": 231,
+    "articleTitle": "Legislative interrelations between Federation and States",
+    "clauses": [
+      {
+        "clauseNumber": 1,
+        "clauseDescription": "The Federal Law may be made to be applicable to the whole of, or, if required, to any part of, the territory of Nepal."
+      },
+      {
+        "clauseNumber": 2,
+        "clauseDescription": "A State law may be made to be applicable to the whole of, or as required, to any part of the territory of the State."
+      },
+      {
+        "clauseNumber": 3,
+        "clauseDescription": "If two or more States make a request to the Government of Nepal to make laws on any matter enumerated in Schedule-6, the Federal Parliament may make necessary laws. Such laws shall be applicable only to the concerned States."
+      }
+    ]
+  },
+  {
+    "part": "PartTwenty",
+    "articleNumber": 232,
+    "articleTitle": "Relations between Federation, State and Local level",
+    "clauses": [
+      {
+        "clauseNumber": 1,
+        "clauseDescription": "The relations between the Federation, States, and Local level shall be based on the principles of cooperation, co-existence and coordination."
+      },
+      {
+        "clauseNumber": 2,
+        "clauseDescription": "The Government of Nepal may, pursuant to this Constitution and the Federal Law, give necessary directions to any State Council of Ministers on matters of national importance and on matters to be coordinated between the States, and it shall be the duty of the concerned State Council of Ministers to abide by such directions."
+      },
+      {
+        "clauseNumber": 3,
+        "clauseDescription": "If any such type of act as may seriously undermine the sovereignty, territorial integrity, nationality or independence of Nepal is carried out in any State, the President may, as required, warn such State Council of Ministers, suspend or dissolve the State Council of Ministers and the State Assembly for a period not exceeding six months."
+      },
+      {
+        "clauseNumber": 4,
+        "clauseDescription": "Any suspension or dissolution of any State Council of Ministers and State Assembly made pursuant to clause (3) must get ratified by a two-thirds majority of the total number of the then members of the Federal Parliament within thirty five days."
+      },
+      {
+        "clauseNumber": 5,
+        "clauseDescription": "If dissolution made pursuant to clause (3) is ratified by the Federal Parliament, election to the State Assembly shall be held in such State within six months.",
+        "clauseExtraInfo": "Provided that such suspension or dissolution shall ipso facto be invalid if it is not ratified by the Federal Parliament."
+      },
+      {
+        "clauseNumber": 6,
+        "clauseDescription": "The Federal ruling shall apply to such State during the period of such suspension if the suspension made pursuant to clause (3) is ratified pursuant to clause (4) and until election to the State Assembly is held pursuant to clause (5)."
+      },
+      {
+        "clauseNumber": 7,
+        "clauseDescription": "During the continuance of the Federal rule, the Federal Parliament may make laws with respect to any matter enumerated in the List contained in Schedule-6. Such laws shall continue to exist until repealed by other laws made by the concerned State Assembly."
+      },
+      {
+        "clauseNumber": 8,
+        "clauseDescription": "The Government of Nepal may, directly or through the State Government, render necessary assistance to, and give necessary directives to, any Village Executive or Municipal Executive, pursuant to this Constitution and the Federal law. It shall be the duty of the Village Executive or Municipal Executive to abide by such directives."
+      }
+    ]
+  },
+  {
+    "part": "PartTwenty",
+    "articleNumber": 233,
+    "articleTitle": "Relations between States",
+    "clauses": [
+      {
+        "clauseNumber": 1,
+        "clauseDescription": "One State shall render assistance in the execution of legal provisions or judicial and administrative decisions or orders of another State."
+      },
+      {
+        "clauseNumber": 2,
+        "clauseDescription": "A State may exchange information and consult with another State on matters of common concern and interest, coordinate each other on their activities and legislations and extend mutual assistance."
+      },
+      {
+        "clauseNumber": 3,
+        "clauseDescription": "A State shall, in accordance with its State law, provide equal security, treatment and facility to residents of another State."
+      }
+    ]
+  },
+  {
+    "part": "PartTwenty",
+    "articleNumber": 234,
+    "articleTitle": "Inter-State Council",
+    "clauses": [
+      {
+        "clauseNumber": 1,
+        "clauseDescription": "There shall be an Inter-State Council as follows to settle political disputes arising between the Federation and a State and between States:",
+        "subClauses": [
+          {
+            "subClauseLabel": "A",
+            "subClauseDescription": "Prime Minister - Chairperson"
+          },
+          {
+            "subClauseLabel": "B",
+            "subClauseDescription": "Minister for Home Affairs of the Government of Nepal - Member"
+          },
+          {
+            "subClauseLabel": "C",
+            "subClauseDescription": "Minister for Finance of the Government of Nepal - Member"
+          },
+          {
+            "subClauseLabel": "D",
+            "subClauseDescription": "Chief Ministers of the concerned States - Member"
+          }
+        ]
+      },
+      {
+        "clauseNumber": 2,
+        "clauseDescription": "The Inter-State Council may meet as required."
+      },
+      {
+        "clauseNumber": 3,
+        "clauseDescription": "The Inter-State Council may invite to its meeting a Minister of the Government of Nepal and a Minister of the concerned State who is responsible for the matter of dispute and a concerned expert."
+      },
+      {
+        "clauseNumber": 4,
+        "clauseDescription": "The rules of procedures of the meeting of the Inter-State Council shall be as determined by the Council itself."
+      }
+    ]
+  },
+  {
+    "part": "PartTwenty",
+    "articleNumber": 235,
+    "articleTitle": "Coordination between Federation, State and Local Level",
+    "clauses": [
+      {
+        "clauseNumber": 1,
+        "clauseDescription": "The Federal Parliament shall make necessary laws in order to maintain coordination between the Federation, State and Local level."
+      },
+      {
+        "clauseNumber": 2,
+        "clauseDescription": "The State Assembly may maintain coordination between the State and Village Bodies or Municipalities and settle political disputes, if any, that have arisen, in coordination with the concerned Village Body, Municipality and the District Coordination Committee."
+      },
+      {
+        "clauseNumber": 3,
+        "clauseDescription": "The processes and procedures for the settlement of disputes under clause (2) shall be as provided for in the State law."
+      }
+    ]
+  },
+  {
+    "part": "PartTwenty",
+    "articleNumber": 236,
+    "articleTitle": "Inter-State trade",
+    "articleDescription": "Notwithstanding anything contained elsewhere in this Constitution, it is prohibited to make any kind of obstruction to the carriage of goods or extension of services by a State or Local level to another State or Local level or to the carriage of goods or extension of services to any State or Local Level or to levy tax, fee or charge thereon or to make any kind of discrimination on the carriage or extension of such services or goods."
+  },
+  {
+    "part": "PartTwenty",
+    "articleNumber": 237,
+    "articleTitle": "Not to affect jurisdiction of Constitutional Bench of Supreme Court",
+    "articleDescription": "Nothing contained in this Part shall affect the jurisdiction of the Constitutional Bench of the Supreme Court under Article 137."
+  },
+  {
+    "part": "PartTwentyOne",
+    "articleNumber": 238,
+    "articleTitle": "Commission for the Investigation of Abuse of Authority",
+    "clauses": [
+      {
+        "clauseNumber": 1,
+        "clauseDescription": "There shall be a Commission for the Investigation of Abuse of Authority of Nepal, consisting of the Chief Commissioner and four other Commissioners. The Chief Commissioner shall act as the Chairperson of the Commission for the Investigation of Abuse of Authority."
+      },
+      {
+        "clauseNumber": 2,
+        "clauseDescription": "The President shall, on recommendation of the Constitutional Council, appoint the Chief Commissioner and Commissioners."
+      },
+      {
+        "clauseNumber": 3,
+        "clauseDescription": "The term of office of the Chief Commissioner and Commissioners shall be six years from the date of appointment."
+      },
+      {
+        "clauseNumber": 4,
+        "clauseDescription": "Notwithstanding anything contained in clause (3), the office of the Chief Commissioner or a Commissioner shall be vacant in any of the following circumstances:",
+        "subClauses": [
+          {
+            "subClauseLabel": "A",
+            "subClauseDescription": "if he or she tenders resignation in writing to the President,"
+          },
+          {
+            "subClauseLabel": "B",
+            "subClauseDescription": "if he or she attains the age of sixty-five years,"
+          },
+          {
+            "subClauseLabel": "C",
+            "subClauseDescription": "if a motion of impeachment is passed against him or her under Article 101,"
+          },
+          {
+            "subClauseLabel": "D",
+            "subClauseDescription": "if he or she is removed from office by the President on recommendation of the Constitutional Council on grounds of his or her inability to hold office and discharge the functions due to physical or mental illness,"
+          },
+          {
+            "subClauseLabel": "E",
+            "subClauseDescription": "if he or she dies."
+          }
+        ]
+      },
+      {
+        "clauseNumber": 5,
+        "clauseDescription": "The Chief Commissioner and Commissioners appointed under clause (2) shall not be eligible for reappointment.",
+        "clauseExtraInfo": "Provided that a Commissioner may be appointed to the office of Chief Commissioner, and when a Commissioner is so appointed as the Chief Commissioner, his or her term of office shall be so computed as to include his or her term as the Commissioner."
+      },
+      {
+        "clauseNumber": 6,
+        "clauseDescription": "A person shall be eligible to be appointed as the Chief Commissioner or a Commissioner of the Commission for the Investigation of Abuse of Authority if he or she possesses the following qualification:",
+        "subClauses": [
+          {
+            "subClauseLabel": "A",
+            "subClauseDescription": "holding a bachelor's degree from a recognized university,"
+          },
+          {
+            "subClauseLabel": "B",
+            "subClauseDescription": "not being a member of any political party at the time of appointment,"
+          },
+          {
+            "subClauseLabel": "C",
+            "subClauseDescription": "having gained at least twenty years of experiences in the field of either accounting, revenue, engineering, law, development or research and being a distinguished person,"
+          },
+          {
+            "subClauseLabel": "D",
+            "subClauseDescription": "having attained the age of forty five years, and"
+          },
+          {
+            "subClauseLabel": "E",
+            "subClauseDescription": "being of high moral character."
+          }
+        ]
+      },
+      {
+        "clauseNumber": 7,
+        "clauseDescription": "The remuneration and other conditions of service of the Chief Commissioner and the Commissioners shall be as provided for in the Federal law. The remuneration and conditions of service of the Chief Commissioner and the Commissioners shall not, so long as they hold office, be altered to their disadvantage.",
+        "clauseExtraInfo": "Provided that this provision shall not apply in cases where a state of emergency is declared because of extreme economic disarrays."
+      },
+      {
+        "clauseNumber": 8,
+        "clauseDescription": "A person once appointed as the Chief Commissioner or Commissioner shall not be eligible for appointment in other government service.",
+        "clauseExtraInfo": "Provided that nothing in this clause shall be deemed to be a bar to the appointment to any political position or to any position which has the responsibility of making investigations, inquiries or findings on any subject, or to any position which has the responsibility of submitting advice, opinion or recommendation after carrying out a study or research on any subject."
+      }
+    ]
+  },
+  {
+    "part": "PartTwentyOne",
+    "articleNumber": 239,
+    "articleTitle": "Functions, duties and powers of the Commission for the Investigation of Abuse of Authority",
+    "clauses": [
+      {
+        "clauseNumber": 1,
+        "clauseDescription": "The Commission for the Investigation of Abuse of Authority may, in accordance with law, conduct, or cause to be conducted, investigations of any abuse of authority committed through corruption by any person holding public office.",
+        "clauseExtraInfo": "Provided that this clause shall not apply to any official in relation to whom this Constitution itself separately provides for such action and to any official in relation to whom other law provides for a separate special provision."
+      },
+      {
+        "clauseNumber": 2,
+        "clauseDescription": "In the case of the persons who can be removed from office by passing a motion of impeachment under Article 101, the Judges who can be removed by the Judicial Council and the persons who are liable to action under the Army Act, it may conduct, or cause to be conducted, investigations in accordance with the Federal law after they have been removed from office."
+      },
+      {
+        "clauseNumber": 3,
+        "clauseDescription": "If the Commission for the Investigation of Abuse of Authority finds, on investigation conducted pursuant to clause (1) or (2), that a person holding public office has committed an act which is defined by law as corruption, it may file, or cause to be filed, a case against that person and other person involved in that offense in the competent court in accordance with law."
+      },
+      {
+        "clauseNumber": 4,
+        "clauseDescription": "If, on investigation conducted pursuant to clause (1) or (2), any act or action done or taken by a person holding public office appears to be of such nature as to be falling under the jurisdiction of another official or body, the Commission for the Investigation of Abuse of Authority may write to the concerned official or body for necessary action."
+      },
+      {
+        "clauseNumber": 5,
+        "clauseDescription": "The Commission for the Investigation of Abuse of Authority may delegate any of its functions, duties and powers on the conducting of investigations or filing cases, to the Chief Commissioner, a Commissioner or an officer employee of the Government of Nepal to be exercised and complied with subject to the specified conditions."
+      },
+      {
+        "clauseNumber": 6,
+        "clauseDescription": "Other functions, duties and powers and rules of procedure of the Commission for the Investigation of Abuse of Authority shall be as provided for in the Federal law."
+      }
+    ]
+  },
+  {
+    "part": "PartTwentyTwo",
+    "articleNumber": 240,
+    "articleTitle": "Auditor General",
+    "clauses": [
+      {
+        "clauseNumber": 1,
+        "clauseDescription": "There shall be an Auditor General of Nepal."
+      },
+      {
+        "clauseNumber": 2,
+        "clauseDescription": "The President shall, on the recommendation of the Constitutional Council, appoint the Auditor General."
+      },
+      {
+        "clauseNumber": 3,
+        "clauseDescription": "The term of office of the Auditor General shall be six years from the date of appointment."
+      },
+      {
+        "clauseNumber": 4,
+        "clauseDescription": "Notwithstanding anything contained in clause (3), the office of the Auditor General shall be vacant in any of the following circumstances:",
+        "subClauses": [
+          {
+            "subClauseLabel": "A",
+            "subClauseDescription": "if he or she tenders resignation in writing to the President,"
+          },
+          {
+            "subClauseLabel": "B",
+            "subClauseDescription": "if he or she attains the age of sixty-five years,"
+          },
+          {
+            "subClauseLabel": "C",
+            "subClauseDescription": "if a motion of impeachment is passed against him or her under Article 101,"
+          },
+          {
+            "subClauseLabel": "D",
+            "subClauseDescription": "if he or she is removed from office by the President on recommendation of the Constitutional Council on grounds of his or her inability to hold office and discharge the functions due to physical or mental illness,"
+          },
+          {
+            "subClauseLabel": "E",
+            "subClauseDescription": "if he or she dies."
+          }
+        ]
+      },
+      {
+        "clauseNumber": 5,
+        "clauseDescription": "The Auditor General appointed under clause (2) shall not be eligible for reappointment."
+      },
+      {
+        "clauseNumber": 6,
+        "clauseDescription": "A person shall be eligible to be appointed as the Auditor General if he or she possesses the following qualification:",
+        "subClauses": [
+          {
+            "subClauseLabel": "A",
+            "subClauseDescription": "having served in the Special Class of the Government of Nepal or having at least twenty years of experiences in audit related work, after having obtained a bachelor's degree in management, commerce or accounting from a recognized university or having passed a chartered accountancy examination,"
+          },
+          {
+            "subClauseLabel": "B",
+            "subClauseDescription": "not being a member of any political party at the time of appointment,"
+          },
+          {
+            "subClauseLabel": "C",
+            "subClauseDescription": "aving attained the age of forty five years, and"
+          },
+          {
+            "subClauseLabel": "D",
+            "subClauseDescription": "being of high moral character."
+          }
+        ]
+      },
+      {
+        "clauseNumber": 7,
+        "clauseDescription": "The remuneration and conditions of service of the Auditor General shall be as provided for in the Federal law. The remuneration and conditions of service of the Auditor General shall not, so long as he or she holds office, be altered to his or her disadvantage.",
+        "clauseExtraInfo": "Provided that this provision shall not apply in cases where a state of emergency is declared because of extreme economic disarrays."
+      },
+      {
+        "clauseNumber": 8,
+        "clauseDescription": "A person once appointed as the Auditor General shall not be eligible for appointment in another government service.",
+        "clauseExtraInfo": "Provided that nothing in this clause shall be deemed to be a bar to the appointment to any political position or to any position which has the responsibility of making investigations, inquiries or findings on any subject, or to any position which has the responsibility of submitting advice, opinion or recommendation after carrying out a study or research on any subject."
+      }
+    ]
+  },
+  {
+    "part": "PartTwentyTwo",
+    "articleNumber": 241,
+    "articleTitle": "Functions, duties and powers of Auditor-General",
+    "clauses": [
+      {
+        "clauseNumber": 1,
+        "clauseDescription": "The accounts of all Federal and State Government Offices including the Office of the President, Office of the Vice-President, Supreme Court, Federal Parliament, State Assembly, State Government, Local level, Constitutional Bodies and Offices thereof, Courts, Office of the Attorney General, Nepal Army, Nepal Police and Armed Police Force, Nepal shall be audited by the Auditor-General in accordance with law, having regard to, inter alia, the regularity, economy, efficiency, effectiveness and the propriety thereof."
+      },
+      {
+        "clauseNumber": 2,
+        "clauseDescription": "The Auditor General shall be consulted in the matter of appointment of an auditor to carry out the audit of a corporate body of which the Government of Nepal or State Government owns more than fifty percent of the shares or assets. The Auditor General may also issue necessary directives setting forth the principles for carrying out the audit of such corporate body."
+      },
+      {
+        "clauseNumber": 3,
+        "clauseDescription": "The Auditor General shall, at all times, have power to examine any books of accounts for the purpose of carrying out the functions under clause (1). It shall be the duty of the concerned chief of office to provide all such documents and information as may be demanded by the Auditor General or any of his or her employees."
+      },
+      {
+        "clauseNumber": 4,
+        "clauseDescription": "The accounts to be audited pursuant to clause (1) shall be maintained in the form prescribed by the Auditor General, as provided for in the Federal law."
+      },
+      {
+        "clauseNumber": 5,
+        "clauseDescription": "In addition to the accounts of the offices mentioned in clause (1), the Federal law may also require the accounts of any other offices or bodies to be audited by the Auditor General."
+      }
+    ]
+  },
+  {
+    "part": "PartTwentyThree",
+    "articleNumber": 242,
+    "articleTitle": "Public Service Commission",
+    "clauses": [
+      {
+        "clauseNumber": 1,
+        "clauseDescription": "There shall be a Public Service Commission of Nepal, consisting of the Chairperson and four other Members."
+      },
+      {
+        "clauseNumber": 2,
+        "clauseDescription": "The President shall, on the recommendation of the Constitutional Council, appoint the Chairperson and Members."
+      },
+      {
+        "clauseNumber": 3,
+        "clauseDescription": "At least fifty percent of the total number of Members of the Public Service Commission shall be appointed from amongst the persons who have worked for twenty or more in any government service, and the rest of the Members shall be appointed from amongst the persons who hold reputation after having done research, investigation, teaching or any other significant work in the field of science, technology, art, literature, law, public administration, sociology or other sphere of national life."
+      },
+      {
+        "clauseNumber": 4,
+        "clauseDescription": "The term of office of the Chairperson and Members of the Public Service Commission shall be six years from the date of appointment."
+      },
+      {
+        "clauseNumber": 5,
+        "clauseDescription": "The Chairperson and Members appointed under clause (2) shall not be eligible for reappointment.",
+        "clauseExtraInfo": "Provided that a Member may be appointed to the office of Chairperson, and when a Member is so appointed as the Chairperson, his or her term of office shall be so computed as to include his or her term as the Member."
+      },
+      {
+        "clauseNumber": 6,
+        "clauseDescription": "Notwithstanding anything contained in clause (4), the office of the Chairperson or a Member of the Public Service Commission shall be vacant in any of the following circumstances:",
+        "subClauses": [
+          {
+            "subClauseLabel": "A",
+            "subClauseDescription": "if he or she tenders resignation in writing to the President,"
+          },
+          {
+            "subClauseLabel": "B",
+            "subClauseDescription": "if he or she attains the age of sixty-five years,"
+          },
+          {
+            "subClauseLabel": "C",
+            "subClauseDescription": "if a motion of impeachment is passed against him or her under Article 101,"
+          },
+          {
+            "subClauseLabel": "D",
+            "subClauseDescription": "if he or she is removed from office by the President on recommendation of the Constitutional Council on grounds of his or her inability to hold office and discharge the functions due to physical or mental illness,"
+          },
+          {
+            "subClauseLabel": "E",
+            "subClauseDescription": "if he or she dies."
+          }
+        ]
+      },
+      {
+        "clauseNumber": 7,
+        "clauseDescription": "A person shall be eligible to be appointed as the Chairperson or a member of the Public Service Commission if he or she possesses the following qualification:",
+        "subClauses": [
+          {
+            "subClauseLabel": "A",
+            "subClauseDescription": "holding a master's degree from a recognized university,"
+          },
+          {
+            "subClauseLabel": "B",
+            "subClauseDescription": "not being a member of any political party at the time of appointment,"
+          },
+          {
+            "subClauseLabel": "C",
+            "subClauseDescription": "having attained the age of forty five years, and"
+          },
+          {
+            "subClauseLabel": "D",
+            "subClauseDescription": "being of high moral character."
+          }
+        ]
+      },
+      {
+        "clauseNumber": 8,
+        "clauseDescription": "The remuneration and other conditions of service of the Chairperson and the members of the Public Service Commission shall be as provided for in the Federal law. The remuneration and conditions of service of the Chairperson and the Members of the Public Service Commission shall not, so long as they hold office, be altered to their disadvantage.",
+        "clauseExtraInfo": "Provided that this provision shall not apply in cases where a state of emergency is declared because of extreme economic disarrays."
+      },
+      {
+        "clauseNumber": 9,
+        "clauseDescription": "A person once appointed as the Chairperson and the members of the Public Service Commission shall not be eligible for appointment in other government service.",
+        "clauseExtraInfo": "Provided that nothing in this clause shall be deemed to be a bar to the appointment to any political position or to any position which has the responsibility of making investigations, inquiries or findings on any subject, or to any position which has the responsibility of submitting advice, opinion or recommendation after carrying out a study or research on any subject."
+      }
+    ]
+  },
+  {
+    "part": "PartTwentyThree",
+    "articleNumber": 243,
+    "articleTitle": "Functions, duties and powers of the Public Service Commission",
+    "clauses": [
+      {
+        "clauseNumber": 1,
+        "clauseDescription": "It shall be the duty of the Public Service Commission to conduct examinations for the selection of suitable candidates to be appointed to the positions in the Civil Service.",
+        "clauseExplanation": "For the purposes of this Article, 'positions in the Civil Service' means all positions in the services of the Government of Nepal, other than the positions in the services of Army personnel, Nepal Police or Armed Police Force, Nepal and such other positions in the services as are excluded by an Act from the Civil Service."
+      },
+      {
+        "clauseNumber": 2,
+        "clauseDescription": "The Public Service Commission shall conduct written examinations to be given for appointment to the offices of the Nepal Army, Nepal Police, Armed Police Force, Nepal, other Federal governmental services and of bodies corporate, other than the positions in the Civil Service.",
+        "clauseExplanation": "For the purposes of this Article, 'body corporate' means a corporation, company, bank or board of which more than fifty percent or more of the shares or assets is owned or controlled by the Government of Nepal, except a university or Education Service Commission, or a commission, corporation, authority, body, academy, board, centre, council and other body corporate of similar nature established under the Federal law or formed by the Government of Nepal."
+      },
+      {
+        "clauseNumber": 3,
+        "clauseDescription": "The Public Service Commission shall be consulted on the general principles to be followed in the course of making appointment and promotion to any position of the Nepal army, Nepal Police, Armed Police Force, Nepal and other Federal government services."
+      },
+      {
+        "clauseNumber": 4,
+        "clauseDescription": "The Public Service Commission shall be consulted on the laws relating to the conditions of service of the employees in the service of a body corporate and on the general principles to be followed in the course of making promotion to any position of such service and taking departmental action against any such employee."
+      },
+      {
+        "clauseNumber": 5,
+        "clauseDescription": "No permanent appointment to any pensionable position chargeable on the Government of Nepal shall be made except in consultation with the Public Service Commission."
+      },
+      {
+        "clauseNumber": 6,
+        "clauseDescription": "The Public Service Commission shall be consulted on the following subjects:",
+        "subClauses": [
+          {
+            "subClauseLabel": "A",
+            "subClauseDescription": "matters concerning the law relating to the conditions of service of the Federal Civil Service;"
+          },
+          {
+            "subClauseLabel": "B",
+            "subClauseDescription": "the principles to be followed in making appointments to, promotions to, the Federal Civil Service or positions thereof and taking departmental action;"
+          },
+          {
+            "subClauseLabel": "C",
+            "subClauseDescription": "matters concerning the suitability of any candidate for appointment to the Federal Civil Service position for a period of more than six months;"
+          },
+          {
+            "subClauseLabel": "D",
+            "subClauseDescription": "matters concerning the suitability of any candidate for transfer or promotion from a position in one type of Federal Civil Service to a position in other type of Federal Civil Service or transfer or promotion from other government service to the Federal Civil Service or for a change in service or transfer from a position in a State Civil Service to a position in the Federal Civil Service or from a position in the Federal Civil Service to a State Civil Service,"
+          },
+          {
+            "subClauseLabel": "E",
+            "subClauseDescription": "matters concerning the permanent transfer or promotion of an employee working in any position which does not require consultation with the Public Service Commission to any position which requires consultation with the Public Service Commission; and"
+          },
+          {
+            "subClauseLabel": "F",
+            "subClauseDescription": "matters relating to departmental action against any employee of the Federal Civil Service."
+          }
+        ]
+      },
+      {
+        "clauseNumber": 7,
+        "clauseDescription": "Notwithstanding anything contained in clause (6), matters falling within the jurisdiction of the Judicial Service Commission under Article 154 shall be governed by that Article."
+      },
+      {
+        "clauseNumber": 8,
+        "clauseDescription": "The Public Service Commission may so delegate any of its functions, duties and powers to its Chairperson or Member, an employee of the Government of Nepal as to be exercised and complied with subject to the specified conditions."
+      },
+      {
+        "clauseNumber": 9,
+        "clauseDescription": "Other functions, duties and powers and rules of procedure of the Public Service Commission shall be as provided for in the Federal law."
+      }
+    ]
+  },
+  {
+    "part": "PartTwentyThree",
+    "articleNumber": 244,
+    "articleTitle": "Provisions relating to State Public Service Commission",
+    "clauses": [
+      {
+        "clauseNumber": 1,
+        "clauseDescription": "Each State shall have a State Public Service Commission."
+      },
+      {
+        "clauseNumber": 2,
+        "clauseDescription": "The functions, duties and powers of the State Public Service Commission shall be as provided for in the State law."
+      },
+      {
+        "clauseNumber": 3,
+        "clauseDescription": "The Federal Parliament shall by law determine grounds and standards for the purposes of clause (2)."
+      }
+    ]
+  },
+  {
+    "part": "PartTwentyFour",
+    "articleNumber": 245,
+    "articleTitle": "Election Commission",
+    "clauses": [
+      {
+        "clauseNumber": 1,
+        "clauseDescription": "There shall be an Election Commission of Nepal, consisting of a Chief Commissioner and four other Commissioners. The Chief Commissioner shall act as the chairperson of the Election Commission."
+      },
+      {
+        "clauseNumber": 2,
+        "clauseDescription": "The President shall, on the recommendation of the Constitutional Council, appoint the Chief Election Commissioner and Commissioners."
+      },
+      {
+        "clauseNumber": 3,
+        "clauseDescription": "The term of office of the Chief Election Commissioner and Commissioners of the Election Commission shall be six years from the date of appointment."
+      },
+      {
+        "clauseNumber": 4,
+        "clauseDescription": "Notwithstanding anything contained in clause (3), the office of the Chief Election Commissioner or Election Commissioner shall be vacant in any of the following circumstances:",
+        "subClauses": [
+          {
+            "subClauseLabel": "A",
+            "subClauseDescription": "if he or she tenders resignation in writing to the President,"
+          },
+          {
+            "subClauseLabel": "B",
+            "subClauseDescription": "if he or she attains the age of sixty-five years,"
+          },
+          {
+            "subClauseLabel": "C",
+            "subClauseDescription": "if a motion of impeachment is passed against him or her under Article 101,"
+          },
+          {
+            "subClauseLabel": "D",
+            "subClauseDescription": "if he or she is removed from office by the President on recommendation of the Constitutional Council on grounds of his or her inability to hold office and discharge the functions due to physical or mental illness,"
+          },
+          {
+            "subClauseLabel": "E",
+            "subClauseDescription": "if he or she dies."
+          }
+        ]
+      },
+      {
+        "clauseNumber": 5,
+        "clauseDescription": "The Chief Election Commissioner and Commissioners appointed under clause (2) shall not be eligible for reappointment.",
+        "clauseExtraInfo": "Provided that a Commissioner may be appointed to the office of Chief Election Commissioner, and when a Commissioner is so appointed as the Chief Election Commissioner, his or her term of office shall be so computed as to include his or her term as the Commissioner."
+      },
+      {
+        "clauseNumber": 6,
+        "clauseDescription": "A person shall be eligible to be appointed as the Chief Election Commissioner or an Election Commissioner if he or she possesses the following qualification:",
+        "subClauses": [
+          {
+            "subClauseLabel": "A",
+            "subClauseDescription": "holding a bachelor's degree from a recognized university,"
+          },
+          {
+            "subClauseLabel": "B",
+            "subClauseDescription": "not being a member of any political party at the time of appointment,"
+          },
+          {
+            "subClauseLabel": "C",
+            "subClauseDescription": "having attained the age of forty five years, and"
+          },
+          {
+            "subClauseLabel": "D",
+            "subClauseDescription": "being of high moral character."
+          }
+        ]
+      },
+      {
+        "clauseNumber": 7,
+        "clauseDescription": "The remuneration and other conditions of service of the Chief Election Commissioner and Election Commissioners shall be as provided for in the Federal law. The remuneration and conditions of service of the Chief Election Commissioner and the Commissioners shall not, so long as they hold office, be altered to their disadvantage.",
+        "clauseExtraInfo": "Provided that this provision shall not apply in cases where a state of emergency is declared because of extreme economic disarrays."
+      },
+      {
+        "clauseNumber": 8,
+        "clauseDescription": "A person once appointed as the Chief Election Commissioner and a Commissioner of the Election Commission shall not be eligible for appointment in other government service.",
+        "clauseExtraInfo": "Provided that nothing in this clause shall be deemed to be a bar to the appointment to any political position or to any position which has the responsibility of making investigations, inquiries or findings on any subject, or to any position which has the responsibility of submitting advice, opinion or recommendation after carrying out a study or research on any subject."
+      }
+    ]
+  },
+  {
+    "part": "PartTwentyFour",
+    "articleNumber": 246,
+    "articleTitle": "Functions, duties and powers of the Election Commission",
+    "clauses": [
+      {
+        "clauseNumber": 1,
+        "clauseDescription": "The Election Commission shall, subject to this Constitution and the Federal law, conduct, supervise, direct and control the election to the President, Vice-President, members of the Federal Parliament, members of State Assemblies and members of Local level. For these purposes, the Election Commission shall prepare electoral rolls."
+      },
+      {
+        "clauseNumber": 2,
+        "clauseDescription": "The Election Commission shall hold a referendum on a matter of national importance pursuant to this Constitution and the Federal law"
+      },
+      {
+        "clauseNumber": 3,
+        "clauseDescription": "If, after nomination of candidacy for the President, Vice-President, member of the Federal Parliament, member of State Assemblies or member of Local level has been filed but before the election results are declared, a question arises about the qualification of a candidate, the Election Commission shall decide that question."
+      },
+      {
+        "clauseNumber": 4,
+        "clauseDescription": "The Election Commission may so delegate any of its functions, duties and powers to the Chief Election Commissioner, Election Commissioner or any government employee as to be exercised and complied with subject to the specified conditions."
+      },
+      {
+        "clauseNumber": 5,
+        "clauseDescription": "Other functions, duties and powers and rules of procedure of the Election Commission shall be as provided for in the Federal law."
+      }
+    ]
+  },
+  {
+    "part": "PartTwentyFour",
+    "articleNumber": 247,
+    "articleTitle": "To provide necessary assistance to Election Commission",
+    "articleDescription": "The Government of Nepal, State Government and Local Government shall provide such employees and other assistance to the Election Commission as may be required to perform its functions pursuant to this Constitution."
+  },
+  {
+    "part": "PartTwentyFive",
+    "articleNumber": 248,
+    "articleTitle": "National Human Rights Commission",
+    "clauses": [
+      {
+        "clauseNumber": 1,
+        "clauseDescription": "There shall be a National Human Rights Commission of Nepal, consisting of a Chairperson and four other members."
+      },
+      {
+        "clauseNumber": 2,
+        "clauseDescription": "The President shall, on the recommendation of the Constitutional Council, appoint the Chairperson and members."
+      },
+      {
+        "clauseNumber": 3,
+        "clauseDescription": "The term of office of the Chairperson and members of the National Human Rights Commission shall be six years from the date of appointment."
+      },
+      {
+        "clauseNumber": 4,
+        "clauseDescription": "The Chairperson and members appointed under clause (2) shall not be eligible for reappointment.",
+        "clauseExtraInfo": "Provided that a Member may be appointed to the office of Chairperson, and when a member is so appointed as the Chairperson, his or her term of office shall be so computed as to include his or her term as the Member."
+      },
+      {
+        "clauseNumber": 5,
+        "clauseDescription": "Notwithstanding anything contained in clause (3), the office of the Chairperson or member of the National Human Rights Commission shall be vacant in any of the following circumstances:",
+        "subClauses": [
+          {
+            "subClauseLabel": "A",
+            "subClauseDescription": "if he or she tenders resignation in writing to the President,"
+          },
+          {
+            "subClauseLabel": "B",
+            "subClauseDescription": "if a motion of impeachment is passed against him or her under Article 101,"
+          },
+          {
+            "subClauseLabel": "C",
+            "subClauseDescription": "if he or she is removed from office by the President on recommendation of the Constitutional Council on grounds of his or her inability to hold office and discharge the functions due to physical or mental illness,"
+          },
+          {
+            "subClauseLabel": "D",
+            "subClauseDescription": "if he or she dies."
+          }
+        ]
+      },
+      {
+        "clauseNumber": 6,
+        "clauseDescription": "A person shall be eligible to be appointed as the Chairperson or a member of the National Human Rights Commission if he or she possesses the following qualification:",
+        "subClauses": [
+          {
+            "subClauseLabel": "A",
+            "subClauseDescription": "in the case of the Chairperson, being a retired Chief Justice or retired Judge of the Supreme Court and having rendered outstanding contribution to the protection and promotion of human rights or being a renowned person having been active for at least twenty years in and rendered outstanding contribution to the protection and promotion of human rights or to various fields of national life,"
+          },
+          {
+            "subClauseLabel": "B",
+            "subClauseDescription": "in the case of a Member, being a person being involved in the field of the protection and promotion of human rights or rights and interests of the child or being a renowned person having been active for at least twenty years in and rendered outstanding contribution to various fields of national life,"
+          },
+          {
+            "subClauseLabel": "C",
+            "subClauseDescription": "holding a bachelor's degree from a recognized university,"
+          },
+          {
+            "subClauseLabel": "D",
+            "subClauseDescription": "having attained the age of forty five years,"
+          },
+          {
+            "subClauseLabel": "E",
+            "subClauseDescription": "not being a member of any political party at the time of appointment,"
+          },
+          {
+            "subClauseLabel": "F",
+            "subClauseDescription": "being of high moral character."
+          }
+        ]
+      },
+      {
+        "clauseNumber": 7,
+        "clauseDescription": "The remuneration and other conditions of service of the Chairperson and members of the National Human Rights Commission shall be as provided for in the Federal law. The remuneration and conditions of service of the Chairperson and members of the National Human Rights Commission shall not, so long as they hold office, be altered to their disadvantage.",
+        "clauseExtraInfo": "Provided that this provision shall not apply in cases where a state of emergency is declared because of extreme economic disarrays."
+      },
+      {
+        "clauseNumber": 8,
+        "clauseDescription": "A person once appointed as the Chairperson or a member of the National Human Rights Commission shall not be eligible for appointment in other government service.",
+        "clauseExtraInfo": "Provided that nothing in this clause shall be deemed to be a bar to the appointment to any political position or to any position which has the responsibility of making investigations, inquiries or findings on any subject, or to any position which has the responsibility of submitting advice, opinion or recommendation after carrying out a study or research on any subject."
+      }
+    ]
+  },
+  {
+    "part": "PartTwentyFive",
+    "articleNumber": 249,
+    "articleTitle": "Functions, duties and powers of National Human Rights Commission",
+    "clauses": [
+      {
+        "clauseNumber": 1,
+        "clauseDescription": "It shall be the duty of the National Human Rights Commission to respect, protect and promote human rights and ensure effective enforcement thereof."
+      },
+      {
+        "clauseNumber": 2,
+        "clauseDescription": "For the accomplishment of the duty mentioned in clause (1), the National Human Rights Commission shall perform the following functions:",
+        "subClauses": [
+          {
+            "subClauseLabel": "A",
+            "subClauseDescription": "to inquire, on its own initiative or on petition or complaint presented in or sent to the Commission by a victim or any person on his or her behalf or on information received by the Commission from any source, into and investigate complaints of violations of human rights of an individual or group or abetment thereof, and make recommendation for action against the perpetrators,"
+          },
+          {
+            "subClauseLabel": "B",
+            "subClauseDescription": "if any official who has the responsibility or duty to prevent violations of human rights fails to fulfill or perform his or her responsibility or duty or shows reluctance in the fulfillment or performance of his or her responsibility or duty, to make recommendation to the concerned authority to take departmental action against such official,"
+          },
+          {
+            "subClauseLabel": "C",
+            "subClauseDescription": "if it is required to institute a case against any person or organization who has violated human rights, to make recommendation to file a case in the court in accordance with law;"
+          },
+          {
+            "subClauseLabel": "D",
+            "subClauseDescription": "to coordinate and collaborate with the civil society in order to enhance awareness on human rights,"
+          },
+          {
+            "subClauseLabel": "E",
+            "subClauseDescription": "to make recommendation, accompanied by the reasons and grounds, to the concerned body for taking departmental action against and imposing punishment on those who have violated human rights,"
+          },
+          {
+            "subClauseLabel": "F",
+            "subClauseDescription": "to carry out periodic reviews of the relevant laws relating to human rights and make recommendation to the Government of Nepal for necessary improvements in and amendments to such laws,"
+          },
+          {
+            "subClauseLabel": "G",
+            "subClauseDescription": "if Nepal has to become a party to any international treaty or agreement on human rights, to make recommendation, accompanied by the reasons therefor, to the Government of Nepal; and monitor whether any such treaty or agreement to which Nepal is already a party has been implemented, and if it is found not to have been implemented, to make recommendation to the Government of Nepal for its implementation,"
+          },
+          {
+            "subClauseLabel": "H",
+            "subClauseDescription": "to publish, in accordance with law, the names of the officials, persons or bodies who have failed to observe or implement any recommendations or directives made or given by the National Human Rights Commission in relation to the violations of human rights, and record them as violators of human rights."
+          }
+        ]
+      },
+      {
+        "clauseNumber": 3,
+        "clauseDescription": "In discharging its functions or performing its duties, the National Human Rights Commission may exercise the following powers:",
+        "subClauses": [
+          {
+            "subClauseLabel": "A",
+            "subClauseDescription": "to exercise all such powers as of a court in respect of the summoning and enforcing the attendance of any person before the Commission and seeking and recording his or her information or statements or depositions, examining evidence and producing exhibits and proofs,"
+          },
+          {
+            "subClauseLabel": "B",
+            "subClauseDescription": "on receipt of information by the Commission in any manner that a serious violation of human rights has already been committed or is going to be committed, to search any person or his or her residence or office, enter such residence or office without notice, and, in the course of making such search, take possession of any document, evidence or proof related with the violation of human rights,"
+          },
+          {
+            "subClauseLabel": "C",
+            "subClauseDescription": "in the event of necessity to take action immediately on receipt of information that the human rights of any person are being violated, to enter any government office or any other place without notice and rescue such person,"
+          },
+          {
+            "subClauseLabel": "D",
+            "subClauseDescription": "to order for the provision of compensation in accordance with law to any person who is a victim of the violations of human rights;"
+          }
+        ]
+      },
+      {
+        "clauseNumber": 4,
+        "clauseDescription": "The National Human Rights Commission may so delegate any of its functions, duties and powers to the Chairperson of the Commission, any of its Members or a government employee as to be exercised and complied with subject to the specified conditions."
+      },
+      {
+        "clauseNumber": 5,
+        "clauseDescription": "Other functions, duties and powers and rules of procedure of the National Human Rights Commission shall be as provided for in the Federal law."
+      }
+    ]
   }
 ]
