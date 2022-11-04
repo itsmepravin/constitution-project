@@ -57,6 +57,26 @@ const MySelect = ({ currentPart, setCurrentPart }) => {
           <MenuItem value={'PartTwentyFive'}>
             Part 25 National Human Rights Commission (A248-A249)
           </MenuItem>
+          <MenuItem value={'PartTwentySix'}>
+            Part 26 National Natural Resources and Fiscal Commission (A250-A251)
+          </MenuItem>
+          <MenuItem value={'PartTwentySeven'}>Part 27 Other Commissions (A252-A265)</MenuItem>
+          <MenuItem value={'PartTwentyEight'}>
+            Part 28 Provisions Relating to National Security (A266-A268)
+          </MenuItem>
+          <MenuItem value={'PartTwentyNine'}>
+            Part 29 Provisions Relating to Political Parties (A269-A272)
+          </MenuItem>
+          <MenuItem value={'PartThirty'}>Part 30 Emergency Power (A273)</MenuItem>
+          <MenuItem value={'PartThirtyOne'}>Part 31 Amendment to the Constitution (A274)</MenuItem>
+          <MenuItem value={'PartThirtyTwo'}>Part 32 Miscellaneous (A275-A294)</MenuItem>
+          <MenuItem value={'PartThirtyThree'}>Part 33 Transitional Provisions (A276-A305)</MenuItem>
+          <MenuItem value={'PartThirtyFour'}>
+            Part 34 Definitions and Interpretations (A306)
+          </MenuItem>
+          <MenuItem value={'PartThirtyFive'}>
+            Part 35 Short Title, Commencement and Repeal (A307-A308)
+          </MenuItem>
         </Select>
       </FormControl>
     </Box>

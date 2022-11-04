@@ -9,7 +9,7 @@ export default function Copyright() {
       align="center"
       sx={{ my: 2, py: 2, color: '#f9f9f9' }}
     >
-      This is a work-in-progress. Remaining Articles/Data are yet to be added.
+      This is a work-in-progress. Remaining information are being added with time.
     </Typography>
   );
 }
