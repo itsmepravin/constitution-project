@@ -72,6 +72,29 @@ const theme = createTheme({
         },
       },
     },
+    MuiTableCell: {
+      styleOverrides: {
+        root: {
+          backgroundColor: '#2f2f2f',
+          color: '#f9f9f9',
+          border: '1px solid #f9f9f9',
+          textAlign: 'center',
+        },
+      },
+    },
+    MuiListSubheader: {
+      styleOverrides: {
+        root: {
+          fontSize: '1.2rem',
+          textAlign: 'center',
+          fontWeight: 700,
+          backgroundColor: '#2f2f2f',
+          color: '#f2f2f2',
+          borderBottom: '1px solid #f2f2f2',
+          borderTop: '1px solid #f2f2f2',
+        },
+      },
+    },
     MuiSvgIcon: {
       styleOverrides: {
         root: {

@@ -1,0 +1,504 @@
+[
+  {
+    "scheduleFive": [
+      {
+        "number": 1,
+        "matterDescription": "Relating to defence and military:",
+        "subMatter": [
+          {
+            "subMatterLabel": "(a)",
+            "subMatterDescription": "Protection of national unity and territorial integrity"
+          },
+          {
+            "subMatterLabel": "(b)",
+            "subMatterDescription": "Relating to national security"
+          }
+        ]
+      },
+      {
+        "number": 2,
+        "matterDescription": "War and defence"
+      },
+      {
+        "number": 3,
+        "matterDescription": "Arms and ammunitions factories and production thereof"
+      },
+      {
+        "number": 4,
+        "matterDescription": "Central Police, Armed Police Force, national intelligence and investigation, peace, security"
+      },
+      {
+        "number": 5,
+        "matterDescription": "Central planning, central bank, finance policies, monetary and banking, monetary policies, foreign grants, aid and loans"
+      },
+      {
+        "number": 6,
+        "matterDescription": "Foreign and diplomatic affairs, international relations and United Nations related matters"
+      },
+      {
+        "number": 7,
+        "matterDescription": "International treaties or agreements, extradition, mutual legal assistance and international borders, international boundary rivers"
+      },
+      {
+        "number": 8,
+        "matterDescription": "Telecommunications, allocation of radio frequency, radio, television and postal matters"
+      },
+      {
+        "number": 9,
+        "matterDescription": "Customs, excise-duty, value-added tax, corporate income tax, individual income tax, remuneration tax, passport fee, visa fee, tourism fee, service charge and fee, penalty"
+      },
+      {
+        "number": 10,
+        "matterDescription": "Federal civil service, judicial service and other government services"
+      },
+      {
+        "number": 11,
+        "matterDescription": "Policies relating to conservation and multiple uses of water resources"
+      },
+      {
+        "number": 12,
+        "matterDescription": "Inland and inter-State electricity transmission lines"
+      },
+      {
+        "number": 13,
+        "matterDescription": "Central statistics (national and international standards and quality)"
+      },
+      {
+        "number": 14,
+        "matterDescription": "Central level large electricity, irrigation and other projects"
+      },
+      {
+        "number": 15,
+        "matterDescription": "Central universities, central level academies, universities standards and regulation, central libraries"
+      },
+      {
+        "number": 16,
+        "matterDescription": "Health policies, health services, health standards, quality and monitoring, national or specialised service providing hospitals, traditional treatment services and communicable disease control"
+      },
+      {
+        "number": 17,
+        "matterDescription": "Federal Parliament, Federal Executive, Local Level related affairs, special structure"
+      },
+      {
+        "number": 18,
+        "matterDescription": "International trade, exchange, port, quarantine"
+      },
+      {
+        "number": 19,
+        "matterDescription": "Civil aviation, international airports"
+      },
+      {
+        "number": 20,
+        "matterDescription": "National transportation policies, management of railways and national highways"
+      },
+      {
+        "number": 21,
+        "matterDescription": "Laws relating to the Supreme Court, High Courts, District Courts and administration of justice"
+      },
+      {
+        "number": 22,
+        "matterDescription": "Citizenship, passport, visa, immigration"
+      },
+      {
+        "number": 23,
+        "matterDescription": "Atomic energy, air space and astronomy"
+      },
+      {
+        "number": 24,
+        "matterDescription": "Intellectual property (including patents, designs, trademarks and copyrights)"
+      },
+      {
+        "number": 25,
+        "matterDescription": "Measurement"
+      },
+      {
+        "number": 26,
+        "matterDescription": "Mines excavation"
+      },
+      {
+        "number": 27,
+        "matterDescription": "National and international environment management, national parks, wildlife reserves and wetlands, national forest policies, carbon services"
+      },
+      {
+        "number": 28,
+        "matterDescription": "Insurance policies, securities, cooperatives regulation"
+      },
+      {
+        "number": 29,
+        "matterDescription": "Land use policies, human settlement development policies, tourism policies, environment adaptation"
+      },
+      {
+        "number": 30,
+        "matterDescription": "Criminal and civil laws making"
+      },
+      {
+        "number": 31,
+        "matterDescription": "Security printing"
+      },
+      {
+        "number": 32,
+        "matterDescription": "Social security and poverty alleviation"
+      },
+      {
+        "number": 33,
+        "matterDescription": "Constitutional Bodies, commissions of national importance"
+      },
+      {
+        "number": 34,
+        "matterDescription": "Sites of archaeological importance and ancient monuments"
+      },
+      {
+        "number": 35,
+        "matterDescription": "Any matter not enumerated in the Lists of Federal Powers, State Powers and Local Level Powers or in the Concurrent List and any matter not specified in this Constitution and in the Federal laws"
+      }
+    ]
+  },
+  {
+    "scheduleSix": [
+      {
+        "number": 1,
+        "matterDescription": "State police administration and peace and order"
+      },
+      {
+        "number": 2,
+        "matterDescription": "Operation of banks and financial institutions in accordance with the policies of Nepal Rastra Bank, cooperative institutions, foreign grants and assistance with the consent of the Centre"
+      },
+      {
+        "number": 3,
+        "matterDescription": "Operation of Radio, F.M., television"
+      },
+      {
+        "number": 4,
+        "matterDescription": "House and land registration fee, motor vehicle tax, entertainment tax, advertisement tax, tourism, agro-income tax, service charge, fee, penalty"
+      },
+      {
+        "number": 5,
+        "matterDescription": "State civil service and other government services"
+      },
+      {
+        "number": 6,
+        "matterDescription": "State statistics"
+      },
+      {
+        "number": 7,
+        "matterDescription": "State level electricity, irrigation and water supply services, navigation"
+      },
+      {
+        "number": 8,
+        "matterDescription": "State universities, higher education, libraries, museums"
+      },
+      {
+        "number": 9,
+        "matterDescription": "Health services"
+      },
+      {
+        "number": 10,
+        "matterDescription": "Matters relating to the State Assembly, State Council of Ministers"
+      },
+      {
+        "number": 11,
+        "matterDescription": "Intra-State trade"
+      },
+      {
+        "number": 12,
+        "matterDescription": "State highways"
+      },
+      {
+        "number": 13,
+        "matterDescription": "State bureau of investigation"
+      },
+      {
+        "number": 14,
+        "matterDescription": "Physical management and other necessary matters of State governmental offices"
+      },
+      {
+        "number": 15,
+        "matterDescription": "State Public Service Commission"
+      },
+      {
+        "number": 16,
+        "matterDescription": "Management of lands, land records"
+      },
+      {
+        "number": 17,
+        "matterDescription": "Exploration and management of mines"
+      },
+      {
+        "number": 18,
+        "matterDescription": "Protection and use of languages, scripts, cultures, fine arts and religions"
+      },
+      {
+        "number": 19,
+        "matterDescription": "Use of forests and waters and management of environment within the State"
+      },
+      {
+        "number": 20,
+        "matterDescription": "Agriculture and livestock development, factories, industrialization, trade, business, transportation"
+      },
+      {
+        "number": 21,
+        "matterDescription": "Management of trusts (Guthi)"
+      }
+    ]
+  },
+  {
+    "scheduleSeven": [
+      {
+        "number": 1,
+        "matterDescription": "Civil and criminal procedure, evidence and oaths (legal recognition, public acts and records, and judicial proceedings)"
+      },
+      {
+        "number": 2,
+        "matterDescription": "Supply, distribution, price control, quality and monitoring of essential goods and services"
+      },
+      {
+        "number": 3,
+        "matterDescription": "Preventive detention for reasons connected with the security of the country, prison and detention management, and maintenance of peace and order"
+      },
+      {
+        "number": 4,
+        "matterDescription": "Transfer of accused persons, detainees and prisoners from one State to another State"
+      },
+      {
+        "number": 5,
+        "matterDescription": "Laws relating to family affairs (marriage, transfer of property, divorce, persons on the verge of extinction, orphan, adoption, succession and joint family)"
+      },
+      {
+        "number": 6,
+        "matterDescription": "Acquisition, requisitioning of property and creation of right in property"
+      },
+      {
+        "number": 7,
+        "matterDescription": "Contracts, cooperatives, partnership and agency related matters"
+      },
+      {
+        "number": 8,
+        "matterDescription": "Matters relating to bankruptcy and insolvency"
+      },
+      {
+        "number": 9,
+        "matterDescription": "Drugs and pesticides"
+      },
+      {
+        "number": 10,
+        "matterDescription": "Planning, family planning and population management"
+      },
+      {
+        "number": 11,
+        "matterDescription": "Social security and employment, trade unions, settlement of industrial disputes, and labour rights and disputes related matters"
+      },
+      {
+        "number": 12,
+        "matterDescription": "Legal profession, auditing, engineering, medicines, Ayurvedic medicines, veterinary, Amchi and other professions"
+      },
+      {
+        "number": 13,
+        "matterDescription": "State boundary river, waterways, environment protection, biological diversity"
+      },
+      {
+        "number": 14,
+        "matterDescription": "Matters related to means of communication"
+      },
+      {
+        "number": 15,
+        "matterDescription": "Industries and mines and physical infrastructures"
+      },
+      {
+        "number": 16,
+        "matterDescription": "Casino, lottery"
+      },
+      {
+        "number": 17,
+        "matterDescription": "Early preparedness for, rescue, relief and rehabilitation from, natural and man made calamities"
+      },
+      {
+        "number": 18,
+        "matterDescription": "Tourism, water supply and sanitation"
+      },
+      {
+        "number": 19,
+        "matterDescription": "Motion pictures, cinema halls and sports"
+      },
+      {
+        "number": 20,
+        "matterDescription": "Insurance business operation and management"
+      },
+      {
+        "number": 21,
+        "matterDescription": "Poverty alleviation and industrialization"
+      },
+      {
+        "number": 22,
+        "matterDescription": "Scientific research, science and technology and human resources development"
+      },
+      {
+        "number": 23,
+        "matterDescription": "Utilization of forests, mountains, forest conservation areas and waters stretching in inter-State form"
+      },
+      {
+        "number": 24,
+        "matterDescription": "Land policies and laws relating thereto"
+      },
+      {
+        "number": 25,
+        "matterDescription": "Employment and unemployment aid"
+      }
+    ]
+  },
+  {
+    "scheduleEight": [
+      {
+        "number": 1,
+        "matterDescription": "Town police"
+      },
+      {
+        "number": 2,
+        "matterDescription": "Cooperative institutions"
+      },
+      {
+        "number": 3,
+        "matterDescription": "Operation of F.M."
+      },
+      {
+        "number": 4,
+        "matterDescription": "Local taxes (wealth tax, house rent tax, land and building registration fee, motor vehicle tax), service charge, fee, tourism fee, advertisement tax, business tax, land tax (land revenue), penalty, entertainment tax, land revenue collection"
+      },
+      {
+        "number": 5,
+        "matterDescription": "Management of the Local services"
+      },
+      {
+        "number": 6,
+        "matterDescription": "Collection of local statistics and records"
+      },
+      {
+        "number": 7,
+        "matterDescription": "Local level development plans and projects"
+      },
+      {
+        "number": 8,
+        "matterDescription": "Basic and secondary education"
+      },
+      {
+        "number": 9,
+        "matterDescription": "Basic health and sanitation"
+      },
+      {
+        "number": 10,
+        "matterDescription": "Local market management, environment protection and bio-diversity"
+      },
+      {
+        "number": 11,
+        "matterDescription": "Local roads, rural roads, agro-roads, irrigation"
+      },
+      {
+        "number": 12,
+        "matterDescription": "Management of Village Assembly, Municipal Assembly, District Assembly, local courts, mediation and arbitration"
+      },
+      {
+        "number": 13,
+        "matterDescription": "Local records management"
+      },
+      {
+        "number": 14,
+        "matterDescription": "Distribution of house and land ownership certificates"
+      },
+      {
+        "number": 15,
+        "matterDescription": "Agriculture and animal husbandry, agro-products management, animal health, cooperatives"
+      },
+      {
+        "number": 16,
+        "matterDescription": "Management of senior citizens, persons with disabilities and the incapacitated"
+      },
+      {
+        "number": 17,
+        "matterDescription": "Collection of statistics of the unemployed"
+      },
+      {
+        "number": 18,
+        "matterDescription": "Management, operation and control of agricultural extension"
+      },
+      {
+        "number": 19,
+        "matterDescription": "Water supply, small hydropower projects, alternative energy"
+      },
+      {
+        "number": 20,
+        "matterDescription": "Disaster management"
+      },
+      {
+        "number": 21,
+        "matterDescription": "Protection of watersheds, wildlife, mines and minerals"
+      },
+      {
+        "number": 22,
+        "matterDescription": "Protection and development of languages, cultures and fine arts"
+      }
+    ]
+  },
+  {
+    "scheduleNine": [
+      {
+        "number": 1,
+        "matterDescription": "Cooperatives"
+      },
+      {
+        "number": 2,
+        "matterDescription": "Education, health and newspapers"
+      },
+      {
+        "number": 3,
+        "matterDescription": "Health"
+      },
+      {
+        "number": 4,
+        "matterDescription": "Agriculture"
+      },
+      {
+        "number": 5,
+        "matterDescription": "Services such as electricity, water supply, irrigation"
+      },
+      {
+        "number": 6,
+        "matterDescription": "Service fee, charge, penalty and royalty from natural resources, tourism fee"
+      },
+      {
+        "number": 7,
+        "matterDescription": "Forests, wildlife, birds, water uses, environment, ecology and bio-diversity"
+      },
+      {
+        "number": 8,
+        "matterDescription": "Mines and minerals"
+      },
+      {
+        "number": 9,
+        "matterDescription": "Disaster management"
+      },
+      {
+        "number": 10,
+        "matterDescription": "Social security and poverty alleviation"
+      },
+      {
+        "number": 11,
+        "matterDescription": "Personal events, births, deaths, marriages and statistics"
+      },
+      {
+        "number": 12,
+        "matterDescription": "Archaeology, ancient monuments and museums"
+      },
+      {
+        "number": 13,
+        "matterDescription": "Landless squatters management"
+      },
+      {
+        "number": 14,
+        "matterDescription": "Royalty from natural resources"
+      },
+      {
+        "number": 15,
+        "matterDescription": "Motor vehicle permits"
+      }
+    ]
+  }
+]

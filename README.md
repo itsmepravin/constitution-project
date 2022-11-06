@@ -45,3 +45,13 @@ A personal project to make the Constitution of Nepal into a website. The officia
 ## Nov 04, 2022 Commit
 
 1. Added Part 26(A250-A251) to Part 35(A307-A308).
+
+## Nov 06, 2022 Commit
+
+1. Added Preamble and all the Schedules(1-9).
+2. All the data from the Constitution pdf and the website are in sync and complete, i.e. no more data remains to be added.
+3. Preamble and Schedules are served as static individual components. Will be made dynamic as I figure out how to structure those data.
+4. Select now has list subheaders.
+5. Schedules has been made to portray as closely as possible to the Constitution pdf.
+6. The Schedules are not the best looking on mobile devices, will be worked on later.
+7. Added link to the original pdf in Dev Note.

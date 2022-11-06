@@ -3,6 +3,7 @@ import FormControl from '@mui/material/FormControl';
 import Select from '@mui/material/Select';
 import MenuItem from '@mui/material/MenuItem';
 import InputLabel from '@mui/material/InputLabel';
+import ListSubheader from '@mui/material/ListSubheader';
 
 const MySelect = ({ currentPart, setCurrentPart }) => {
   const handleSelectChange = (event) => setCurrentPart(event.target.value);
@@ -18,6 +19,9 @@ const MySelect = ({ currentPart, setCurrentPart }) => {
           onChange={handleSelectChange}
           label="Read: "
         >
+          <ListSubheader>Preamble</ListSubheader>
+          <MenuItem value={'Preamble'}>Preamble</MenuItem>
+          <ListSubheader>Parts</ListSubheader>
           <MenuItem value={'PartOne'}>Part 1 Preliminary (A1-A9)</MenuItem>
           <MenuItem value={'PartTwo'}>Part 2 Citizenship (A10-A15)</MenuItem>
           <MenuItem value={'PartThree'}>Part 3 Fundamental Rights and Duties (A16-A48)</MenuItem>
@@ -77,6 +81,16 @@ const MySelect = ({ currentPart, setCurrentPart }) => {
           <MenuItem value={'PartThirtyFive'}>
             Part 35 Short Title, Commencement and Repeal (A307-A308)
           </MenuItem>
+          <ListSubheader>Schedules</ListSubheader>
+          <MenuItem value={'Schedule1'}>Schedule-1</MenuItem>
+          <MenuItem value={'Schedule2'}>Schedule-2</MenuItem>
+          <MenuItem value={'Schedule3'}>Schedule-3</MenuItem>
+          <MenuItem value={'Schedule4'}>Schedule-4</MenuItem>
+          <MenuItem value={'Schedule5'}>Schedule-5</MenuItem>
+          <MenuItem value={'Schedule6'}>Schedule-6</MenuItem>
+          <MenuItem value={'Schedule7'}>Schedule-7</MenuItem>
+          <MenuItem value={'Schedule8'}>Schedule-8</MenuItem>
+          <MenuItem value={'Schedule9'}>Schedule-9</MenuItem>
         </Select>
       </FormControl>
     </Box>
