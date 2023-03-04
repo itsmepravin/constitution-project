@@ -55,3 +55,9 @@ A personal project to make the Constitution of Nepal into a website. The officia
 5. Schedules has been made to portray as closely as possible to the Constitution pdf.
 6. The Schedules are not the best looking on mobile devices, will be worked on later.
 7. Added link to the original pdf in Dev Note.
+
+## March 04, 2023 Commit
+
+1. Added search functionality.
+2. Made the search UI inline with other elements/made it responsive.
+3. Some changes to MUI theme.

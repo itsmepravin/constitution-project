@@ -1,7 +1,10 @@
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 
 import Container from '@mui/material/Container';
 import Typography from '@mui/material/Typography';
+import InputAdornment from '@mui/material/InputAdornment';
+import TextField from '@mui/material/TextField';
+import SearchIcon from '@mui/icons-material/Search';
 import Box from '@mui/material/Box';
 
 import MyAccordion from '@/src/components/MyAccordion';
@@ -20,8 +23,25 @@ import DevNote from '@/src/DevNote';
 
 import MySelect from '@/src/components/MySelect';
 
+import constitutionData from '../constitutionData.json';
+
+import Fuse from 'fuse.js';
+
 const Index = () => {
   const [currentPart, setCurrentPart] = useState('Preamble');
+
+  const [searchText, setSearchText] = useState('');
+
+  const [filteredData, setFilteredData] = useState([]);
+
+  useEffect(() => {
+    const filtered = constitutionData.filter((element) =>
+      element.articleTitle.includes(searchText),
+    );
+    setFilteredData(filtered);
+  }, [searchText]);
+
+  console.log(currentPart);
 
   const RenderInfo = () => {
     if (currentPart === 'Preamble') return <Preamble />;
@@ -34,7 +54,8 @@ const Index = () => {
     else if (currentPart === 'Schedule7') return <ScheduleSeven />;
     else if (currentPart === 'Schedule8') return <ScheduleEight />;
     else if (currentPart === 'Schedule9') return <ScheduleNine />;
-    else return <MyAccordion currentPart={currentPart} />;
+    else return <MyAccordion currentPart={currentPart} filteredData={filteredData} />;
+    // else return <MyAccordion currentPart={currentPart} filteredData={filteredData} />;
   };
 
   return (
@@ -50,7 +71,36 @@ const Index = () => {
         <Typography variant="h3" component="h3" sx={{ my: 4 }}>
           Constitution of Nepal
         </Typography>
-        <MySelect currentPart={currentPart} setCurrentPart={setCurrentPart} />
+        <Box
+          sx={{
+            display: 'flex',
+            gap: { xs: '.5rem', sm: '12rem' },
+            flexDirection: { xs: 'column', sm: 'row' },
+          }}
+        >
+          <TextField
+            id="input-with-icon-textfield"
+            autoFocus
+            fullWidth
+            label="Search for keywords"
+            value={searchText}
+            onChange={(e) => setSearchText(e.target.value)}
+            InputProps={{
+              startAdornment: (
+                <InputAdornment position="start">
+                  <SearchIcon />
+                </InputAdornment>
+              ),
+            }}
+            variant="standard"
+            sx={{ marginBottom: '2rem', justifySelf: 'flex-start', flex: 0.4 }}
+          />
+          <MySelect
+            currentPart={currentPart}
+            setCurrentPart={setCurrentPart}
+            setSearchText={setSearchText}
+          />
+        </Box>
         <RenderInfo />
         <DevNote />
       </Box>

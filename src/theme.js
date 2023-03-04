@@ -58,9 +58,9 @@ const theme = createTheme({
           '&:focus, &:hover': {
             borderLeft: '3px solid #4FC08D',
           },
-        },
-        expanded: {
-          borderLeft: '3px solid #4FC08D',
+          '&.Mui-expanded': {
+            borderLeft: '3px solid #4FC08D',
+          },
         },
       },
     },
@@ -98,6 +98,13 @@ const theme = createTheme({
     MuiSvgIcon: {
       styleOverrides: {
         root: {
+          fill: '#4FC08D',
+        },
+      },
+    },
+    MuiInput: {
+      styleOverrides: {
+        input: {
           color: '#4FC08D',
         },
       },
@@ -105,7 +112,7 @@ const theme = createTheme({
   },
   palette: {
     primary: {
-      main: '#556cd6',
+      main: '#4FC08D',
     },
     secondary: {
       main: '#19857b',

@@ -17,6 +17,7 @@
     "@mui/icons-material": "latest",
     "@mui/material": "latest",
     "@next/font": "^13.0.0",
+    "fuse.js": "^6.6.2",
     "next": "latest",
     "prop-types": "latest",
     "react": "latest",

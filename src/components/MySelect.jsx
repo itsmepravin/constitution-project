@@ -5,12 +5,15 @@ import MenuItem from '@mui/material/MenuItem';
 import InputLabel from '@mui/material/InputLabel';
 import ListSubheader from '@mui/material/ListSubheader';
 
-const MySelect = ({ currentPart, setCurrentPart }) => {
-  const handleSelectChange = (event) => setCurrentPart(event.target.value);
+const MySelect = ({ currentPart, setCurrentPart, setSearchText }) => {
+  const handleSelectChange = (event) => {
+    setSearchText(null);
+    setCurrentPart(event.target.value);
+  };
 
   return (
     <Box>
-      <FormControl sx={{ mb: 4, maxWidth: 350 }}>
+      <FormControl sx={{ mb: 4, maxWidth: { xs: '100%', sm: 350 } }}>
         <InputLabel id="readPart-label">Read: </InputLabel>
         <Select
           id="readPart"

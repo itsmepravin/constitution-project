@@ -9,18 +9,22 @@ import ExpandMoreIcon from '@mui/icons-material/ExpandMore';
 
 import constitutionData from '../../constitutionData.json';
 
-export default function MyAccordion({ currentPart }) {
+export default function MyAccordion({ currentPart, filteredData }) {
   const [constitution, setConstitution] = useState([]);
 
   useEffect(() => {
     const newConstitution = constitutionData.filter((element) => element.part === currentPart);
-    setConstitution(newConstitution);
+    console.log(filteredData);
+    if (filteredData.length === 0) setConstitution(newConstitution);
+    else setConstitution(filteredData);
   }, [currentPart]);
+
+  // const constitutionInfo = filteredData.length !== 0 ? filteredData : constitution;
 
   return (
     <Box>
       {constitution?.map((element) => (
-        <Accordion>
+        <Accordion key={element.articleNumber}>
           <AccordionSummary expandIcon={<ExpandMoreIcon />}>
             <Typography>
               Article {element.articleNumber} - {element.articleTitle}
