@@ -61,3 +61,8 @@ A personal project to make the Constitution of Nepal into a website. The officia
 1. Added search functionality.
 2. Made the search UI inline with other elements/made it responsive.
 3. Some changes to MUI theme.
+
+# January 29, 2024
+
+1. Added TypeScript.
+2. Fixing the breaking changes.

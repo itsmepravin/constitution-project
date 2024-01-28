@@ -1,12 +1,19 @@
 import Box from '@mui/material/Box';
 import FormControl from '@mui/material/FormControl';
-import Select from '@mui/material/Select';
+import Select, { SelectChangeEvent } from '@mui/material/Select';
 import MenuItem from '@mui/material/MenuItem';
 import InputLabel from '@mui/material/InputLabel';
 import ListSubheader from '@mui/material/ListSubheader';
+import { Dispatch, SetStateAction } from 'react';
 
-const MySelect = ({ currentPart, setCurrentPart, setSearchText }) => {
-  const handleSelectChange = (event) => {
+type MySelect = {
+  currentPart: string;
+  setCurrentPart: Dispatch<SetStateAction<string>>;
+  setSearchText: Dispatch<SetStateAction<string | null>>;
+};
+
+const MySelect = ({ currentPart, setCurrentPart, setSearchText }: MySelect) => {
+  const handleSelectChange = (event: SelectChangeEvent) => {
     setSearchText(null);
     setCurrentPart(event.target.value);
   };

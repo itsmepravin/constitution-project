@@ -9,12 +9,40 @@ import ExpandMoreIcon from '@mui/icons-material/ExpandMore';
 
 import constitutionData from '../../constitutionData.json';
 
-export default function MyAccordion({ currentPart, filteredData }) {
-  const [constitution, setConstitution] = useState([]);
+type MyAccordion = {
+  currentPart: string;
+  filteredData: any;
+};
+
+type TSubClauses = {
+  subClauseLabel: string;
+  subClauseDescription: string;
+  subClauseExtraInfo: string;
+};
+
+type TClauses = {
+  clauseNumber: number;
+  clauseDescription: string;
+  clauseExplanation: string;
+  clauseExtraInfo: string;
+  subClauses: TSubClauses[];
+};
+
+type TConstitution = {
+  part: string;
+  articleNumber: number;
+  articleTitle: string;
+  articleDescription: string;
+  articleExtraInfo: string;
+  articleExplanation: string;
+  clauses: TClauses[];
+};
+
+export default function MyAccordion({ currentPart, filteredData }: MyAccordion) {
+  const [constitution, setConstitution] = useState<TConstitution[] | []>([]);
 
   useEffect(() => {
     const newConstitution = constitutionData.filter((element) => element.part === currentPart);
-    console.log(filteredData);
     if (filteredData.length === 0) setConstitution(newConstitution);
     else setConstitution(filteredData);
   }, [currentPart]);

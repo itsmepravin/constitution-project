@@ -17,31 +17,30 @@ import ScheduleSix from '@/src/components/Schedules/ScheduleSix';
 import ScheduleSeven from '@/src/components/Schedules/ScheduleSeven';
 import ScheduleEight from '@/src/components/Schedules/ScheduleEight';
 import ScheduleNine from '@/src/components/Schedules/ScheduleNine';
-import Preamble from '@/src/components/Preamble';
 
 import DevNote from '@/src/DevNote';
 
 import MySelect from '@/src/components/MySelect';
+import Preamble from '@/src/components/Preamble';
 
 import constitutionData from '../constitutionData.json';
 
 import Fuse from 'fuse.js';
 
 const Index = () => {
-  const [currentPart, setCurrentPart] = useState('Preamble');
+  const [currentPart, setCurrentPart] = useState<string>('Preamble');
 
-  const [searchText, setSearchText] = useState('');
+  const [searchText, setSearchText] = useState<string | null>('');
 
   const [filteredData, setFilteredData] = useState([]);
 
   useEffect(() => {
     const filtered = constitutionData.filter((element) =>
-      element.articleTitle.includes(searchText),
+      element.articleTitle.includes(searchText!),
     );
+    //@ts-ignore
     setFilteredData(filtered);
   }, [searchText]);
-
-  console.log(currentPart);
 
   const RenderInfo = () => {
     if (currentPart === 'Preamble') return <Preamble />;

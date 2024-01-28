@@ -7,8 +7,7 @@ export default function DevNote() {
     <Box sx={{ display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
       <InfoIcon sx={{ mb: 0.5, fontSize: '2.2rem' }} />
       <Typography
-        variant="p"
-        component="span"
+        component="p"
         color="text.secondary"
         align="center"
         sx={{ my: 2, py: 2, color: '#f9f9f9' }}
