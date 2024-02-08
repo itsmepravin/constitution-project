@@ -15,8 +15,8 @@ export default function DevNote() {
         <Typography component="span" sx={{ textDecoration: 'underline' }}>
           Dev Note:
         </Typography>{' '}
-        All the information are in sync with the Constitution. However, you should only use the
-        information here as an non-official reference instead of using it as an
+        All the information are in sync with the Constitution. However, the reader should only use
+        the information here as an non-official reference instead of using it as an
         replacement/alternative to the official{' '}
         <a
           style={{ color: '#f2f2f2' }}
@@ -24,7 +24,7 @@ export default function DevNote() {
         >
           Constitution{' '}
         </a>
-        , or when dealing with government officials, local, state and federal authorities.
+        , and/or when dealing with government officials, local, state and federal authorities.
       </Typography>
     </Box>
   );

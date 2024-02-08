@@ -21,7 +21,11 @@ const theme = createTheme({
     },
     MuiSelect: {
       styleOverrides: {
-        root: {
+        // root: {
+        //   color: '#4FC08D',
+        //   fontFamily: 'Arima Madurai, cursive',
+        // },
+        select: {
           color: '#4FC08D',
           fontFamily: 'Arima Madurai, cursive',
         },

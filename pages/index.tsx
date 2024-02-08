@@ -25,8 +25,6 @@ import Preamble from '@/src/components/Preamble';
 
 import constitutionData from '../constitutionData.json';
 
-import Fuse from 'fuse.js';
-
 const Index = () => {
   const [currentPart, setCurrentPart] = useState<string>('Preamble');
 

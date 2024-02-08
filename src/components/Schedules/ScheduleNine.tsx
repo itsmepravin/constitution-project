@@ -36,7 +36,7 @@ const ScheduleNine = () => {
             </TableRow>
           </TableHead>
           <TableBody>
-            {scheduleNineData.map((element) => (
+            {scheduleNineData!.map((element) => (
               <TableRow>
                 <TableCell>{element.number}</TableCell>
                 <TableCell>{element.matterDescription}</TableCell>
